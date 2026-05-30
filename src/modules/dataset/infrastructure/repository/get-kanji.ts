@@ -2,7 +2,7 @@ import type {
   JlptLevel,
   KanjiItem,
 } from "../../application/types/dataset.type.js";
-import { readJson } from "./read-json.js";
+import { readJson } from "../../../../common/utils/read-json.js";
 
 export async function getKanji(
   level: JlptLevel,

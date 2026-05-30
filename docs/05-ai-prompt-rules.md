@@ -1,6 +1,8 @@
 # AI Prompt Rules
 
-AI features are not implemented yet. This document defines boundaries for future explanation endpoints and generated learning content.
+This document defines boundaries for AI-assisted endpoints and generated learning content.
+
+Runtime prompts stay short in `src/modules/dataset/infrastructure/ai/ai-quiz-prompts.ts`. Meaning and compound answers are aligned to the dataset pool in `ai-quiz-response.ts`.
 
 ## Verification
 
@@ -26,7 +28,9 @@ Rules:
 
 ## Prompt Template Location
 
-Future prompt templates should live in `src/modules/ai/prompts` first.
+- Quiz prompts: `src/modules/dataset/infrastructure/ai/ai-quiz-prompts.ts`
+- Quiz AI response handling: `src/modules/dataset/infrastructure/ai/ai-quiz-response.ts`
+- Other AI prompt templates may live in `src/modules/ai/prompts` later.
 
 Extract prompt templates to `packages/` later only if multiple apps need to reuse them directly.
 

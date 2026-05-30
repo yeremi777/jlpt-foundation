@@ -23,7 +23,10 @@
   "dependencies": {
     "@fastify/swagger": "^9.7.0",
     "@fastify/swagger-ui": "^5.2.6",
-    "fastify": "^5.8.5"
+    "@openrouter/sdk": "^0.12.79",
+    "dotenv": "^17.4.2",
+    "fastify": "^5.8.5",
+    "openai": "^6.39.1"
   },
   "devDependencies": {
     "@rolldown/binding-darwin-arm64": "^1.0.3",

@@ -270,10 +270,11 @@ Rules:
 Recommended initial endpoints:
 
 ```txt
-GET /api/v1/health
+GET /health
 GET /api/v1/levels
 GET /api/v1/items
 GET /api/v1/items/:id
+GET /api/v1/quizzes/pool
 POST /api/v1/quizzes/generate
 POST /api/v1/quizzes/generate/stream
 GET /api/v1/practice/next
@@ -369,6 +370,8 @@ Rules:
   - `is_verified = false`
 - Never let AI overwrite verified dataset content.
 - Dataset-only quiz generation must not call AI.
+- Dataset-only quiz generation must be limited to safe meaning questions.
+- Kanji dataset-only questions must use single-kanji prompts only.
 - AI-assisted quiz generation must be explicitly requested.
 - AI-generated quiz questions, distractors, explanations, and feedback must be marked unverified.
 
@@ -387,7 +390,15 @@ Rules:
 - Do not persist randomized order into source data.
 - Keep quiz generation logic outside controllers.
 - Keep generated quiz responses compatible with web and mobile clients.
-- Allow AI-assisted generation only through an explicit option such as `generationMode: "ai-assisted"`.
+- Keep dataset-only quiz generation limited to safe meaning questions.
+- Accept `quizType` as an array of requested quiz types.
+- Always narrow dataset quiz generation to `["meaning"]`.
+- Keep each generated question tied to exactly one concrete `quizType`.
+- Allow AI-assisted generation only through `generationMode: "ai_generated"`.
+- Allow `AI_PROVIDER=mock` for local AI-flow testing without external quota.
+- Use the OpenAI SDK for AI-assisted generation when `AI_PROVIDER=openai`.
+- Use OpenRouter through the OpenAI-compatible chat completion API when `AI_PROVIDER=openrouter`.
+- Return `501` when AI generation is requested but no AI provider is configured.
 - Mark AI-generated quiz content with `is_ai_generated = true` and `is_verified = false`.
 
 ---

@@ -2,7 +2,7 @@
 
 Dataset-first backend foundation for a JLPT N5/N4/N3 learning platform.
 
-This repository starts with project structure, documentation, N5/N4/N3 reference parsing, kanji-first raw dataset tooling, and a read-only Fastify API. The database, ORM, authentication, and production app features are intentionally deferred.
+This repository starts with project structure, documentation, N5/N4/N3 reference parsing, kanji-first raw dataset tooling, and a JSON-backed Fastify API. The database, ORM, authentication, and production app features are intentionally deferred.
 
 ## Goals
 
@@ -108,7 +108,7 @@ data/normalized/n5/quiz-pool.json
 data/normalized/n5/raw-items.json
 ```
 
-## Read-Only API
+## API
 
 Run the local API:
 
@@ -119,12 +119,13 @@ pnpm dev
 Initial endpoints:
 
 ```text
-GET /api/v1/health
+GET /health
 GET /api/v1/levels
-GET /api/v1/kanji?level=n5
-GET /api/v1/kanji?level=n5&week=1&day=1
+GET /api/v1/kanji?level=n5&page=1&size=10
+GET /api/v1/kanji?level=n5&week=1&day=1&page=1&size=10
 GET /api/v1/kanji/:id
-GET /api/v1/quizzes/pool?level=n5&section=kanji
+GET /api/v1/quizzes/pool?level=n5&section=kanji&page=1&size=10
+POST /api/v1/quizzes/generate
 ```
 
 API documentation:
@@ -134,6 +135,45 @@ GET /api-docs
 GET /api-docs/json
 ```
 
-The API is read-only and JSON-backed. It does not use PostgreSQL, Drizzle, auth, or AI yet.
+AI quiz generation can run in mock mode without external API quota:
+
+```env
+AI_PROVIDER=mock
+```
+
+Use the OpenAI SDK later when API billing/quota is available:
+
+```env
+AI_PROVIDER=openai
+OPENAI_API_KEY=...
+OPENAI_MODEL=gpt-4.1-mini
+```
+
+OpenRouter is also supported through its OpenAI-compatible API:
+
+```env
+AI_PROVIDER=openrouter
+OPENROUTER_API_KEY=...
+OPENROUTER_MODEL=openrouter/free
+OPENROUTER_SERVER_URL=https://openrouter.ai/api/v1
+OPENROUTER_APP_TITLE=JLPT Foundation
+OPENROUTER_HTTP_REFERER=http://127.0.0.1:3000
+```
+
+The API is JSON-backed. It does not use PostgreSQL, Drizzle, or auth yet. Dataset quiz generation is non-streaming and limited to safe meaning questions. AI generation supports the `generationMode: "ai_generated"` contract for meaning, reading, and compound quiz types.
+
+Quiz generation accepts `quizType` as an array:
+
+```json
+{
+  "level": "n5",
+  "section": "kanji",
+  "count": 10,
+  "generationMode": "ai_generated",
+  "quizType": ["meaning", "reading", "compound"]
+}
+```
+
+For `generationMode: "dataset"`, the API always narrows `quizType` to `["meaning"]`.
 
 See `docs/01-dataset-rules.md` and `docs/02-markdown-format.md` for the intended dataset rules.

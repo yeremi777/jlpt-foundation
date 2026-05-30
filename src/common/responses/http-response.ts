@@ -2,6 +2,7 @@ export interface ApiSuccess<T> {
   readonly status: "success";
   readonly message: string;
   readonly data?: T;
+  readonly paginate?: unknown;
 }
 
 export interface ApiClientError {
@@ -16,6 +17,14 @@ export interface ApiServerError {
 
 export function ok<T>(message: string, data?: T): ApiSuccess<T> {
   return { status: "success", message, ...(data && { data }) };
+}
+
+export function okPaginated<T>(
+  message: string,
+  data: readonly T[],
+  paginate: unknown,
+): ApiSuccess<readonly T[]> {
+  return { status: "success", message, data, paginate };
 }
 
 export function clientError(message: string): ApiClientError {

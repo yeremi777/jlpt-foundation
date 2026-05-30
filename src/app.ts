@@ -3,8 +3,10 @@ import swagger from "@fastify/swagger";
 import swaggerUi from "@fastify/swagger-ui";
 import { LOG_LEVEL, NODE_ENV } from "./common/constant.js";
 import { AppError } from "./common/errors/app-error.js";
+import { hasClientStatusCode } from "./common/errors/http-error.js";
 import { clientError, serverError } from "./common/responses/http-response.js";
 import { swaggerOptions } from "./common/openapi.js";
+import { healthModule } from "./modules/health/health.module.js";
 import { apiRoutes } from "./routes.js";
 
 export async function buildApp(): Promise<FastifyInstance> {
@@ -26,6 +28,10 @@ export async function buildApp(): Promise<FastifyInstance> {
       return reply.status(error.statusCode).send(clientError(error.message));
     }
 
+    if (hasClientStatusCode(error)) {
+      return reply.status(error.statusCode).send(clientError(error.message));
+    }
+
     app.log.error(error);
     return reply.status(500).send(serverError());
   });
@@ -40,6 +46,7 @@ export async function buildApp(): Promise<FastifyInstance> {
     staticCSP: true,
   });
 
+  await app.register(healthModule);
   await app.register(apiRoutes, { prefix: "/api/v1" });
 
   return app;

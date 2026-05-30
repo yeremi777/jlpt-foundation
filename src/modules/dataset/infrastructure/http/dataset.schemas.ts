@@ -1,7 +1,7 @@
 import {
   clientErrorResponseSchema,
+  paginatedArrayResponseSchema,
   serverErrorResponseSchema,
-  successArrayResponseSchema,
   successResponseSchema,
 } from "../../../../common/responses/http-response.schema.js";
 
@@ -72,6 +72,100 @@ const quizPoolItemSchema = {
   required: ["id", "level", "section", "sourceItemId", "generationMode", "prompt", "answer"],
 } as const;
 
+const localizedQuizChoiceSchema = {
+  type: "object",
+  properties: {
+    key: { type: "string", enum: ["A", "B", "C", "D"] },
+    answer: localizedTextSchema,
+  },
+  required: ["key", "answer"],
+} as const;
+
+const readingQuizChoiceSchema = {
+  type: "object",
+  properties: {
+    key: { type: "string", enum: ["A", "B", "C", "D"] },
+    answer: { type: "string" },
+  },
+  required: ["key", "answer"],
+} as const;
+
+const generatedQuizQuestionBaseSchema = {
+  id: { type: "string" },
+  sourceItemId: { type: "string" },
+  section: { type: "string", enum: ["kanji", "vocab", "grammar"] },
+  prompt: { type: "string" },
+  answerKey: { type: "string", enum: ["A", "B", "C", "D"] },
+  generationMode: { type: "string", enum: ["dataset", "ai_generated"] },
+  isAiGenerated: { type: "boolean" },
+  isVerified: { type: "boolean" },
+} as const;
+
+const generatedQuizQuestionBaseRequired = [
+  "id",
+  "sourceItemId",
+  "section",
+  "prompt",
+  "choices",
+  "answerKey",
+  "answer",
+  "generationMode",
+  "quizType",
+  "isAiGenerated",
+  "isVerified",
+] as const;
+
+const localizedGeneratedQuizQuestionSchema = {
+  type: "object",
+  properties: {
+    ...generatedQuizQuestionBaseSchema,
+    quizType: { type: "string", enum: ["meaning", "compound"] },
+    choices: {
+      type: "array",
+      items: localizedQuizChoiceSchema,
+    },
+    answer: localizedTextSchema,
+  },
+  required: generatedQuizQuestionBaseRequired,
+} as const;
+
+const readingGeneratedQuizQuestionSchema = {
+  type: "object",
+  properties: {
+    ...generatedQuizQuestionBaseSchema,
+    quizType: { type: "string", enum: ["reading"] },
+    choices: {
+      type: "array",
+      items: readingQuizChoiceSchema,
+    },
+    answer: { type: "string" },
+  },
+  required: generatedQuizQuestionBaseRequired,
+} as const;
+
+const generatedQuizQuestionSchema = {
+  oneOf: [localizedGeneratedQuizQuestionSchema, readingGeneratedQuizQuestionSchema],
+} as const;
+
+const generatedQuizSchema = {
+  type: "object",
+  properties: {
+    id: { type: "string" },
+    level: levelSchema,
+    section: { type: "string", enum: ["kanji", "vocab", "grammar"] },
+    generationMode: { type: "string", enum: ["dataset", "ai_generated"] },
+    quizTypes: {
+      type: "array",
+      items: { type: "string", enum: ["meaning", "reading", "compound"] },
+    },
+    questions: {
+      type: "array",
+      items: generatedQuizQuestionSchema,
+    },
+  },
+  required: ["id", "level", "section", "generationMode", "quizTypes", "questions"],
+} as const;
+
 export const listLevelsRouteSchema = {
   tags: ["Dataset"],
   summary: "List supported JLPT levels",
@@ -97,10 +191,12 @@ export const listKanjiRouteSchema = {
       },
       week: { type: "string", description: "Positive curriculum week number." },
       day: { type: "string", description: "Positive curriculum day number." },
+      page: { type: "string", description: "Positive page number. Defaults to 1." },
+      size: { type: "string", description: "Positive page size. Defaults to 10, maximum 100." },
     },
   },
   response: {
-    200: successArrayResponseSchema(kanjiItemSchema),
+    200: paginatedArrayResponseSchema(kanjiItemSchema),
     400: clientErrorResponseSchema("Invalid request"),
     500: serverErrorResponseSchema(),
   },
@@ -139,11 +235,44 @@ export const listQuizPoolRouteSchema = {
         type: "string",
         description: "Optional section filter. Supported values: kanji, vocab, grammar.",
       },
+      page: { type: "string", description: "Positive page number. Defaults to 1." },
+      size: { type: "string", description: "Positive page size. Defaults to 10, maximum 100." },
     },
   },
   response: {
-    200: successArrayResponseSchema(quizPoolItemSchema),
+    200: paginatedArrayResponseSchema(quizPoolItemSchema),
     400: clientErrorResponseSchema("Invalid request"),
+    500: serverErrorResponseSchema(),
+  },
+} as const;
+
+export const generateQuizRouteSchema = {
+  tags: ["Quiz"],
+  summary: "Generate dataset-backed quiz",
+  description:
+    "Generates a randomized quiz. Dataset generation supports meaning quizzes only. AI generation is part of the contract now, but requires a configured AI provider before it can return quiz content.",
+  body: {
+    type: "object",
+    properties: {
+      level: levelSchema,
+      section: { type: "string", enum: ["kanji", "vocab", "grammar"] },
+      count: { type: "integer", minimum: 1, maximum: 50 },
+      generationMode: { type: "string", enum: ["dataset", "ai_generated"] },
+      quizType: {
+        type: "array",
+        items: { type: "string", enum: ["meaning", "reading", "compound"] },
+        minItems: 1,
+        uniqueItems: true,
+        description:
+          "Requested quiz types. Dataset generation narrows this to meaning only. AI generation may request meaning, reading, compound, or any combination.",
+      },
+    },
+    required: ["level", "section", "count"],
+  },
+  response: {
+    200: successResponseSchema(generatedQuizSchema),
+    400: clientErrorResponseSchema("Invalid request"),
+    501: serverErrorResponseSchema("AI quiz generation is not configured yet."),
     500: serverErrorResponseSchema(),
   },
 } as const;

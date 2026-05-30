@@ -20,3 +20,15 @@ export class NotFoundError extends AppError {
     super("NOT_FOUND", message, 404, details);
   }
 }
+
+export class NotImplementedError extends AppError {
+  constructor(message: string, details?: unknown) {
+    super("NOT_IMPLEMENTED", message, 501, details);
+  }
+}
+
+export class GatewayTimeoutError extends AppError {
+  constructor(message: string, details?: unknown) {
+    super("GATEWAY_TIMEOUT", message, 504, details);
+  }
+}

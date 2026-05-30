@@ -1,6 +1,6 @@
 # API Contract
 
-The current API is a read-only Fastify layer over normalized JSON files. Database-backed write APIs, authentication, progress persistence, and AI endpoints are deferred.
+The current API is a Fastify layer over normalized JSON files. Database-backed writes, authentication, progress persistence, and AI endpoints are deferred.
 
 ## Future Stack
 
@@ -20,15 +20,16 @@ The current API is a read-only Fastify layer over normalized JSON files. Databas
 - Reference artifacts should be parsed into normalized data before being served by API endpoints.
 - OpenAPI documentation should be generated from Fastify route schemas with `@fastify/swagger`.
 
-## Current Read-Only API
+## Current API
 
 ```txt
-GET /api/v1/health
+GET /health
 GET /api/v1/levels
-GET /api/v1/kanji?level=n5
-GET /api/v1/kanji?level=n5&week=1&day=1
+GET /api/v1/kanji?level=n5&page=1&size=10
+GET /api/v1/kanji?level=n5&week=1&day=1&page=1&size=10
 GET /api/v1/kanji/:id
-GET /api/v1/quizzes/pool?level=n5&section=kanji
+GET /api/v1/quizzes/pool?level=n5&section=kanji&page=1&size=10
+POST /api/v1/quizzes/generate
 ```
 
 Swagger/OpenAPI documentation:
@@ -44,9 +45,17 @@ Current endpoint behavior:
 - Support N5, N4, and N3.
 - Keep route handlers thin and delegate parsing/business rules to services.
 - Keep 2xx responses wrapped in `{ status, message, data }`.
+- Keep paginated list responses wrapped in `{ status, message, data, paginate }`.
 - Keep handled 4xx responses wrapped in `{ status, message }`.
 - Keep 5xx responses wrapped in `{ status, error }`.
-- Do not add PostgreSQL, Drizzle, auth, or AI generation to the read-only foundation yet.
+- Do not add PostgreSQL, Drizzle, or auth to the JSON-backed foundation yet.
+- Dataset quiz generation should be non-streaming. Reserve SSE for future AI-assisted generation.
+- Dataset-only quiz generation should use safe meaning questions only. For kanji, this means single-kanji prompts only.
+- Allow `AI_PROVIDER=mock` for local AI-flow testing without external quota.
+- Use the OpenAI SDK for `generationMode: "ai_generated"` when `AI_PROVIDER=openai`.
+- Use OpenRouter through the OpenAI-compatible chat completion API when `AI_PROVIDER=openrouter`.
+- Return `501` when AI generation is requested but no AI provider is configured.
+- Reading and compound-style quiz generation should use the explicit AI-assisted mode.
 
 ## Future Resource Shape
 
@@ -77,7 +86,6 @@ Quiz generation should fetch from the normalized dataset first.
 Recommended future endpoints:
 
 ```txt
-POST /api/v1/quizzes/generate
 POST /api/v1/quizzes/generate/stream
 POST /api/v1/quizzes/:quizId/answers
 GET /api/v1/quizzes/:quizId/summary
@@ -92,7 +100,12 @@ Quiz generation rules:
 - Randomize answer order at request time.
 - Do not persist random ordering into the source dataset.
 - Allow dataset-only generation by default.
-- Allow AI-assisted generation only when explicitly requested.
+- Limit dataset-only generation to safe meaning questions.
+- Allow AI-assisted generation only when explicitly requested with `generationMode: "ai_generated"`.
+- Accept `quizType` as an array of requested quiz types.
+- For dataset generation, always narrow requested quiz types to `["meaning"]`.
+- For AI generation, use the requested quiz types and reject AI output that returns an unrequested type.
+- Return `501` when AI generation is requested before an AI provider is configured.
 - Mark AI-generated quiz content with `is_ai_generated = true` and `is_verified = false`.
 - Keep generated quiz output compatible with web and mobile clients.
 

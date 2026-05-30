@@ -2,7 +2,7 @@ import type {
   JlptLevel,
   QuizPoolItem,
 } from "../../application/types/dataset.type.js";
-import { readJson } from "./read-json.js";
+import { readJson } from "../../../../common/utils/read-json.js";
 
 export async function getQuizPool(
   level: JlptLevel,

@@ -4,7 +4,7 @@ import { buildApp } from "../src/app.js";
 describe("read-only API", () => {
   it("returns health status", async () => {
     const app = await buildApp();
-    const response = await app.inject({ method: "GET", url: "/api/v1/health" });
+    const response = await app.inject({ method: "GET", url: "/health" });
 
     expect(response.statusCode).toBe(200);
     expect(response.json()).toEqual({
@@ -39,6 +39,7 @@ describe("read-only API", () => {
     });
     expect(body.paths).toHaveProperty("/api/v1/kanji");
     expect(body.paths).toHaveProperty("/api/v1/quizzes/pool");
+    expect(body.paths).toHaveProperty("/api/v1/quizzes/generate");
   });
 
   it("serves Swagger UI", async () => {
@@ -56,7 +57,15 @@ describe("read-only API", () => {
     const body = response.json();
 
     expect(response.statusCode).toBe(200);
-    expect(body.data).toHaveLength(16);
+    expect(body.data).toHaveLength(10);
+    expect(body.paginate).toEqual({
+      currentPage: 1,
+      lastPage: 2,
+      size: 10,
+      from: 1,
+      to: 10,
+      total: 16,
+    });
     expect(body.data[0]).toMatchObject({
       id: "n5-kanji-u5148",
       level: "n5",
@@ -96,11 +105,138 @@ describe("read-only API", () => {
     const body = response.json();
 
     expect(response.statusCode).toBe(200);
-    expect(body.data).toHaveLength(423);
+    expect(body.data).toHaveLength(10);
+    expect(body.paginate).toEqual({
+      currentPage: 1,
+      lastPage: 43,
+      size: 10,
+      from: 1,
+      to: 10,
+      total: 423,
+    });
     expect(body.data[0]).toMatchObject({
       level: "n5",
       section: "kanji",
       generationMode: "dataset",
+    });
+  });
+
+  it("supports pagination for quiz pool items", async () => {
+    const app = await buildApp();
+    const response = await app.inject({
+      method: "GET",
+      url: "/api/v1/quizzes/pool?level=n5&section=kanji&page=2&size=10",
+    });
+    const body = response.json();
+
+    expect(response.statusCode).toBe(200);
+    expect(body.data).toHaveLength(10);
+    expect(body.paginate).toEqual({
+      currentPage: 2,
+      lastPage: 43,
+      size: 10,
+      from: 11,
+      to: 20,
+      total: 423,
+    });
+  });
+
+  it("generates a dataset-backed quiz", async () => {
+    const app = await buildApp();
+    const response = await app.inject({
+      method: "POST",
+      url: "/api/v1/quizzes/generate",
+      payload: {
+        level: "n5",
+        section: "kanji",
+        count: 5,
+        generationMode: "dataset",
+        quizType: ["meaning"],
+      },
+    });
+    const body = response.json();
+
+    expect(response.statusCode).toBe(200);
+    expect(body.data).toMatchObject({
+      level: "n5",
+      section: "kanji",
+      generationMode: "dataset",
+      quizTypes: ["meaning"],
+    });
+    expect(body.data.questions).toHaveLength(5);
+    expect(body.data.questions[0]).toMatchObject({
+      section: "kanji",
+      generationMode: "dataset",
+      quizType: "meaning",
+      isAiGenerated: false,
+      isVerified: true,
+    });
+    expect(
+      body.data.questions.every((question: { prompt: string }) => Array.from(question.prompt).length === 1),
+    ).toBe(true);
+    expect(body.data.questions[0].choices.length).toBeGreaterThanOrEqual(2);
+  });
+
+  it("narrows dataset quiz generation to meaning questions", async () => {
+    const app = await buildApp();
+    const response = await app.inject({
+      method: "POST",
+      url: "/api/v1/quizzes/generate",
+      payload: {
+        level: "n5",
+        section: "kanji",
+        count: 5,
+        generationMode: "dataset",
+        quizType: ["meaning", "reading", "compound"],
+      },
+    });
+    const body = response.json();
+
+    expect(response.statusCode).toBe(200);
+    expect(body.data).toMatchObject({
+      generationMode: "dataset",
+      quizTypes: ["meaning"],
+    });
+    expect(
+      body.data.questions.every((question: { quizType: string }) => question.quizType === "meaning"),
+    ).toBe(true);
+  });
+
+  it("accepts AI quiz generation contract but requires provider configuration", async () => {
+    const app = await buildApp();
+    const response = await app.inject({
+      method: "POST",
+      url: "/api/v1/quizzes/generate",
+      payload: {
+        level: "n5",
+        section: "kanji",
+        count: 5,
+        generationMode: "ai_generated",
+        quizType: ["reading"],
+      },
+    });
+
+    expect(response.statusCode).toBe(501);
+    expect(response.json()).toEqual({
+      status: "error",
+      error: "AI quiz generation is not configured yet.",
+    });
+  });
+
+  it("returns failed response shape for schema validation errors", async () => {
+    const app = await buildApp();
+    const response = await app.inject({
+      method: "POST",
+      url: "/api/v1/quizzes/generate",
+      payload: {
+        level: "n5",
+        section: "kanji",
+      },
+    });
+
+    expect(response.statusCode).toBe(400);
+    expect(response.json()).toMatchObject({
+      status: "failed",
     });
   });
 
