@@ -82,8 +82,6 @@ export class OpenRouterQuizGenerator implements AiQuizGenerator {
       throw mapOpenRouterQuizError(error);
     }
 
-    console.log("OpenRouter response:", response.choices[0]?.message);
-
     const content = response.choices[0]?.message.content;
 
     if (!content) {
