@@ -1,0 +1,4077 @@
+[
+  {
+    "id": "n5-kanji-u4e00",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "one",
+      "id": "satu"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 89
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-089-u4e00.md",
+    "body": "## 一\n\n**音:** イチ、イツ\n\n**訓:** ひと、ひとつ\n\n**EN:** one\n\n**ID:** satu\n\n**Examples:**\n\n- 一\n- 一つ\n- 一日\n- 一月\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "一",
+    "onyomi": [
+      "イチ",
+      "イツ"
+    ],
+    "kunyomi": [
+      "ひと",
+      "ひとつ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4e03",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "seven",
+      "id": "tujuh"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 95
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-095-u4e03.md",
+    "body": "## 七\n\n**音:** シチ\n\n**訓:** なな、ななつ\n\n**EN:** seven\n\n**ID:** tujuh\n\n**Examples:**\n\n- 七\n- 七つ\n- 七日\n- 七月\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "七",
+    "onyomi": [
+      "シチ"
+    ],
+    "kunyomi": [
+      "なな",
+      "ななつ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4e07",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "ten thousand",
+      "id": "sepuluh ribu"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 101
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-101-u4e07.md",
+    "body": "## 万\n\n**音:** マン、バン\n\n**訓:** よろず\n\n**EN:** ten thousand\n\n**ID:** sepuluh ribu\n\n**Examples:**\n\n- 一万\n- 十万\n- 百万円\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "万",
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "kunyomi": [
+      "よろず"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4e09",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "three",
+      "id": "tiga"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 91
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-091-u4e09.md",
+    "body": "## 三\n\n**音:** サン\n\n**訓:** み、みっつ\n\n**EN:** three\n\n**ID:** tiga\n\n**Examples:**\n\n- 三\n- 三つ\n- 三日\n- 三月\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "三",
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "み",
+      "みっつ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4e0a",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "up, above, raise",
+      "id": "atas, naik, menaikkan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-4"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 52
+    },
+    "filePath": "data/raw/n5/kanji/w1-d4-052-u4e0a.md",
+    "body": "## 上\n\n**音:** ジョウ、ショウ\n\n**訓:** うえ、うわ、あがる、あげる\n\n**EN:** up, above, raise\n\n**ID:** atas, naik, menaikkan\n\n**Examples:**\n\n- 上\n- 上手な\n- 上着\n\n**Source:** Soumatome N5 Kanji Week 1 Day 4 — どこですか。 (Places and Directions)",
+    "character": "上",
+    "onyomi": [
+      "ジョウ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "うえ",
+      "うわ",
+      "あがる",
+      "あげる"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4e0b",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "down, below, lower",
+      "id": "bawah, turun, menurunkan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-4"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 53
+    },
+    "filePath": "data/raw/n5/kanji/w1-d4-053-u4e0b.md",
+    "body": "## 下\n\n**音:** カ、ゲ\n\n**訓:** した、しも、さがる、さげる\n\n**EN:** down, below, lower\n\n**ID:** bawah, turun, menurunkan\n\n**Examples:**\n\n- 下\n- 下手な\n- 地下鉄\n\n**Source:** Soumatome N5 Kanji Week 1 Day 4 — どこですか。 (Places and Directions)",
+    "character": "下",
+    "onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "した",
+      "しも",
+      "さがる",
+      "さげる"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4e2d",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "inside, middle, during",
+      "id": "dalam, tengah, selama"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 42
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-042-u4e2d.md",
+    "body": "## 中\n\n**音:** チュウ、ジュウ\n\n**訓:** なか\n\n**EN:** inside, middle, during\n\n**ID:** dalam, tengah, selama\n\n**Examples:**\n\n- 中学校\n- 一日中\n- 中\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "中",
+    "onyomi": [
+      "チュウ",
+      "ジュウ"
+    ],
+    "kunyomi": [
+      "なか"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4e5d",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "nine",
+      "id": "sembilan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 97
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-097-u4e5d.md",
+    "body": "## 九\n\n**音:** キュウ、ク\n\n**訓:** ここの、ここのつ\n\n**EN:** nine\n\n**ID:** sembilan\n\n**Examples:**\n\n- 九\n- 九つ\n- 九日\n- 九月\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "九",
+    "onyomi": [
+      "キュウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "ここの",
+      "ここのつ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4e8c",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "two",
+      "id": "dua"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 90
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-090-u4e8c.md",
+    "body": "## 二\n\n**音:** ニ\n\n**訓:** ふた、ふたつ\n\n**EN:** two\n\n**ID:** dua\n\n**Examples:**\n\n- 二\n- 二つ\n- 二日\n- 二月\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "二",
+    "onyomi": [
+      "ニ"
+    ],
+    "kunyomi": [
+      "ふた",
+      "ふたつ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4e94",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "five",
+      "id": "lima"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 93
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-093-u4e94.md",
+    "body": "## 五\n\n**音:** ゴ\n\n**訓:** いつ、いつつ\n\n**EN:** five\n\n**ID:** lima\n\n**Examples:**\n\n- 五\n- 五つ\n- 五日\n- 五月\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "五",
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "いつ",
+      "いつつ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4eba",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "person, people",
+      "id": "orang, manusia"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 4
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-004-u4eba.md",
+    "body": "## 人\n\n**音:** ジン、ニン\n\n**訓:** ひと\n\n**EN:** person, people\n\n**ID:** orang, manusia\n\n**Examples:**\n\n- 日本人\n- 外国人\n- 一人\n- 二人\n- 大人\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "人",
+    "onyomi": [
+      "ジン",
+      "ニン"
+    ],
+    "kunyomi": [
+      "ひと"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4eca",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "now, this ~",
+      "id": "sekarang, ~ ini"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-2"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 25
+    },
+    "filePath": "data/raw/n5/kanji/w1-d2-025-u4eca.md",
+    "body": "## 今\n\n**音:** コン、キン\n\n**訓:** いま\n\n**EN:** now, this ~\n\n**ID:** sekarang, ~ ini\n\n**Examples:**\n\n- 今月\n- 今週\n- 今\n- 今日\n- 今年\n- 今朝\n\n**Source:** Soumatome N5 Kanji Week 1 Day 2 — それは何ですか。 (Time Expressions)",
+    "character": "今",
+    "onyomi": [
+      "コン",
+      "キン"
+    ],
+    "kunyomi": [
+      "いま"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4f11",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "rest, day off",
+      "id": "istirahat, hari libur"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 57
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-057-u4f11.md",
+    "body": "## 休\n\n**音:** キュウ\n\n**訓:** やすむ、やすみ\n\n**EN:** rest, day off\n\n**ID:** istirahat, hari libur\n\n**Examples:**\n\n- 休む\n- 昼休み\n- 休み\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "休",
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "やすむ",
+      "やすみ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4f1a",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "meet, meeting, association",
+      "id": "bertemu, pertemuan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 68
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-068-u4f1a.md",
+    "body": "## 会\n\n**音:** カイ、エ\n\n**訓:** あう\n\n**EN:** meet, meeting, association\n\n**ID:** bertemu, pertemuan\n\n**Examples:**\n\n- 会社\n- 会う\n- 会話\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "会",
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "kunyomi": [
+      "あう"
+    ]
+  },
+  {
+    "id": "n5-kanji-u4f55",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "what",
+      "id": "apa"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-2"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 17
+    },
+    "filePath": "data/raw/n5/kanji/w1-d2-017-u4f55.md",
+    "body": "## 何\n\n**音:** カ\n\n**訓:** なに、なん\n\n**EN:** what\n\n**ID:** apa\n\n**Examples:**\n\n- 何\n- 何時\n- 何時間\n- 何語\n\n**Source:** Soumatome N5 Kanji Week 1 Day 2 — それは何ですか。 (Time Expressions)",
+    "character": "何",
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "なに",
+      "なん"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5148",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "previous, ahead, before",
+      "id": "sebelumnya, depan, lebih dulu"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 1
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-001-u5148.md",
+    "body": "## 先\n\n**音:** セン\n\n**訓:** さき\n\n**EN:** previous, ahead, before\n\n**ID:** sebelumnya, depan, lebih dulu\n\n**Examples:**\n\n- 先生\n- 先月\n- 先に\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "先",
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "さき"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5165",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "enter, put in",
+      "id": "masuk, memasukkan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-4"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 47
+    },
+    "filePath": "data/raw/n5/kanji/w1-d4-047-u5165.md",
+    "body": "## 入\n\n**音:** ニュウ\n\n**訓:** はいる、いれる\n\n**EN:** enter, put in\n\n**ID:** masuk, memasukkan\n\n**Examples:**\n\n- 入る\n- 入口\n- 入れる\n\n**Source:** Soumatome N5 Kanji Week 1 Day 4 — どこですか。 (Places and Directions)",
+    "character": "入",
+    "onyomi": [
+      "ニュウ"
+    ],
+    "kunyomi": [
+      "はいる",
+      "いれる"
+    ]
+  },
+  {
+    "id": "n5-kanji-u516b",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "eight",
+      "id": "delapan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 96
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-096-u516b.md",
+    "body": "## 八\n\n**音:** ハチ\n\n**訓:** や、やっつ\n\n**EN:** eight\n\n**ID:** delapan\n\n**Examples:**\n\n- 八\n- 八つ\n- 八日\n- 八月\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "八",
+    "onyomi": [
+      "ハチ"
+    ],
+    "kunyomi": [
+      "や",
+      "やっつ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u516d",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "six",
+      "id": "enam"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 94
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-094-u516d.md",
+    "body": "## 六\n\n**音:** ロク\n\n**訓:** む、むっつ\n\n**EN:** six\n\n**ID:** enam\n\n**Examples:**\n\n- 六\n- 六つ\n- 六日\n- 六月\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "六",
+    "onyomi": [
+      "ロク"
+    ],
+    "kunyomi": [
+      "む",
+      "むっつ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5186",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "circle, yen",
+      "id": "lingkaran, yen"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 39
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-039-u5186.md",
+    "body": "## 円\n\n**音:** エン\n\n**訓:** まるい\n\n**EN:** circle, yen\n\n**ID:** lingkaran, yen\n\n**Examples:**\n\n- 円\n- 百円\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "円",
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "まるい"
+    ]
+  },
+  {
+    "id": "n5-kanji-u51fa",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "go out, put out, leave",
+      "id": "keluar, mengeluarkan, berangkat"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-4"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 46
+    },
+    "filePath": "data/raw/n5/kanji/w1-d4-046-u51fa.md",
+    "body": "## 出\n\n**音:** シュツ、スイ\n\n**訓:** でる、だす\n\n**EN:** go out, put out, leave\n\n**ID:** keluar, mengeluarkan, berangkat\n\n**Examples:**\n\n- 出る\n- 出す\n- 出かける\n- 出口\n\n**Source:** Soumatome N5 Kanji Week 1 Day 4 — どこですか。 (Places and Directions)",
+    "character": "出",
+    "onyomi": [
+      "シュツ",
+      "スイ"
+    ],
+    "kunyomi": [
+      "でる",
+      "だす"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5206",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "minute, part, understand/divide",
+      "id": "menit, bagian, mengerti/membagi"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-2"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 19
+    },
+    "filePath": "data/raw/n5/kanji/w1-d2-019-u5206.md",
+    "body": "## 分\n\n**音:** フン、ブン、ブ\n\n**訓:** わける、わかる\n\n**EN:** minute, part, understand/divide\n\n**ID:** menit, bagian, mengerti/membagi\n\n**Examples:**\n\n- 五分\n- 三十分\n- 半分\n\n**Source:** Soumatome N5 Kanji Week 1 Day 2 — それは何ですか。 (Time Expressions)",
+    "character": "分",
+    "onyomi": [
+      "フン",
+      "ブン",
+      "ブ"
+    ],
+    "kunyomi": [
+      "わける",
+      "わかる"
+    ]
+  },
+  {
+    "id": "n5-kanji-u524d",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "before, front",
+      "id": "sebelum, depan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-2"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 23
+    },
+    "filePath": "data/raw/n5/kanji/w1-d2-023-u524d.md",
+    "body": "## 前\n\n**音:** ゼン\n\n**訓:** まえ\n\n**EN:** before, front\n\n**ID:** sebelum, depan\n\n**Examples:**\n\n- 午前\n- 前\n- 名前\n\n**Source:** Soumatome N5 Kanji Week 1 Day 2 — それは何ですか。 (Time Expressions)",
+    "character": "前",
+    "onyomi": [
+      "ゼン"
+    ],
+    "kunyomi": [
+      "まえ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u529b",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "power, strength",
+      "id": "kekuatan, tenaga"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 79
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-079-u529b.md",
+    "body": "## 力\n\n**音:** リョク、リキ\n\n**訓:** ちから\n\n**EN:** power, strength\n\n**ID:** kekuatan, tenaga\n\n**Examples:**\n\n- 力\n- 力持ち\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "力",
+    "onyomi": [
+      "リョク",
+      "リキ"
+    ],
+    "kunyomi": [
+      "ちから"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5317",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "north",
+      "id": "utara"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-4"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 51
+    },
+    "filePath": "data/raw/n5/kanji/w1-d4-051-u5317.md",
+    "body": "## 北\n\n**音:** ホク\n\n**訓:** きた\n\n**EN:** north\n\n**ID:** utara\n\n**Examples:**\n\n- 北海道\n- 北\n- 北口\n\n**Source:** Soumatome N5 Kanji Week 1 Day 4 — どこですか。 (Places and Directions)",
+    "character": "北",
+    "onyomi": [
+      "ホク"
+    ],
+    "kunyomi": [
+      "きた"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5341",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "ten",
+      "id": "sepuluh"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 98
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-098-u5341.md",
+    "body": "## 十\n\n**音:** ジュウ、ジッ\n\n**訓:** とお、と\n\n**EN:** ten\n\n**ID:** sepuluh\n\n**Examples:**\n\n- 十\n- 十日\n- 十月\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "十",
+    "onyomi": [
+      "ジュウ",
+      "ジッ"
+    ],
+    "kunyomi": [
+      "とお",
+      "と"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5343",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "thousand",
+      "id": "seribu"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 100
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-100-u5343.md",
+    "body": "## 千\n\n**音:** セン\n\n**訓:** ち\n\n**EN:** thousand\n\n**ID:** seribu\n\n**Examples:**\n\n- 千\n- 二千\n- 三千\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "千",
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "ち"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5348",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "noon",
+      "id": "tengah hari"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-2"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 22
+    },
+    "filePath": "data/raw/n5/kanji/w1-d2-022-u5348.md",
+    "body": "## 午\n\n**音:** ゴ\n\n**訓:** -\n\n**EN:** noon\n\n**ID:** tengah hari\n\n**Examples:**\n\n- 午前\n- 午後\n\n**Source:** Soumatome N5 Kanji Week 1 Day 2 — それは何ですか。 (Time Expressions)",
+    "character": "午",
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": []
+  },
+  {
+    "id": "n5-kanji-u534a",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "half",
+      "id": "setengah"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-2"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 21
+    },
+    "filePath": "data/raw/n5/kanji/w1-d2-021-u534a.md",
+    "body": "## 半\n\n**音:** ハン\n\n**訓:** なかば\n\n**EN:** half\n\n**ID:** setengah\n\n**Examples:**\n\n- 七時半\n- 一時間半\n- 半分\n\n**Source:** Soumatome N5 Kanji Week 1 Day 2 — それは何ですか。 (Time Expressions)",
+    "character": "半",
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "なかば"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5357",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "south",
+      "id": "selatan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-4"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 50
+    },
+    "filePath": "data/raw/n5/kanji/w1-d4-050-u5357.md",
+    "body": "## 南\n\n**音:** ナン\n\n**訓:** みなみ\n\n**EN:** south\n\n**ID:** selatan\n\n**Examples:**\n\n- 南\n- 南口\n\n**Source:** Soumatome N5 Kanji Week 1 Day 4 — どこですか。 (Places and Directions)",
+    "character": "南",
+    "onyomi": [
+      "ナン"
+    ],
+    "kunyomi": [
+      "みなみ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u53cb",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "friend",
+      "id": "teman"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 9
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-009-u53cb.md",
+    "body": "## 友\n\n**音:** ユウ\n\n**訓:** とも\n\n**EN:** friend\n\n**ID:** teman\n\n**Examples:**\n\n- 友だち\n- 友人\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "友",
+    "onyomi": [
+      "ユウ"
+    ],
+    "kunyomi": [
+      "とも"
+    ]
+  },
+  {
+    "id": "n5-kanji-u53e3",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "mouth, entrance, exit",
+      "id": "mulut, pintu masuk/keluar"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-4"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 45
+    },
+    "filePath": "data/raw/n5/kanji/w1-d4-045-u53e3.md",
+    "body": "## 口\n\n**音:** コウ、ク\n\n**訓:** くち\n\n**EN:** mouth, entrance, exit\n\n**ID:** mulut, pintu masuk/keluar\n\n**Examples:**\n\n- 口\n- 入口\n- 出口\n- 東口\n\n**Source:** Soumatome N5 Kanji Week 1 Day 4 — どこですか。 (Places and Directions)",
+    "character": "口",
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "くち"
+    ]
+  },
+  {
+    "id": "n5-kanji-u53e4",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "old",
+      "id": "lama, tua"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 36
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-036-u53e4.md",
+    "body": "## 古\n\n**音:** コ\n\n**訓:** ふるい\n\n**EN:** old\n\n**ID:** lama, tua\n\n**Examples:**\n\n- 古い\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "古",
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "ふるい"
+    ]
+  },
+  {
+    "id": "n5-kanji-u53f3",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "right",
+      "id": "kanan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-4"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 55
+    },
+    "filePath": "data/raw/n5/kanji/w1-d4-055-u53f3.md",
+    "body": "## 右\n\n**音:** ウ、ユウ\n\n**訓:** みぎ\n\n**EN:** right\n\n**ID:** kanan\n\n**Examples:**\n\n- 右\n- 右手\n\n**Source:** Soumatome N5 Kanji Week 1 Day 4 — どこですか。 (Places and Directions)",
+    "character": "右",
+    "onyomi": [
+      "ウ",
+      "ユウ"
+    ],
+    "kunyomi": [
+      "みぎ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u540d",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "name, famous",
+      "id": "nama, terkenal"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 12
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-012-u540d.md",
+    "body": "## 名\n\n**音:** メイ、ミョウ\n\n**訓:** な\n\n**EN:** name, famous\n\n**ID:** nama, terkenal\n\n**Examples:**\n\n- 名前\n- 有名な\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "名",
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kunyomi": [
+      "な"
+    ]
+  },
+  {
+    "id": "n5-kanji-u56db",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "four",
+      "id": "empat"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 92
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-092-u56db.md",
+    "body": "## 四\n\n**音:** シ\n\n**訓:** よ、よん、よっつ\n\n**EN:** four\n\n**ID:** empat\n\n**Examples:**\n\n- 四\n- 四つ\n- 四日\n- 四月\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "四",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "よ",
+      "よん",
+      "よっつ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u56fd",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "country, nation",
+      "id": "negara, bangsa"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 5
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-005-u56fd.md",
+    "body": "## 国\n\n**音:** コク\n\n**訓:** くに\n\n**EN:** country, nation\n\n**ID:** negara, bangsa\n\n**Examples:**\n\n- 外国\n- 国\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "国",
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "くに"
+    ]
+  },
+  {
+    "id": "n5-kanji-u571f",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "soil, earth, Saturday",
+      "id": "tanah, Sabtu"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 108
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-108-u571f.md",
+    "body": "## 土\n\n**音:** ド、ト\n\n**訓:** つち\n\n**EN:** soil, earth, Saturday\n\n**ID:** tanah, Sabtu\n\n**Examples:**\n\n- 土\n- 土曜日\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "土",
+    "onyomi": [
+      "ド",
+      "ト"
+    ],
+    "kunyomi": [
+      "つち"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5916",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "outside, foreign",
+      "id": "luar, asing"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-4"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 56
+    },
+    "filePath": "data/raw/n5/kanji/w1-d4-056-u5916.md",
+    "body": "## 外\n\n**音:** ガイ、ゲ\n\n**訓:** そと、はずれる\n\n**EN:** outside, foreign\n\n**ID:** luar, asing\n\n**Examples:**\n\n- 外\n- 外国\n- 外国人\n\n**Source:** Soumatome N5 Kanji Week 1 Day 4 — どこですか。 (Places and Directions)",
+    "character": "外",
+    "onyomi": [
+      "ガイ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "そと",
+      "はずれる"
+    ]
+  },
+  {
+    "id": "n5-kanji-u591a",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "many, much",
+      "id": "banyak"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 30
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-030-u591a.md",
+    "body": "## 多\n\n**音:** タ\n\n**訓:** おおい\n\n**EN:** many, much\n\n**ID:** banyak\n\n**Examples:**\n\n- 多い\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "多",
+    "onyomi": [
+      "タ"
+    ],
+    "kunyomi": [
+      "おおい"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5927",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "big, large, great",
+      "id": "besar, agung"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 32
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-032-u5927.md",
+    "body": "## 大\n\n**音:** ダイ、タイ\n\n**訓:** おおきい、おおいに\n\n**EN:** big, large, great\n\n**ID:** besar, agung\n\n**Examples:**\n\n- 大学\n- 大人\n- 大変な\n- 大切な\n- 大きい\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "大",
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "おおきい",
+      "おおいに"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5929",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "heaven, sky",
+      "id": "langit, surga"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 73
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-073-u5929.md",
+    "body": "## 天\n\n**音:** テン\n\n**訓:** あま、あめ\n\n**EN:** heaven, sky\n\n**ID:** langit, surga\n\n**Examples:**\n\n- 天気\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "天",
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "あま",
+      "あめ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5973",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "woman, female",
+      "id": "perempuan, wanita"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 7
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-007-u5973.md",
+    "body": "## 女\n\n**音:** ジョ、ニョ\n\n**訓:** おんな\n\n**EN:** woman, female\n\n**ID:** perempuan, wanita\n\n**Examples:**\n\n- 女の人\n- 女の子\n- 彼女\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "女",
+    "onyomi": [
+      "ジョ",
+      "ニョ"
+    ],
+    "kunyomi": [
+      "おんな"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5b50",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "child",
+      "id": "anak"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 8
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-008-u5b50.md",
+    "body": "## 子\n\n**音:** シ、ス\n\n**訓:** こ\n\n**EN:** child\n\n**ID:** anak\n\n**Examples:**\n\n- 子ども\n- 男の子\n- 女の子\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "子",
+    "onyomi": [
+      "シ",
+      "ス"
+    ],
+    "kunyomi": [
+      "こ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5b66",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "study, learning, school",
+      "id": "belajar, pembelajaran, sekolah"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 3
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-003-u5b66.md",
+    "body": "## 学\n\n**音:** ガク\n\n**訓:** まなぶ\n\n**EN:** study, learning, school\n\n**ID:** belajar, pembelajaran, sekolah\n\n**Examples:**\n\n- 学生\n- 学校\n- 大学\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "学",
+    "onyomi": [
+      "ガク"
+    ],
+    "kunyomi": [
+      "まなぶ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5b89",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "cheap, safe, peaceful",
+      "id": "murah, aman, tenang"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 33
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-033-u5b89.md",
+    "body": "## 安\n\n**音:** アン\n\n**訓:** やすい\n\n**EN:** cheap, safe, peaceful\n\n**ID:** murah, aman, tenang\n\n**Examples:**\n\n- 安い\n- 安全な\n- 安心する\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "安",
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "やすい"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5c0f",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "small",
+      "id": "kecil"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 31
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-031-u5c0f.md",
+    "body": "## 小\n\n**音:** ショウ\n\n**訓:** ちいさい、こ、お\n\n**EN:** small\n\n**ID:** kecil\n\n**Examples:**\n\n- 小学校\n- 小さい\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "小",
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "ちいさい",
+      "こ",
+      "お"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5c11",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "little, few",
+      "id": "sedikit"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 29
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-029-u5c11.md",
+    "body": "## 少\n\n**音:** ショウ\n\n**訓:** すこし、すくない\n\n**EN:** little, few\n\n**ID:** sedikit\n\n**Examples:**\n\n- 少し\n- 少ない\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "少",
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "すこし",
+      "すくない"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5c71",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "mountain",
+      "id": "gunung"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 14
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-014-u5c71.md",
+    "body": "## 山\n\n**音:** サン\n\n**訓:** やま\n\n**EN:** mountain\n\n**ID:** gunung\n\n**Examples:**\n\n- 山\n- 富士山\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "山",
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "やま"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5ddd",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "river",
+      "id": "sungai"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 80
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-080-u5ddd.md",
+    "body": "## 川\n\n**音:** セン\n\n**訓:** かわ\n\n**EN:** river\n\n**ID:** sungai\n\n**Examples:**\n\n- 川\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "川",
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "かわ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5de6",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "left",
+      "id": "kiri"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-4"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 54
+    },
+    "filePath": "data/raw/n5/kanji/w1-d4-054-u5de6.md",
+    "body": "## 左\n\n**音:** サ\n\n**訓:** ひだり\n\n**EN:** left\n\n**ID:** kiri\n\n**Examples:**\n\n- 左\n- 左手\n\n**Source:** Soumatome N5 Kanji Week 1 Day 4 — どこですか。 (Places and Directions)",
+    "character": "左",
+    "onyomi": [
+      "サ"
+    ],
+    "kunyomi": [
+      "ひだり"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5e74",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "year",
+      "id": "tahun"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-2"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 27
+    },
+    "filePath": "data/raw/n5/kanji/w1-d2-027-u5e74.md",
+    "body": "## 年\n\n**音:** ネン\n\n**訓:** とし\n\n**EN:** year\n\n**ID:** tahun\n\n**Examples:**\n\n- 一年\n- 去年\n- 来年\n- 今年\n- 半年\n\n**Source:** Soumatome N5 Kanji Week 1 Day 2 — それは何ですか。 (Time Expressions)",
+    "character": "年",
+    "onyomi": [
+      "ネン"
+    ],
+    "kunyomi": [
+      "とし"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5e97",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "shop, store",
+      "id": "toko"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 83
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-083-u5e97.md",
+    "body": "## 店\n\n**音:** テン\n\n**訓:** みせ\n\n**EN:** shop, store\n\n**ID:** toko\n\n**Examples:**\n\n- 店\n- 喫茶店\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "店",
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "みせ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u5f8c",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "after, behind",
+      "id": "setelah, belakang"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-2"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 24
+    },
+    "filePath": "data/raw/n5/kanji/w1-d2-024-u5f8c.md",
+    "body": "## 後\n\n**音:** ゴ、コウ\n\n**訓:** あと、うしろ\n\n**EN:** after, behind\n\n**ID:** setelah, belakang\n\n**Examples:**\n\n- 午後\n- 後で\n- 後ろ\n\n**Source:** Soumatome N5 Kanji Week 1 Day 2 — それは何ですか。 (Time Expressions)",
+    "character": "後",
+    "onyomi": [
+      "ゴ",
+      "コウ"
+    ],
+    "kunyomi": [
+      "あと",
+      "うしろ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u624b",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "hand, skill",
+      "id": "tangan, keterampilan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 76
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-076-u624b.md",
+    "body": "## 手\n\n**音:** シュ\n\n**訓:** て、た\n\n**EN:** hand, skill\n\n**ID:** tangan, keterampilan\n\n**Examples:**\n\n- 手\n- お手洗い\n- 上手な\n- 下手な\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "手",
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "て",
+      "た"
+    ]
+  },
+  {
+    "id": "n5-kanji-u65b0",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "new",
+      "id": "baru"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 35
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-035-u65b0.md",
+    "body": "## 新\n\n**音:** シン\n\n**訓:** あたらしい、あらた\n\n**EN:** new\n\n**ID:** baru\n\n**Examples:**\n\n- 新聞\n- 新しい\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "新",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "あたらしい",
+      "あらた"
+    ]
+  },
+  {
+    "id": "n5-kanji-u65e5",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "sun, day, date, Sunday",
+      "id": "matahari, hari, tanggal, Minggu"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 103
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-103-u65e5.md",
+    "body": "## 日\n\n**音:** ニチ、ジツ\n\n**訓:** ひ、か\n\n**EN:** sun, day, date, Sunday\n\n**ID:** matahari, hari, tanggal, Minggu\n\n**Examples:**\n\n- 日\n- 一日\n- 日曜日\n- 今日\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "日",
+    "onyomi": [
+      "ニチ",
+      "ジツ"
+    ],
+    "kunyomi": [
+      "ひ",
+      "か"
+    ]
+  },
+  {
+    "id": "n5-kanji-u65e9",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "early, fast",
+      "id": "awal, cepat"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 37
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-037-u65e9.md",
+    "body": "## 早\n\n**音:** ソウ、サッ\n\n**訓:** はやい\n\n**EN:** early, fast\n\n**ID:** awal, cepat\n\n**Examples:**\n\n- 早い\n- 早く\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "早",
+    "onyomi": [
+      "ソウ",
+      "サッ"
+    ],
+    "kunyomi": [
+      "はやい"
+    ]
+  },
+  {
+    "id": "n5-kanji-u6642",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "time, hour",
+      "id": "waktu, jam"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-2"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 18
+    },
+    "filePath": "data/raw/n5/kanji/w1-d2-018-u6642.md",
+    "body": "## 時\n\n**音:** ジ\n\n**訓:** とき\n\n**EN:** time, hour\n\n**ID:** waktu, jam\n\n**Examples:**\n\n- 九時\n- 四時間\n- 時計\n\n**Source:** Soumatome N5 Kanji Week 1 Day 2 — それは何ですか。 (Time Expressions)",
+    "character": "時",
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "とき"
+    ]
+  },
+  {
+    "id": "n5-kanji-u66f8",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "write, book/document",
+      "id": "menulis, buku/dokumen"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 61
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-061-u66f8.md",
+    "body": "## 書\n\n**音:** ショ\n\n**訓:** かく\n\n**EN:** write, book/document\n\n**ID:** menulis, buku/dokumen\n\n**Examples:**\n\n- 辞書\n- 書く\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "書",
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "かく"
+    ]
+  },
+  {
+    "id": "n5-kanji-u6708",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "moon, month, Monday",
+      "id": "bulan, Senin"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 102
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-102-u6708.md",
+    "body": "## 月\n\n**音:** ゲツ、ガツ\n\n**訓:** つき\n\n**EN:** moon, month, Monday\n\n**ID:** bulan, Senin\n\n**Examples:**\n\n- 月\n- 一月\n- 月曜日\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "月",
+    "onyomi": [
+      "ゲツ",
+      "ガツ"
+    ],
+    "kunyomi": [
+      "つき"
+    ]
+  },
+  {
+    "id": "n5-kanji-u6728",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "tree, wood, Thursday",
+      "id": "pohon, kayu, Kamis"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 106
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-106-u6728.md",
+    "body": "## 木\n\n**音:** モク、ボク\n\n**訓:** き、こ\n\n**EN:** tree, wood, Thursday\n\n**ID:** pohon, kayu, Kamis\n\n**Examples:**\n\n- 木\n- 木曜日\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "木",
+    "onyomi": [
+      "モク",
+      "ボク"
+    ],
+    "kunyomi": [
+      "き",
+      "こ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u672c",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "book, origin, counter for long objects",
+      "id": "buku, asal, satuan benda panjang"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 16
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-016-u672c.md",
+    "body": "## 本\n\n**音:** ホン\n\n**訓:** もと\n\n**EN:** book, origin, counter for long objects\n\n**ID:** buku, asal, satuan benda panjang\n\n**Examples:**\n\n- 本\n- 日本\n- 〜本\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "本",
+    "onyomi": [
+      "ホン"
+    ],
+    "kunyomi": [
+      "もと"
+    ]
+  },
+  {
+    "id": "n5-kanji-u6765",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "come, next",
+      "id": "datang, berikutnya"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 64
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-064-u6765.md",
+    "body": "## 来\n\n**音:** ライ\n\n**訓:** くる、きたる\n\n**EN:** come, next\n\n**ID:** datang, berikutnya\n\n**Examples:**\n\n- 来月\n- 来週\n- 来る\n- 来ない\n- 来た\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "来",
+    "onyomi": [
+      "ライ"
+    ],
+    "kunyomi": [
+      "くる",
+      "きたる"
+    ]
+  },
+  {
+    "id": "n5-kanji-u6771",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "east",
+      "id": "timur"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-4"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 48
+    },
+    "filePath": "data/raw/n5/kanji/w1-d4-048-u6771.md",
+    "body": "## 東\n\n**音:** トウ\n\n**訓:** ひがし\n\n**EN:** east\n\n**ID:** timur\n\n**Examples:**\n\n- 東京\n- 東\n- 東口\n\n**Source:** Soumatome N5 Kanji Week 1 Day 4 — どこですか。 (Places and Directions)",
+    "character": "東",
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ひがし"
+    ]
+  },
+  {
+    "id": "n5-kanji-u6821",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "school",
+      "id": "sekolah"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 40
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-040-u6821.md",
+    "body": "## 校\n\n**音:** コウ\n\n**訓:** -\n\n**EN:** school\n\n**ID:** sekolah\n\n**Examples:**\n\n- 学校\n- 校長\n- 小学校\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "校",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": []
+  },
+  {
+    "id": "n5-kanji-u6bcd",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "mother",
+      "id": "ibu"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 11
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-011-u6bcd.md",
+    "body": "## 母\n\n**音:** ボ\n\n**訓:** はは\n\n**EN:** mother\n\n**ID:** ibu\n\n**Examples:**\n\n- 母\n- お母さん\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "母",
+    "onyomi": [
+      "ボ"
+    ],
+    "kunyomi": [
+      "はは"
+    ]
+  },
+  {
+    "id": "n5-kanji-u6bce",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "every",
+      "id": "setiap"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-2"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 28
+    },
+    "filePath": "data/raw/n5/kanji/w1-d2-028-u6bce.md",
+    "body": "## 毎\n\n**音:** マイ\n\n**訓:** -\n\n**EN:** every\n\n**ID:** setiap\n\n**Examples:**\n\n- 毎日\n- 毎月\n- 毎年\n- 毎週\n\n**Source:** Soumatome N5 Kanji Week 1 Day 2 — それは何ですか。 (Time Expressions)",
+    "character": "毎",
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": []
+  },
+  {
+    "id": "n5-kanji-u6c17",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "spirit, mood, air",
+      "id": "semangat, perasaan, udara"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 74
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-074-u6c17.md",
+    "body": "## 気\n\n**音:** キ、ケ\n\n**訓:** -\n\n**EN:** spirit, mood, air\n\n**ID:** semangat, perasaan, udara\n\n**Examples:**\n\n- 電気\n- 病気\n- 元気\n- 空気\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "気",
+    "onyomi": [
+      "キ",
+      "ケ"
+    ],
+    "kunyomi": []
+  },
+  {
+    "id": "n5-kanji-u6c34",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "water, Wednesday",
+      "id": "air, Rabu"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 105
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-105-u6c34.md",
+    "body": "## 水\n\n**音:** スイ\n\n**訓:** みず\n\n**EN:** water, Wednesday\n\n**ID:** air, Rabu\n\n**Examples:**\n\n- 水\n- 水曜日\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "水",
+    "onyomi": [
+      "スイ"
+    ],
+    "kunyomi": [
+      "みず"
+    ]
+  },
+  {
+    "id": "n5-kanji-u706b",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "fire, Tuesday",
+      "id": "api, Selasa"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 104
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-104-u706b.md",
+    "body": "## 火\n\n**音:** カ\n\n**訓:** ひ、ほ\n\n**EN:** fire, Tuesday\n\n**ID:** api, Selasa\n\n**Examples:**\n\n- 火\n- 火曜日\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "火",
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "ひ",
+      "ほ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u7236",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "father",
+      "id": "ayah"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 10
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-010-u7236.md",
+    "body": "## 父\n\n**音:** フ\n\n**訓:** ちち\n\n**EN:** father\n\n**ID:** ayah\n\n**Examples:**\n\n- 父\n- お父さん\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "父",
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "ちち"
+    ]
+  },
+  {
+    "id": "n5-kanji-u725b",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "cow, cattle",
+      "id": "sapi"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 81
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-081-u725b.md",
+    "body": "## 牛\n\n**音:** ギュウ\n\n**訓:** うし\n\n**EN:** cow, cattle\n\n**ID:** sapi\n\n**Examples:**\n\n- 牛\n- 牛肉\n- 牛乳\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "牛",
+    "onyomi": [
+      "ギュウ"
+    ],
+    "kunyomi": [
+      "うし"
+    ]
+  },
+  {
+    "id": "n5-kanji-u751f",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "life, birth, student",
+      "id": "hidup, lahir, murid"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 2
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-002-u751f.md",
+    "body": "## 生\n\n**音:** セイ、ショウ\n\n**訓:** いきる、うまれる\n\n**EN:** life, birth, student\n\n**ID:** hidup, lahir, murid\n\n**Examples:**\n\n- 先生\n- 生徒\n- 生活\n- 誕生日\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "生",
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "いきる",
+      "うまれる"
+    ]
+  },
+  {
+    "id": "n5-kanji-u7530",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "rice field, surname element",
+      "id": "sawah, unsur nama keluarga"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 13
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-013-u7530.md",
+    "body": "## 田\n\n**音:** デン\n\n**訓:** た\n\n**EN:** rice field, surname element\n\n**ID:** sawah, unsur nama keluarga\n\n**Examples:**\n\n- 田中さん\n- 山田さん\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "田",
+    "onyomi": [
+      "デン"
+    ],
+    "kunyomi": [
+      "た"
+    ]
+  },
+  {
+    "id": "n5-kanji-u7537",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "man, male",
+      "id": "laki-laki, pria"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 6
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-006-u7537.md",
+    "body": "## 男\n\n**音:** ダン、ナン\n\n**訓:** おとこ\n\n**EN:** man, male\n\n**ID:** laki-laki, pria\n\n**Examples:**\n\n- 男の人\n- 男の子\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "男",
+    "onyomi": [
+      "ダン",
+      "ナン"
+    ],
+    "kunyomi": [
+      "おとこ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u767d",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "white",
+      "id": "putih"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 88
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-088-u767d.md",
+    "body": "## 白\n\n**音:** ハク、ビャク\n\n**訓:** しろ、しろい\n\n**EN:** white\n\n**ID:** putih\n\n**Examples:**\n\n- 白\n- 白い\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "白",
+    "onyomi": [
+      "ハク",
+      "ビャク"
+    ],
+    "kunyomi": [
+      "しろ",
+      "しろい"
+    ]
+  },
+  {
+    "id": "n5-kanji-u767e",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "hundred",
+      "id": "seratus"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 99
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-099-u767e.md",
+    "body": "## 百\n\n**音:** ヒャク\n\n**訓:** もも\n\n**EN:** hundred\n\n**ID:** seratus\n\n**Examples:**\n\n- 百\n- 二百\n- 三百\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "百",
+    "onyomi": [
+      "ヒャク"
+    ],
+    "kunyomi": [
+      "もも"
+    ]
+  },
+  {
+    "id": "n5-kanji-u76ee",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "eye, item, ordinal marker",
+      "id": "mata, butir, penanda urutan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 78
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-078-u76ee.md",
+    "body": "## 目\n\n**音:** モク、ボク\n\n**訓:** め\n\n**EN:** eye, item, ordinal marker\n\n**ID:** mata, butir, penanda urutan\n\n**Examples:**\n\n- 目\n- 一つ目\n- 二つ目\n- 三つ目\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "目",
+    "onyomi": [
+      "モク",
+      "ボク"
+    ],
+    "kunyomi": [
+      "め"
+    ]
+  },
+  {
+    "id": "n5-kanji-u793e",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "company, shrine",
+      "id": "perusahaan, kuil"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 41
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-041-u793e.md",
+    "body": "## 社\n\n**音:** シャ\n\n**訓:** やしろ\n\n**EN:** company, shrine\n\n**ID:** perusahaan, kuil\n\n**Examples:**\n\n- 会社\n- 社員\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "社",
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "やしろ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u7a7a",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "sky, air, empty",
+      "id": "langit, udara, kosong"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 87
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-087-u7a7a.md",
+    "body": "## 空\n\n**音:** クウ\n\n**訓:** そら、あく、から\n\n**EN:** sky, air, empty\n\n**ID:** langit, udara, kosong\n\n**Examples:**\n\n- 空\n- 空気\n- 空港\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "空",
+    "onyomi": [
+      "クウ"
+    ],
+    "kunyomi": [
+      "そら",
+      "あく",
+      "から"
+    ]
+  },
+  {
+    "id": "n5-kanji-u7acb",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "stand, establish",
+      "id": "berdiri, mendirikan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 65
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-065-u7acb.md",
+    "body": "## 立\n\n**音:** リツ、リュウ\n\n**訓:** たつ、たてる\n\n**EN:** stand, establish\n\n**ID:** berdiri, mendirikan\n\n**Examples:**\n\n- 立つ\n- 立てる\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "立",
+    "onyomi": [
+      "リツ",
+      "リュウ"
+    ],
+    "kunyomi": [
+      "たつ",
+      "たてる"
+    ]
+  },
+  {
+    "id": "n5-kanji-u8033",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "ear",
+      "id": "telinga"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 75
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-075-u8033.md",
+    "body": "## 耳\n\n**音:** ジ\n\n**訓:** みみ\n\n**EN:** ear\n\n**ID:** telinga\n\n**Examples:**\n\n- 耳\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "耳",
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "みみ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u805e",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "listen, hear, ask",
+      "id": "mendengar, bertanya"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 43
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-043-u805e.md",
+    "body": "## 聞\n\n**音:** ブン、モン\n\n**訓:** きく、きこえる\n\n**EN:** listen, hear, ask\n\n**ID:** mendengar, bertanya\n\n**Examples:**\n\n- 新聞\n- 聞く\n- 聞こえる\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "聞",
+    "onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "kunyomi": [
+      "きく",
+      "きこえる"
+    ]
+  },
+  {
+    "id": "n5-kanji-u82b1",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "flower",
+      "id": "bunga"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 72
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-072-u82b1.md",
+    "body": "## 花\n\n**音:** カ\n\n**訓:** はな\n\n**EN:** flower\n\n**ID:** bunga\n\n**Examples:**\n\n- 花\n- 花びん\n- 花見\n- 花火\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "花",
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "はな"
+    ]
+  },
+  {
+    "id": "n5-kanji-u884c",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "go, conduct",
+      "id": "pergi, melakukan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 60
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-060-u884c.md",
+    "body": "## 行\n\n**音:** コウ、ギョウ\n\n**訓:** いく、おこなう\n\n**EN:** go, conduct\n\n**ID:** pergi, melakukan\n\n**Examples:**\n\n- 銀行\n- 旅行\n- 行く\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "行",
+    "onyomi": [
+      "コウ",
+      "ギョウ"
+    ],
+    "kunyomi": [
+      "いく",
+      "おこなう"
+    ]
+  },
+  {
+    "id": "n5-kanji-u897f",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "west",
+      "id": "barat"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-4"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 49
+    },
+    "filePath": "data/raw/n5/kanji/w1-d4-049-u897f.md",
+    "body": "## 西\n\n**音:** セイ、サイ\n\n**訓:** にし\n\n**EN:** west\n\n**ID:** barat\n\n**Examples:**\n\n- 西\n- 西口\n- 西洋\n\n**Source:** Soumatome N5 Kanji Week 1 Day 4 — どこですか。 (Places and Directions)",
+    "character": "西",
+    "onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "kunyomi": [
+      "にし"
+    ]
+  },
+  {
+    "id": "n5-kanji-u898b",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "see, look, show, be visible",
+      "id": "melihat, menunjukkan, terlihat"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 58
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-058-u898b.md",
+    "body": "## 見\n\n**音:** ケン\n\n**訓:** みる、みえる、みせる\n\n**EN:** see, look, show, be visible\n\n**ID:** melihat, menunjukkan, terlihat\n\n**Examples:**\n\n- 見学\n- 見物\n- 見る\n- 見える\n- 見せる\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "見",
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "みる",
+      "みえる",
+      "みせる"
+    ]
+  },
+  {
+    "id": "n5-kanji-u8a00",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "say, word",
+      "id": "berkata, kata"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 59
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-059-u8a00.md",
+    "body": "## 言\n\n**音:** ゲン、ゴン\n\n**訓:** いう、こと\n\n**EN:** say, word\n\n**ID:** berkata, kata\n\n**Examples:**\n\n- 言う\n- 言葉\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "言",
+    "onyomi": [
+      "ゲン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "いう",
+      "こと"
+    ]
+  },
+  {
+    "id": "n5-kanji-u8a71",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "talk, speak, story",
+      "id": "berbicara, cerita"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 70
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-070-u8a71.md",
+    "body": "## 話\n\n**音:** ワ\n\n**訓:** はなす、はなし\n\n**EN:** talk, speak, story\n\n**ID:** berbicara, cerita\n\n**Examples:**\n\n- 電話\n- 会話\n- 話す\n- 話\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "話",
+    "onyomi": [
+      "ワ"
+    ],
+    "kunyomi": [
+      "はなす",
+      "はなし"
+    ]
+  },
+  {
+    "id": "n5-kanji-u8a9e",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "language, word, tell",
+      "id": "bahasa, kata, bercerita"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-1"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 15
+    },
+    "filePath": "data/raw/n5/kanji/w1-d1-015-u8a9e.md",
+    "body": "## 語\n\n**音:** ゴ\n\n**訓:** かたる\n\n**EN:** language, word, tell\n\n**ID:** bahasa, kata, bercerita\n\n**Examples:**\n\n- 日本語\n- 英語\n- 何語\n\n**Source:** Soumatome N5 Kanji Week 1 Day 1 — お名前は？ (People, Names, Country, Language)",
+    "character": "語",
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "かたる"
+    ]
+  },
+  {
+    "id": "n5-kanji-u8aad",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "read",
+      "id": "membaca"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 62
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-062-u8aad.md",
+    "body": "## 読\n\n**音:** ドク、トク\n\n**訓:** よむ\n\n**EN:** read\n\n**ID:** membaca\n\n**Examples:**\n\n- 読む\n- 読書\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "読",
+    "onyomi": [
+      "ドク",
+      "トク"
+    ],
+    "kunyomi": [
+      "よむ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u8cb7",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "buy",
+      "id": "membeli"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 63
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-063-u8cb7.md",
+    "body": "## 買\n\n**音:** バイ\n\n**訓:** かう\n\n**EN:** buy\n\n**ID:** membeli\n\n**Examples:**\n\n- 買う\n- 買いもの\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "買",
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "かう"
+    ]
+  },
+  {
+    "id": "n5-kanji-u8db3",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "foot, leg, enough, add",
+      "id": "kaki, cukup, menambahkan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 77
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-077-u8db3.md",
+    "body": "## 足\n\n**音:** ソク\n\n**訓:** あし、たりる、たす\n\n**EN:** foot, leg, enough, add\n\n**ID:** kaki, cukup, menambahkan\n\n**Examples:**\n\n- 足\n- 足りる\n- 足す\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "足",
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "あし",
+      "たりる",
+      "たす"
+    ]
+  },
+  {
+    "id": "n5-kanji-u8eca",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "car, vehicle, wheel",
+      "id": "mobil, kendaraan, roda"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 71
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-071-u8eca.md",
+    "body": "## 車\n\n**音:** シャ\n\n**訓:** くるま\n\n**EN:** car, vehicle, wheel\n\n**ID:** mobil, kendaraan, roda\n\n**Examples:**\n\n- 自動車\n- 車\n- 自転車\n- 電車\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "車",
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "くるま"
+    ]
+  },
+  {
+    "id": "n5-kanji-u9031",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "week",
+      "id": "minggu"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-2"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 26
+    },
+    "filePath": "data/raw/n5/kanji/w1-d2-026-u9031.md",
+    "body": "## 週\n\n**音:** シュウ\n\n**訓:** -\n\n**EN:** week\n\n**ID:** minggu\n\n**Examples:**\n\n- 先週\n- 来週\n- 一週間\n- 毎週\n\n**Source:** Soumatome N5 Kanji Week 1 Day 2 — それは何ですか。 (Time Expressions)",
+    "character": "週",
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": []
+  },
+  {
+    "id": "n5-kanji-u9053",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "road, way, path",
+      "id": "jalan, cara"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 84
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-084-u9053.md",
+    "body": "## 道\n\n**音:** ドウ\n\n**訓:** みち\n\n**EN:** road, way, path\n\n**ID:** jalan, cara\n\n**Examples:**\n\n- 道\n- 道路\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "道",
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "みち"
+    ]
+  },
+  {
+    "id": "n5-kanji-u91d1",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "gold, money, Friday",
+      "id": "emas, uang, Jumat"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-7"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 107
+    },
+    "filePath": "data/raw/n5/kanji/w1-d7-107-u91d1.md",
+    "body": "## 金\n\n**音:** キン、コン\n\n**訓:** かね、かな\n\n**EN:** gold, money, Friday\n\n**ID:** emas, uang, Jumat\n\n**Examples:**\n\n- 金\n- お金\n- 金曜日\n\n**Source:** Soumatome N5 Kanji Week 1 Day 7 — 数字・月・日付・曜日 (Numbers, Dates, Calendar)",
+    "character": "金",
+    "onyomi": [
+      "キン",
+      "コン"
+    ],
+    "kunyomi": [
+      "かね",
+      "かな"
+    ]
+  },
+  {
+    "id": "n5-kanji-u9577",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "long, chief",
+      "id": "panjang, kepala/pemimpin"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 38
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-038-u9577.md",
+    "body": "## 長\n\n**音:** チョウ\n\n**訓:** ながい\n\n**EN:** long, chief\n\n**ID:** panjang, kepala/pemimpin\n\n**Examples:**\n\n- 長い\n- 社長\n- 校長\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "長",
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "ながい"
+    ]
+  },
+  {
+    "id": "n5-kanji-u9580",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "gate",
+      "id": "gerbang"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 85
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-085-u9580.md",
+    "body": "## 門\n\n**音:** モン\n\n**訓:** かど\n\n**EN:** gate\n\n**ID:** gerbang\n\n**Examples:**\n\n- 門\n- 専門\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "門",
+    "onyomi": [
+      "モン"
+    ],
+    "kunyomi": [
+      "かど"
+    ]
+  },
+  {
+    "id": "n5-kanji-u9593",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "interval, between, time span",
+      "id": "rentang, antara, jeda waktu"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-2"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 20
+    },
+    "filePath": "data/raw/n5/kanji/w1-d2-020-u9593.md",
+    "body": "## 間\n\n**音:** カン、ケン\n\n**訓:** あいだ、ま\n\n**EN:** interval, between, time span\n\n**ID:** rentang, antara, jeda waktu\n\n**Examples:**\n\n- 時間\n- 一週間\n- AとBの間\n- この間\n- 間に合う\n\n**Source:** Soumatome N5 Kanji Week 1 Day 2 — それは何ですか。 (Time Expressions)",
+    "character": "間",
+    "onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "kunyomi": [
+      "あいだ",
+      "ま"
+    ]
+  },
+  {
+    "id": "n5-kanji-u96e8",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "rain",
+      "id": "hujan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 86
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-086-u96e8.md",
+    "body": "## 雨\n\n**音:** ウ\n\n**訓:** あめ、あま\n\n**EN:** rain\n\n**ID:** hujan\n\n**Examples:**\n\n- 雨\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "雨",
+    "onyomi": [
+      "ウ"
+    ],
+    "kunyomi": [
+      "あめ",
+      "あま"
+    ]
+  },
+  {
+    "id": "n5-kanji-u96fb",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "electricity",
+      "id": "listrik"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 69
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-069-u96fb.md",
+    "body": "## 電\n\n**音:** デン\n\n**訓:** -\n\n**EN:** electricity\n\n**ID:** listrik\n\n**Examples:**\n\n- 電車\n- 電気\n- 電話\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "電",
+    "onyomi": [
+      "デン"
+    ],
+    "kunyomi": []
+  },
+  {
+    "id": "n5-kanji-u98df",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "eat, food",
+      "id": "makan, makanan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 66
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-066-u98df.md",
+    "body": "## 食\n\n**音:** ショク\n\n**訓:** たべる、くう\n\n**EN:** eat, food\n\n**ID:** makan, makanan\n\n**Examples:**\n\n- 食事\n- 食料品\n- 食べる\n- 食堂\n- 食べもの\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "食",
+    "onyomi": [
+      "ショク"
+    ],
+    "kunyomi": [
+      "たべる",
+      "くう"
+    ]
+  },
+  {
+    "id": "n5-kanji-u98f2",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "drink",
+      "id": "minum"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-5"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 67
+    },
+    "filePath": "data/raw/n5/kanji/w1-d5-067-u98f2.md",
+    "body": "## 飲\n\n**音:** イン\n\n**訓:** のむ\n\n**EN:** drink\n\n**ID:** minum\n\n**Examples:**\n\n- 飲む\n- 飲みもの\n\n**Source:** Soumatome N5 Kanji Week 1 Day 5 — 何をしていますか。 (Basic Action Kanji)",
+    "character": "飲",
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "のむ"
+    ]
+  },
+  {
+    "id": "n5-kanji-u99c5",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "station",
+      "id": "stasiun"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-4"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 44
+    },
+    "filePath": "data/raw/n5/kanji/w1-d4-044-u99c5.md",
+    "body": "## 駅\n\n**音:** エキ\n\n**訓:** -\n\n**EN:** station\n\n**ID:** stasiun\n\n**Examples:**\n\n- 駅\n- 駅前\n\n**Source:** Soumatome N5 Kanji Week 1 Day 4 — どこですか。 (Places and Directions)",
+    "character": "駅",
+    "onyomi": [
+      "エキ"
+    ],
+    "kunyomi": []
+  },
+  {
+    "id": "n5-kanji-u9ad8",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "high, expensive",
+      "id": "tinggi, mahal"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-3"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 34
+    },
+    "filePath": "data/raw/n5/kanji/w1-d3-034-u9ad8.md",
+    "body": "## 高\n\n**音:** コウ\n\n**訓:** たかい\n\n**EN:** high, expensive\n\n**ID:** tinggi, mahal\n\n**Examples:**\n\n- 高校\n- 高い\n\n**Source:** Soumatome N5 Kanji Week 1 Day 3 — 大きい ↔ 小さい (Paired Kanji and Adjectives)",
+    "character": "高",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "たかい"
+    ]
+  },
+  {
+    "id": "n5-kanji-u9b5a",
+    "level": "n5",
+    "type": "kanji",
+    "meaning": {
+      "en": "fish",
+      "id": "ikan"
+    },
+    "status": "unverified",
+    "source": "imported",
+    "tags": [
+      "kanji",
+      "soumatome",
+      "week-1",
+      "day-6"
+    ],
+    "isAiGenerated": false,
+    "isVerified": false,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 82
+    },
+    "filePath": "data/raw/n5/kanji/w1-d6-082-u9b5a.md",
+    "body": "## 魚\n\n**音:** ギョ\n\n**訓:** さかな、うお\n\n**EN:** fish\n\n**ID:** ikan\n\n**Examples:**\n\n- 魚\n- 魚屋\n\n**Source:** Soumatome N5 Kanji Week 1 Day 6 — 手と足 (Body, Nature, Weather, Shops)",
+    "character": "魚",
+    "onyomi": [
+      "ギョ"
+    ],
+    "kunyomi": [
+      "さかな",
+      "うお"
+    ]
+  }
+]

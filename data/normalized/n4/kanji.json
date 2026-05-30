@@ -1,0 +1,7021 @@
+[
+  {
+    "id": "n4-kanji-u901a",
+    "level": "n4",
+    "type": "kanji",
+    "character": "通",
+    "meaning": {
+      "en": "pass through, commute, attend",
+      "id": "melewati, berlalu, pergi rutin"
+    },
+    "onyomi": [
+      "ツウ"
+    ],
+    "kunyomi": [
+      "とおる",
+      "とおす",
+      "かよう"
+    ],
+    "examples": [
+      "交通",
+      "普通",
+      "通る",
+      "通り",
+      "通う"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "通う・通る (Kanji with Many Readings)",
+    "sequence": 1,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 1
+    }
+  },
+  {
+    "id": "n4-kanji-u964d",
+    "level": "n4",
+    "type": "kanji",
+    "character": "降",
+    "meaning": {
+      "en": "descend, get off, fall",
+      "id": "turun, turun dari kendaraan, turun hujan"
+    },
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "おりる",
+      "ふる"
+    ],
+    "examples": [
+      "降る",
+      "降りる",
+      "降車"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "通う・通る (Kanji with Many Readings)",
+    "sequence": 2,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 2
+    }
+  },
+  {
+    "id": "n4-kanji-u54c1",
+    "level": "n4",
+    "type": "kanji",
+    "character": "品",
+    "meaning": {
+      "en": "goods, item, product",
+      "id": "barang, produk, benda"
+    },
+    "onyomi": [
+      "ヒン"
+    ],
+    "kunyomi": [
+      "しな"
+    ],
+    "examples": [
+      "食料品",
+      "品物"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "通う・通る (Kanji with Many Readings)",
+    "sequence": 3,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 3
+    }
+  },
+  {
+    "id": "n4-kanji-u7740",
+    "level": "n4",
+    "type": "kanji",
+    "character": "着",
+    "meaning": {
+      "en": "wear, arrive",
+      "id": "memakai, tiba"
+    },
+    "onyomi": [
+      "チャク"
+    ],
+    "kunyomi": [
+      "きる",
+      "つく"
+    ],
+    "examples": [
+      "着る",
+      "着物",
+      "着く"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "通う・通る (Kanji with Many Readings)",
+    "sequence": 4,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 4
+    }
+  },
+  {
+    "id": "n4-kanji-u7269",
+    "level": "n4",
+    "type": "kanji",
+    "character": "物",
+    "meaning": {
+      "en": "thing, object, goods",
+      "id": "benda, barang, sesuatu"
+    },
+    "onyomi": [
+      "ブツ",
+      "モツ"
+    ],
+    "kunyomi": [
+      "もの"
+    ],
+    "examples": [
+      "動物",
+      "荷物",
+      "物",
+      "食べ物",
+      "建物"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "通う・通る (Kanji with Many Readings)",
+    "sequence": 5,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 5
+    }
+  },
+  {
+    "id": "n4-kanji-u52d5",
+    "level": "n4",
+    "type": "kanji",
+    "character": "動",
+    "meaning": {
+      "en": "move, motion, activity",
+      "id": "bergerak, gerakan, aktivitas"
+    },
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "うごく",
+      "うごかす"
+    ],
+    "examples": [
+      "動物",
+      "運動",
+      "動く"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "通う・通る (Kanji with Many Readings)",
+    "sequence": 6,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 6
+    }
+  },
+  {
+    "id": "n4-kanji-u5efa",
+    "level": "n4",
+    "type": "kanji",
+    "character": "建",
+    "meaning": {
+      "en": "build, construct",
+      "id": "membangun, berdiri bangunan"
+    },
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "たてる",
+      "たつ"
+    ],
+    "examples": [
+      "建てる",
+      "建物",
+      "二階建て"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "通う・通る (Kanji with Many Readings)",
+    "sequence": 7,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 7
+    }
+  },
+  {
+    "id": "n4-kanji-u591c",
+    "level": "n4",
+    "type": "kanji",
+    "character": "夜",
+    "meaning": {
+      "en": "night, evening",
+      "id": "malam"
+    },
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [
+      "よ",
+      "よる"
+    ],
+    "examples": [
+      "今夜",
+      "夜"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "通う・通る (Kanji with Many Readings)",
+    "sequence": 8,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 8
+    }
+  },
+  {
+    "id": "n4-kanji-u98a8",
+    "level": "n4",
+    "type": "kanji",
+    "character": "風",
+    "meaning": {
+      "en": "wind, style, cold",
+      "id": "angin, gaya, masuk angin"
+    },
+    "onyomi": [
+      "フウ"
+    ],
+    "kunyomi": [
+      "かぜ"
+    ],
+    "examples": [
+      "台風",
+      "風邪",
+      "風"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "通う・通る (Kanji with Many Readings)",
+    "sequence": 9,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 9
+    }
+  },
+  {
+    "id": "n4-kanji-u53f0",
+    "level": "n4",
+    "type": "kanji",
+    "character": "台",
+    "meaning": {
+      "en": "stand, platform, counter for machines",
+      "id": "dudukan, panggung, satuan mesin"
+    },
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "台所",
+      "1台",
+      "台風"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "通う・通る (Kanji with Many Readings)",
+    "sequence": 10,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 10
+    }
+  },
+  {
+    "id": "n4-kanji-u540c",
+    "level": "n4",
+    "type": "kanji",
+    "character": "同",
+    "meaning": {
+      "en": "same, identical",
+      "id": "sama"
+    },
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "おなじ"
+    ],
+    "examples": [
+      "同じ",
+      "同時",
+      "同級生"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "同・何・回 (Similar-looking Kanji)",
+    "sequence": 11,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 11
+    }
+  },
+  {
+    "id": "n4-kanji-u56de",
+    "level": "n4",
+    "type": "kanji",
+    "character": "回",
+    "meaning": {
+      "en": "times, rotate, turn around",
+      "id": "kali, berputar, memutar"
+    },
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "まわる",
+      "まわす"
+    ],
+    "examples": [
+      "一回",
+      "何回",
+      "回る"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "同・何・回 (Similar-looking Kanji)",
+    "sequence": 12,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 12
+    }
+  },
+  {
+    "id": "n4-kanji-u6669",
+    "level": "n4",
+    "type": "kanji",
+    "character": "晩",
+    "meaning": {
+      "en": "evening, night",
+      "id": "malam, petang"
+    },
+    "onyomi": [
+      "バン"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "晩",
+      "今晩",
+      "毎晩"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "同・何・回 (Similar-looking Kanji)",
+    "sequence": 13,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 13
+    }
+  },
+  {
+    "id": "n4-kanji-u52c9",
+    "level": "n4",
+    "type": "kanji",
+    "character": "勉",
+    "meaning": {
+      "en": "diligent effort, study",
+      "id": "usaha belajar, tekun"
+    },
+    "onyomi": [
+      "ベン"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "勉強する"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "同・何・回 (Similar-looking Kanji)",
+    "sequence": 14,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 14
+    }
+  },
+  {
+    "id": "n4-kanji-u9032",
+    "level": "n4",
+    "type": "kanji",
+    "character": "進",
+    "meaning": {
+      "en": "advance, proceed, move forward",
+      "id": "maju, melanjutkan, bergerak maju"
+    },
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "すすむ",
+      "すすめる"
+    ],
+    "examples": [
+      "進む",
+      "進める",
+      "前に進む",
+      "計画を進める"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "同・何・回 (Similar-looking Kanji)",
+    "sequence": 15,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 15
+    }
+  },
+  {
+    "id": "n4-kanji-u96c6",
+    "level": "n4",
+    "type": "kanji",
+    "character": "集",
+    "meaning": {
+      "en": "gather, collect",
+      "id": "berkumpul, mengumpulkan"
+    },
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "あつまる",
+      "あつめる"
+    ],
+    "examples": [
+      "集まる",
+      "集める",
+      "駅前に集まる"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "同・何・回 (Similar-looking Kanji)",
+    "sequence": 16,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 16
+    }
+  },
+  {
+    "id": "n4-kanji-u6587",
+    "level": "n4",
+    "type": "kanji",
+    "character": "文",
+    "meaning": {
+      "en": "sentence, text, writing",
+      "id": "kalimat, teks, tulisan"
+    },
+    "onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "文",
+      "文章"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "同・何・回 (Similar-looking Kanji)",
+    "sequence": 17,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 17
+    }
+  },
+  {
+    "id": "n4-kanji-u4f5c",
+    "level": "n4",
+    "type": "kanji",
+    "character": "作",
+    "meaning": {
+      "en": "make, create, compose",
+      "id": "membuat, mencipta, mengarang"
+    },
+    "onyomi": [
+      "サク",
+      "サ"
+    ],
+    "kunyomi": [
+      "つくる"
+    ],
+    "examples": [
+      "作文",
+      "作る"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "同・何・回 (Similar-looking Kanji)",
+    "sequence": 18,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 18
+    }
+  },
+  {
+    "id": "n4-kanji-u4f7f",
+    "level": "n4",
+    "type": "kanji",
+    "character": "使",
+    "meaning": {
+      "en": "use, envoy",
+      "id": "menggunakan, utusan"
+    },
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "つかう"
+    ],
+    "examples": [
+      "大使館",
+      "使う"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "同・何・回 (Similar-looking Kanji)",
+    "sequence": 19,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 19
+    }
+  },
+  {
+    "id": "n4-kanji-u4fbf",
+    "level": "n4",
+    "type": "kanji",
+    "character": "便",
+    "meaning": {
+      "en": "convenience, mail, flight/service",
+      "id": "kemudahan, pos, layanan"
+    },
+    "onyomi": [
+      "ベン",
+      "ビン"
+    ],
+    "kunyomi": [
+      "たより"
+    ],
+    "examples": [
+      "便利な",
+      "郵便局",
+      "航空便"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "同・何・回 (Similar-looking Kanji)",
+    "sequence": 20,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 20
+    }
+  },
+  {
+    "id": "n4-kanji-u4f4e",
+    "level": "n4",
+    "type": "kanji",
+    "character": "低",
+    "meaning": {
+      "en": "low, short in height",
+      "id": "rendah"
+    },
+    "onyomi": [
+      "テイ"
+    ],
+    "kunyomi": [
+      "ひくい"
+    ],
+    "examples": [
+      "低い"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "長い ↔ 短い (Learn as Pairs)",
+    "sequence": 21,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 21
+    }
+  },
+  {
+    "id": "n4-kanji-u77ed",
+    "level": "n4",
+    "type": "kanji",
+    "character": "短",
+    "meaning": {
+      "en": "short",
+      "id": "pendek"
+    },
+    "onyomi": [
+      "タン"
+    ],
+    "kunyomi": [
+      "みじかい"
+    ],
+    "examples": [
+      "短い"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "長い ↔ 短い (Learn as Pairs)",
+    "sequence": 22,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 22
+    }
+  },
+  {
+    "id": "n4-kanji-u8fd1",
+    "level": "n4",
+    "type": "kanji",
+    "character": "近",
+    "meaning": {
+      "en": "near, recent",
+      "id": "dekat, baru-baru ini"
+    },
+    "onyomi": [
+      "キン"
+    ],
+    "kunyomi": [
+      "ちかい",
+      "ちかく"
+    ],
+    "examples": [
+      "近所",
+      "最近",
+      "近い",
+      "近く"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "長い ↔ 短い (Learn as Pairs)",
+    "sequence": 23,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 23
+    }
+  },
+  {
+    "id": "n4-kanji-u9060",
+    "level": "n4",
+    "type": "kanji",
+    "character": "遠",
+    "meaning": {
+      "en": "far, distant",
+      "id": "jauh"
+    },
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "とおい"
+    ],
+    "examples": [
+      "遠足",
+      "遠慮する",
+      "遠い"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "長い ↔ 短い (Learn as Pairs)",
+    "sequence": 24,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 24
+    }
+  },
+  {
+    "id": "n4-kanji-u5f31",
+    "level": "n4",
+    "type": "kanji",
+    "character": "弱",
+    "meaning": {
+      "en": "weak",
+      "id": "lemah"
+    },
+    "onyomi": [
+      "ジャク"
+    ],
+    "kunyomi": [
+      "よわい"
+    ],
+    "examples": [
+      "弱い"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "長い ↔ 短い (Learn as Pairs)",
+    "sequence": 25,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 25
+    }
+  },
+  {
+    "id": "n4-kanji-u5f37",
+    "level": "n4",
+    "type": "kanji",
+    "character": "強",
+    "meaning": {
+      "en": "strong, study intensively",
+      "id": "kuat, belajar"
+    },
+    "onyomi": [
+      "キョウ",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "つよい"
+    ],
+    "examples": [
+      "勉強する",
+      "強い"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "長い ↔ 短い (Learn as Pairs)",
+    "sequence": 26,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 26
+    }
+  },
+  {
+    "id": "n4-kanji-u6697",
+    "level": "n4",
+    "type": "kanji",
+    "character": "暗",
+    "meaning": {
+      "en": "dark",
+      "id": "gelap"
+    },
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "くらい"
+    ],
+    "examples": [
+      "暗い"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "長い ↔ 短い (Learn as Pairs)",
+    "sequence": 27,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 27
+    }
+  },
+  {
+    "id": "n4-kanji-u660e",
+    "level": "n4",
+    "type": "kanji",
+    "character": "明",
+    "meaning": {
+      "en": "bright, clear, dawn",
+      "id": "terang, jelas, membuka/terbit"
+    },
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kunyomi": [
+      "あかるい",
+      "あける"
+    ],
+    "examples": [
+      "説明",
+      "明るい",
+      "明けましておめでとうございます",
+      "明日"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "長い ↔ 短い (Learn as Pairs)",
+    "sequence": 28,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 28
+    }
+  },
+  {
+    "id": "n4-kanji-u60aa",
+    "level": "n4",
+    "type": "kanji",
+    "character": "悪",
+    "meaning": {
+      "en": "bad, evil",
+      "id": "buruk, jahat"
+    },
+    "onyomi": [
+      "アク",
+      "オ"
+    ],
+    "kunyomi": [
+      "わるい"
+    ],
+    "examples": [
+      "悪い"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "長い ↔ 短い (Learn as Pairs)",
+    "sequence": 29,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 29
+    }
+  },
+  {
+    "id": "n4-kanji-u5229",
+    "level": "n4",
+    "type": "kanji",
+    "character": "利",
+    "meaning": {
+      "en": "benefit, advantage, convenience",
+      "id": "manfaat, keuntungan, kemudahan"
+    },
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "便利な",
+      "利用する"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "長い ↔ 短い (Learn as Pairs)",
+    "sequence": 30,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 30
+    }
+  },
+  {
+    "id": "n4-kanji-u65c5",
+    "level": "n4",
+    "type": "kanji",
+    "character": "旅",
+    "meaning": {
+      "en": "travel, trip",
+      "id": "perjalanan, wisata"
+    },
+    "onyomi": [
+      "リョ"
+    ],
+    "kunyomi": [
+      "たび"
+    ],
+    "examples": [
+      "旅行",
+      "旅館"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "旅行・有名 (Pronunciation-focused Kanji)",
+    "sequence": 31,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 31
+    }
+  },
+  {
+    "id": "n4-kanji-u9928",
+    "level": "n4",
+    "type": "kanji",
+    "character": "館",
+    "meaning": {
+      "en": "building, hall, large facility",
+      "id": "gedung, balai, fasilitas"
+    },
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "旅館",
+      "美術館",
+      "大使館"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "旅行・有名 (Pronunciation-focused Kanji)",
+    "sequence": 32,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 32
+    }
+  },
+  {
+    "id": "n4-kanji-u6709",
+    "level": "n4",
+    "type": "kanji",
+    "character": "有",
+    "meaning": {
+      "en": "exist, have, famous in 有名",
+      "id": "ada, memiliki, terkenal"
+    },
+    "onyomi": [
+      "ユウ"
+    ],
+    "kunyomi": [
+      "ある"
+    ],
+    "examples": [
+      "有名な"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "旅行・有名 (Pronunciation-focused Kanji)",
+    "sequence": 33,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 33
+    }
+  },
+  {
+    "id": "n4-kanji-u53bb",
+    "level": "n4",
+    "type": "kanji",
+    "character": "去",
+    "meaning": {
+      "en": "leave, past",
+      "id": "pergi, lalu"
+    },
+    "onyomi": [
+      "キョ"
+    ],
+    "kunyomi": [
+      "さる"
+    ],
+    "examples": [
+      "去年",
+      "去る"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "旅行・有名 (Pronunciation-focused Kanji)",
+    "sequence": 34,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 34
+    }
+  },
+  {
+    "id": "n4-kanji-u4e3b",
+    "level": "n4",
+    "type": "kanji",
+    "character": "主",
+    "meaning": {
+      "en": "main, master, husband",
+      "id": "utama, pemilik, suami"
+    },
+    "onyomi": [
+      "シュ",
+      "ス"
+    ],
+    "kunyomi": [
+      "ぬし",
+      "おも"
+    ],
+    "examples": [
+      "主人",
+      "主な",
+      "主語"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "旅行・有名 (Pronunciation-focused Kanji)",
+    "sequence": 35,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 35
+    }
+  },
+  {
+    "id": "n4-kanji-u5199",
+    "level": "n4",
+    "type": "kanji",
+    "character": "写",
+    "meaning": {
+      "en": "copy, photograph",
+      "id": "menyalin, memotret"
+    },
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "うつす",
+      "うつる"
+    ],
+    "examples": [
+      "写真",
+      "写す"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "旅行・有名 (Pronunciation-focused Kanji)",
+    "sequence": 36,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 36
+    }
+  },
+  {
+    "id": "n4-kanji-u771f",
+    "level": "n4",
+    "type": "kanji",
+    "character": "真",
+    "meaning": {
+      "en": "true, real, center",
+      "id": "benar, asli, tengah"
+    },
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "ま"
+    ],
+    "examples": [
+      "写真",
+      "真ん中"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "旅行・有名 (Pronunciation-focused Kanji)",
+    "sequence": 37,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 37
+    }
+  },
+  {
+    "id": "n4-kanji-u5915",
+    "level": "n4",
+    "type": "kanji",
+    "character": "夕",
+    "meaning": {
+      "en": "evening",
+      "id": "sore, petang"
+    },
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "ゆう"
+    ],
+    "examples": [
+      "夕飯",
+      "夕方"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "旅行・有名 (Pronunciation-focused Kanji)",
+    "sequence": 38,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 38
+    }
+  },
+  {
+    "id": "n4-kanji-u98ef",
+    "level": "n4",
+    "type": "kanji",
+    "character": "飯",
+    "meaning": {
+      "en": "meal, cooked rice",
+      "id": "makanan, nasi"
+    },
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "めし"
+    ],
+    "examples": [
+      "ご飯",
+      "朝ご飯",
+      "昼ご飯",
+      "晩ご飯"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "旅行・有名 (Pronunciation-focused Kanji)",
+    "sequence": 39,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 39
+    }
+  },
+  {
+    "id": "n4-kanji-u65b9",
+    "level": "n4",
+    "type": "kanji",
+    "character": "方",
+    "meaning": {
+      "en": "direction, person, way",
+      "id": "arah, orang, cara"
+    },
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "かた"
+    ],
+    "examples": [
+      "両方",
+      "あの方",
+      "〜方",
+      "夕方"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "旅行・有名 (Pronunciation-focused Kanji)",
+    "sequence": 40,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 40
+    }
+  },
+  {
+    "id": "n4-kanji-u533b",
+    "level": "n4",
+    "type": "kanji",
+    "character": "医",
+    "meaning": {
+      "en": "medicine, doctor",
+      "id": "kedokteran, dokter"
+    },
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "医者",
+      "医学"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "医者・歌手 (Kanji that Describe People)",
+    "sequence": 41,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 41
+    }
+  },
+  {
+    "id": "n4-kanji-u8005",
+    "level": "n4",
+    "type": "kanji",
+    "character": "者",
+    "meaning": {
+      "en": "person, someone",
+      "id": "orang, pelaku"
+    },
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "もの"
+    ],
+    "examples": [
+      "医者",
+      "学者",
+      "歯医者"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "医者・歌手 (Kanji that Describe People)",
+    "sequence": 42,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 42
+    }
+  },
+  {
+    "id": "n4-kanji-u54e1",
+    "level": "n4",
+    "type": "kanji",
+    "character": "員",
+    "meaning": {
+      "en": "member, staff, employee",
+      "id": "anggota, staf, pegawai"
+    },
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "店員",
+      "駅員",
+      "会社員",
+      "銀行員"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "医者・歌手 (Kanji that Describe People)",
+    "sequence": 43,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 43
+    }
+  },
+  {
+    "id": "n4-kanji-u6c11",
+    "level": "n4",
+    "type": "kanji",
+    "character": "民",
+    "meaning": {
+      "en": "people, citizen, nation",
+      "id": "rakyat, warga, bangsa"
+    },
+    "onyomi": [
+      "ミン"
+    ],
+    "kunyomi": [
+      "たみ"
+    ],
+    "examples": [
+      "国民",
+      "市民"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "医者・歌手 (Kanji that Describe People)",
+    "sequence": 44,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 44
+    }
+  },
+  {
+    "id": "n4-kanji-u6b4c",
+    "level": "n4",
+    "type": "kanji",
+    "character": "歌",
+    "meaning": {
+      "en": "song, sing",
+      "id": "lagu, bernyanyi"
+    },
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "うた",
+      "うたう"
+    ],
+    "examples": [
+      "歌手",
+      "歌",
+      "歌う"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "医者・歌手 (Kanji that Describe People)",
+    "sequence": 45,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 45
+    }
+  },
+  {
+    "id": "n4-kanji-u904b",
+    "level": "n4",
+    "type": "kanji",
+    "character": "運",
+    "meaning": {
+      "en": "carry, transport, luck, exercise",
+      "id": "membawa, mengangkut, keberuntungan, olahraga"
+    },
+    "onyomi": [
+      "ウン"
+    ],
+    "kunyomi": [
+      "はこぶ"
+    ],
+    "examples": [
+      "運転",
+      "運転手",
+      "運動"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "医者・歌手 (Kanji that Describe People)",
+    "sequence": 46,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 46
+    }
+  },
+  {
+    "id": "n4-kanji-u8ee2",
+    "level": "n4",
+    "type": "kanji",
+    "character": "転",
+    "meaning": {
+      "en": "turn, roll, transfer",
+      "id": "berputar, berguling, berpindah"
+    },
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "ころぶ",
+      "ころがる"
+    ],
+    "examples": [
+      "自転車",
+      "運転",
+      "転ぶ"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "医者・歌手 (Kanji that Describe People)",
+    "sequence": 47,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 47
+    }
+  },
+  {
+    "id": "n4-kanji-u8aac",
+    "level": "n4",
+    "type": "kanji",
+    "character": "説",
+    "meaning": {
+      "en": "explain, theory, opinion",
+      "id": "menjelaskan, teori, pendapat"
+    },
+    "onyomi": [
+      "セツ"
+    ],
+    "kunyomi": [
+      "とく"
+    ],
+    "examples": [
+      "説明する",
+      "小説",
+      "小説家"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "医者・歌手 (Kanji that Describe People)",
+    "sequence": 48,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 48
+    }
+  },
+  {
+    "id": "n4-kanji-u5bb6",
+    "level": "n4",
+    "type": "kanji",
+    "character": "家",
+    "meaning": {
+      "en": "house, home, family, specialist",
+      "id": "rumah, keluarga, ahli"
+    },
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "いえ",
+      "や"
+    ],
+    "examples": [
+      "家族",
+      "家庭",
+      "家"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "医者・歌手 (Kanji that Describe People)",
+    "sequence": 49,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 49
+    }
+  },
+  {
+    "id": "n4-kanji-u671d",
+    "level": "n4",
+    "type": "kanji",
+    "character": "朝",
+    "meaning": {
+      "en": "morning",
+      "id": "pagi"
+    },
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "あさ"
+    ],
+    "examples": [
+      "朝食",
+      "今朝"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "東・西・南・北 (Learn as Groups)",
+    "sequence": 50,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 50
+    }
+  },
+  {
+    "id": "n4-kanji-u663c",
+    "level": "n4",
+    "type": "kanji",
+    "character": "昼",
+    "meaning": {
+      "en": "noon, daytime",
+      "id": "siang, tengah hari"
+    },
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "ひる"
+    ],
+    "examples": [
+      "昼食",
+      "昼",
+      "昼間"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "東・西・南・北 (Learn as Groups)",
+    "sequence": 51,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 51
+    }
+  },
+  {
+    "id": "n4-kanji-u6625",
+    "level": "n4",
+    "type": "kanji",
+    "character": "春",
+    "meaning": {
+      "en": "spring",
+      "id": "musim semi"
+    },
+    "onyomi": [
+      "シュン"
+    ],
+    "kunyomi": [
+      "はる"
+    ],
+    "examples": [
+      "春",
+      "春休み"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "東・西・南・北 (Learn as Groups)",
+    "sequence": 52,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 52
+    }
+  },
+  {
+    "id": "n4-kanji-u590f",
+    "level": "n4",
+    "type": "kanji",
+    "character": "夏",
+    "meaning": {
+      "en": "summer",
+      "id": "musim panas"
+    },
+    "onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "なつ"
+    ],
+    "examples": [
+      "夏",
+      "夏休み"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "東・西・南・北 (Learn as Groups)",
+    "sequence": 53,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 53
+    }
+  },
+  {
+    "id": "n4-kanji-u79cb",
+    "level": "n4",
+    "type": "kanji",
+    "character": "秋",
+    "meaning": {
+      "en": "autumn, fall",
+      "id": "musim gugur"
+    },
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "あき"
+    ],
+    "examples": [
+      "秋"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "東・西・南・北 (Learn as Groups)",
+    "sequence": 54,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 54
+    }
+  },
+  {
+    "id": "n4-kanji-u51ac",
+    "level": "n4",
+    "type": "kanji",
+    "character": "冬",
+    "meaning": {
+      "en": "winter",
+      "id": "musim dingin"
+    },
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ふゆ"
+    ],
+    "examples": [
+      "冬",
+      "冬休み"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "東・西・南・北 (Learn as Groups)",
+    "sequence": 55,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 55
+    }
+  },
+  {
+    "id": "n4-kanji-u4eac",
+    "level": "n4",
+    "type": "kanji",
+    "character": "京",
+    "meaning": {
+      "en": "capital, Kyoto/Tokyo element",
+      "id": "ibu kota, unsur Kyoto/Tokyo"
+    },
+    "onyomi": [
+      "キョウ",
+      "ケイ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "京都",
+      "東京"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "東・西・南・北 (Learn as Groups)",
+    "sequence": 56,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 56
+    }
+  },
+  {
+    "id": "n4-kanji-u90fd",
+    "level": "n4",
+    "type": "kanji",
+    "character": "都",
+    "meaning": {
+      "en": "metropolis, capital, urban prefecture",
+      "id": "metropolis, ibu kota, prefektur kota"
+    },
+    "onyomi": [
+      "ト",
+      "ツ"
+    ],
+    "kunyomi": [
+      "みやこ"
+    ],
+    "examples": [
+      "都",
+      "東京都",
+      "都合がいい"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "東・西・南・北 (Learn as Groups)",
+    "sequence": 57,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 57
+    }
+  },
+  {
+    "id": "n4-kanji-u5e9c",
+    "level": "n4",
+    "type": "kanji",
+    "character": "府",
+    "meaning": {
+      "en": "urban prefecture, government office",
+      "id": "prefektur kota, pemerintahan"
+    },
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "都道府県"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "東・西・南・北 (Learn as Groups)",
+    "sequence": 58,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 58
+    }
+  },
+  {
+    "id": "n4-kanji-u770c",
+    "level": "n4",
+    "type": "kanji",
+    "character": "県",
+    "meaning": {
+      "en": "prefecture",
+      "id": "prefektur"
+    },
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "県",
+      "青森県"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "東・西・南・北 (Learn as Groups)",
+    "sequence": 59,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 59
+    }
+  },
+  {
+    "id": "n4-kanji-u5e02",
+    "level": "n4",
+    "type": "kanji",
+    "character": "市",
+    "meaning": {
+      "en": "city, market",
+      "id": "kota, pasar"
+    },
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "いち"
+    ],
+    "examples": [
+      "市民",
+      "市"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "東・西・南・北 (Learn as Groups)",
+    "sequence": 60,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 60
+    }
+  },
+  {
+    "id": "n4-kanji-u753a",
+    "level": "n4",
+    "type": "kanji",
+    "character": "町",
+    "meaning": {
+      "en": "town, neighborhood",
+      "id": "kota kecil, kawasan"
+    },
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "まち"
+    ],
+    "examples": [
+      "〜町",
+      "町"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "東・西・南・北 (Learn as Groups)",
+    "sequence": 61,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 61
+    }
+  },
+  {
+    "id": "n4-kanji-u6599",
+    "level": "n4",
+    "type": "kanji",
+    "character": "料",
+    "meaning": {
+      "en": "material, fee, ingredient",
+      "id": "bahan, biaya, bahan makanan"
+    },
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "料理",
+      "食料品"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "料理のレシピ (Cooking Recipes)",
+    "sequence": 62,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 62
+    }
+  },
+  {
+    "id": "n4-kanji-u7406",
+    "level": "n4",
+    "type": "kanji",
+    "character": "理",
+    "meaning": {
+      "en": "reason, logic, arrangement",
+      "id": "alasan, logika, penataan"
+    },
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "理由",
+      "料理",
+      "地理"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "料理のレシピ (Cooking Recipes)",
+    "sequence": 63,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 63
+    }
+  },
+  {
+    "id": "n4-kanji-u7c73",
+    "level": "n4",
+    "type": "kanji",
+    "character": "米",
+    "meaning": {
+      "en": "rice, America",
+      "id": "beras, Amerika"
+    },
+    "onyomi": [
+      "ベイ",
+      "マイ"
+    ],
+    "kunyomi": [
+      "こめ"
+    ],
+    "examples": [
+      "米",
+      "米国"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "料理のレシピ (Cooking Recipes)",
+    "sequence": 64,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 64
+    }
+  },
+  {
+    "id": "n4-kanji-u6d17",
+    "level": "n4",
+    "type": "kanji",
+    "character": "洗",
+    "meaning": {
+      "en": "wash",
+      "id": "mencuci"
+    },
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "あらう"
+    ],
+    "examples": [
+      "洗濯する",
+      "洗う",
+      "お手洗い"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "料理のレシピ (Cooking Recipes)",
+    "sequence": 65,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 65
+    }
+  },
+  {
+    "id": "n4-kanji-u91ce",
+    "level": "n4",
+    "type": "kanji",
+    "character": "野",
+    "meaning": {
+      "en": "field, wild, rustic",
+      "id": "ladang, liar, alam"
+    },
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [
+      "の"
+    ],
+    "examples": [
+      "野球",
+      "野菜"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "料理のレシピ (Cooking Recipes)",
+    "sequence": 66,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 66
+    }
+  },
+  {
+    "id": "n4-kanji-u83dc",
+    "level": "n4",
+    "type": "kanji",
+    "character": "菜",
+    "meaning": {
+      "en": "vegetable, greens",
+      "id": "sayur, dedaunan"
+    },
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [
+      "な"
+    ],
+    "examples": [
+      "野菜"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "料理のレシピ (Cooking Recipes)",
+    "sequence": 67,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 67
+    }
+  },
+  {
+    "id": "n4-kanji-u9152",
+    "level": "n4",
+    "type": "kanji",
+    "character": "酒",
+    "meaning": {
+      "en": "sake, alcohol",
+      "id": "sake, alkohol"
+    },
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "さけ",
+      "さか"
+    ],
+    "examples": [
+      "お酒",
+      "日本酒",
+      "酒屋"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "料理のレシピ (Cooking Recipes)",
+    "sequence": 68,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 68
+    }
+  },
+  {
+    "id": "n4-kanji-u8089",
+    "level": "n4",
+    "type": "kanji",
+    "character": "肉",
+    "meaning": {
+      "en": "meat",
+      "id": "daging"
+    },
+    "onyomi": [
+      "ニク"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "肉",
+      "牛肉",
+      "鳥肉",
+      "豚肉"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "料理のレシピ (Cooking Recipes)",
+    "sequence": 69,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 69
+    }
+  },
+  {
+    "id": "n4-kanji-u5473",
+    "level": "n4",
+    "type": "kanji",
+    "character": "味",
+    "meaning": {
+      "en": "taste, flavor, meaning",
+      "id": "rasa, cita rasa, arti"
+    },
+    "onyomi": [
+      "ミ"
+    ],
+    "kunyomi": [
+      "あじ"
+    ],
+    "examples": [
+      "意味",
+      "趣味",
+      "興味",
+      "味"
+    ],
+    "source": "soumatome",
+    "week": 1,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう① (Let's Study Kanji 1)",
+    "dayTitle": "料理のレシピ (Cooking Recipes)",
+    "sequence": 70,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 70
+    }
+  },
+  {
+    "id": "n4-kanji-u753b",
+    "level": "n4",
+    "type": "kanji",
+    "character": "画",
+    "meaning": {
+      "en": "picture, stroke, plan",
+      "id": "gambar, goresan, rencana"
+    },
+    "onyomi": [
+      "ガ",
+      "カク"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "映画",
+      "漫画",
+      "計画"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "映画・計画 (Learn Readings through Words)",
+    "sequence": 71,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 1,
+      "sequence": 71
+    }
+  },
+  {
+    "id": "n4-kanji-u6620",
+    "level": "n4",
+    "type": "kanji",
+    "character": "映",
+    "meaning": {
+      "en": "reflect, project, screen",
+      "id": "memantul, memproyeksikan, tayang"
+    },
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "うつる",
+      "うつす",
+      "はえる"
+    ],
+    "examples": [
+      "映画",
+      "映画館"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "映画・計画 (Learn Readings through Words)",
+    "sequence": 72,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 1,
+      "sequence": 72
+    }
+  },
+  {
+    "id": "n4-kanji-u8a08",
+    "level": "n4",
+    "type": "kanji",
+    "character": "計",
+    "meaning": {
+      "en": "plan, measure, clock",
+      "id": "rencana, mengukur, jam"
+    },
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "はかる"
+    ],
+    "examples": [
+      "時計",
+      "計画"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "映画・計画 (Learn Readings through Words)",
+    "sequence": 73,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 1,
+      "sequence": 73
+    }
+  },
+  {
+    "id": "n4-kanji-u56f3",
+    "level": "n4",
+    "type": "kanji",
+    "character": "図",
+    "meaning": {
+      "en": "map, diagram, plan",
+      "id": "peta, diagram, rencana"
+    },
+    "onyomi": [
+      "ズ",
+      "ト"
+    ],
+    "kunyomi": [
+      "はかる"
+    ],
+    "examples": [
+      "地図",
+      "図書館"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "映画・計画 (Learn Readings through Words)",
+    "sequence": 74,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 1,
+      "sequence": 74
+    }
+  },
+  {
+    "id": "n4-kanji-u4e8b",
+    "level": "n4",
+    "type": "kanji",
+    "character": "事",
+    "meaning": {
+      "en": "matter, thing, event",
+      "id": "hal, urusan, kejadian"
+    },
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "こと"
+    ],
+    "examples": [
+      "食事",
+      "用事",
+      "仕事"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "映画・計画 (Learn Readings through Words)",
+    "sequence": 75,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 1,
+      "sequence": 75
+    }
+  },
+  {
+    "id": "n4-kanji-u4ed5",
+    "level": "n4",
+    "type": "kanji",
+    "character": "仕",
+    "meaning": {
+      "en": "serve, work",
+      "id": "melayani, bekerja"
+    },
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "つかえる"
+    ],
+    "examples": [
+      "仕事",
+      "仕方"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "映画・計画 (Learn Readings through Words)",
+    "sequence": 76,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 1,
+      "sequence": 76
+    }
+  },
+  {
+    "id": "n4-kanji-u7528",
+    "level": "n4",
+    "type": "kanji",
+    "character": "用",
+    "meaning": {
+      "en": "use, business, errand",
+      "id": "menggunakan, urusan, keperluan"
+    },
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "もちいる"
+    ],
+    "examples": [
+      "用事",
+      "用意",
+      "利用する"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "映画・計画 (Learn Readings through Words)",
+    "sequence": 77,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 1,
+      "sequence": 77
+    }
+  },
+  {
+    "id": "n4-kanji-u5730",
+    "level": "n4",
+    "type": "kanji",
+    "character": "地",
+    "meaning": {
+      "en": "ground, earth, place",
+      "id": "tanah, bumi, tempat"
+    },
+    "onyomi": [
+      "チ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "つち"
+    ],
+    "examples": [
+      "地図",
+      "地理",
+      "地震"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "映画・計画 (Learn Readings through Words)",
+    "sequence": 78,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 1,
+      "sequence": 78
+    }
+  },
+  {
+    "id": "n4-kanji-u9244",
+    "level": "n4",
+    "type": "kanji",
+    "character": "鉄",
+    "meaning": {
+      "en": "iron, railway",
+      "id": "besi, rel kereta"
+    },
+    "onyomi": [
+      "テツ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "地下鉄",
+      "鉄"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "映画・計画 (Learn Readings through Words)",
+    "sequence": 79,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 1,
+      "sequence": 79
+    }
+  },
+  {
+    "id": "n4-kanji-u5927",
+    "level": "n4",
+    "type": "kanji",
+    "character": "大",
+    "meaning": {
+      "en": "big, large, great",
+      "id": "besar, agung"
+    },
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "おおきい",
+      "おおいに"
+    ],
+    "examples": [
+      "大きい",
+      "大学",
+      "大人"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "大・犬・太 (Similar-looking Kanji)",
+    "sequence": 80,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 80
+    }
+  },
+  {
+    "id": "n4-kanji-u72ac",
+    "level": "n4",
+    "type": "kanji",
+    "character": "犬",
+    "meaning": {
+      "en": "dog",
+      "id": "anjing"
+    },
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "いぬ"
+    ],
+    "examples": [
+      "犬"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "大・犬・太 (Similar-looking Kanji)",
+    "sequence": 81,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 81
+    }
+  },
+  {
+    "id": "n4-kanji-u592a",
+    "level": "n4",
+    "type": "kanji",
+    "character": "太",
+    "meaning": {
+      "en": "thick, fat, plump",
+      "id": "tebal, gemuk, menjadi gemuk"
+    },
+    "onyomi": [
+      "タイ",
+      "タ"
+    ],
+    "kunyomi": [
+      "ふとい",
+      "ふとる"
+    ],
+    "examples": [
+      "太い",
+      "太る"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "大・犬・太 (Similar-looking Kanji)",
+    "sequence": 82,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 82
+    }
+  },
+  {
+    "id": "n4-kanji-u533a",
+    "level": "n4",
+    "type": "kanji",
+    "character": "区",
+    "meaning": {
+      "en": "ward, district, section",
+      "id": "distrik, wilayah, bagian"
+    },
+    "onyomi": [
+      "ク"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "区"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "大・犬・太 (Similar-looking Kanji)",
+    "sequence": 83,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 83
+    }
+  },
+  {
+    "id": "n4-kanji-u601d",
+    "level": "n4",
+    "type": "kanji",
+    "character": "思",
+    "meaning": {
+      "en": "think, feel, remember",
+      "id": "berpikir, merasa, mengingat"
+    },
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "おもう"
+    ],
+    "examples": [
+      "思う",
+      "思い出す"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "大・犬・太 (Similar-looking Kanji)",
+    "sequence": 84,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 84
+    }
+  },
+  {
+    "id": "n4-kanji-u77e5",
+    "level": "n4",
+    "type": "kanji",
+    "character": "知",
+    "meaning": {
+      "en": "know, inform",
+      "id": "tahu, memberi tahu"
+    },
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "しる",
+      "しらせる"
+    ],
+    "examples": [
+      "知る",
+      "知らせる"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "大・犬・太 (Similar-looking Kanji)",
+    "sequence": 85,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 85
+    }
+  },
+  {
+    "id": "n4-kanji-u548c",
+    "level": "n4",
+    "type": "kanji",
+    "character": "和",
+    "meaning": {
+      "en": "Japanese-style, harmony, peace",
+      "id": "gaya Jepang, harmoni, damai"
+    },
+    "onyomi": [
+      "ワ"
+    ],
+    "kunyomi": [
+      "やわらぐ",
+      "なごむ"
+    ],
+    "examples": [
+      "和室",
+      "和菓子",
+      "平和"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "大・犬・太 (Similar-looking Kanji)",
+    "sequence": 86,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 86
+    }
+  },
+  {
+    "id": "n4-kanji-u65cf",
+    "level": "n4",
+    "type": "kanji",
+    "character": "族",
+    "meaning": {
+      "en": "family, tribe, group",
+      "id": "keluarga, suku, kelompok"
+    },
+    "onyomi": [
+      "ゾク"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "家族",
+      "水族館"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "大・犬・太 (Similar-looking Kanji)",
+    "sequence": 87,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 87
+    }
+  },
+  {
+    "id": "n4-kanji-u9752",
+    "level": "n4",
+    "type": "kanji",
+    "character": "青",
+    "meaning": {
+      "en": "blue, green-blue",
+      "id": "biru, hijau kebiruan"
+    },
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "あお",
+      "あおい"
+    ],
+    "examples": [
+      "青",
+      "青い"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "大・犬・太 (Similar-looking Kanji)",
+    "sequence": 88,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 88
+    }
+  },
+  {
+    "id": "n4-kanji-u5149",
+    "level": "n4",
+    "type": "kanji",
+    "character": "光",
+    "meaning": {
+      "en": "light, shine",
+      "id": "cahaya, bersinar"
+    },
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "ひかり",
+      "ひかる"
+    ],
+    "examples": [
+      "光",
+      "光る"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "大・犬・太 (Similar-looking Kanji)",
+    "sequence": 89,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 89
+    }
+  },
+  {
+    "id": "n4-kanji-u6c60",
+    "level": "n4",
+    "type": "kanji",
+    "character": "池",
+    "meaning": {
+      "en": "pond, battery in 電池",
+      "id": "kolam, baterai pada 電池"
+    },
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "いけ"
+    ],
+    "examples": [
+      "電池",
+      "池"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "大・犬・太 (Similar-looking Kanji)",
+    "sequence": 90,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 90
+    }
+  },
+  {
+    "id": "n4-kanji-u5225",
+    "level": "n4",
+    "type": "kanji",
+    "character": "別",
+    "meaning": {
+      "en": "separate, another, special",
+      "id": "terpisah, lain, khusus"
+    },
+    "onyomi": [
+      "ベツ"
+    ],
+    "kunyomi": [
+      "わかれる"
+    ],
+    "examples": [
+      "別の",
+      "特別な",
+      "別れる"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "大・犬・太 (Similar-looking Kanji)",
+    "sequence": 91,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 91
+    }
+  },
+  {
+    "id": "n4-kanji-u5bd2",
+    "level": "n4",
+    "type": "kanji",
+    "character": "寒",
+    "meaning": {
+      "en": "cold",
+      "id": "dingin"
+    },
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "さむい"
+    ],
+    "examples": [
+      "寒い"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "起きる ↔ 寝る (Learn as Pairs)",
+    "sequence": 92,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 3,
+      "sequence": 92
+    }
+  },
+  {
+    "id": "n4-kanji-u6691",
+    "level": "n4",
+    "type": "kanji",
+    "character": "暑",
+    "meaning": {
+      "en": "hot weather",
+      "id": "panas cuaca"
+    },
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "あつい"
+    ],
+    "examples": [
+      "暑い",
+      "蒸し暑い"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "起きる ↔ 寝る (Learn as Pairs)",
+    "sequence": 93,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 3,
+      "sequence": 93
+    }
+  },
+  {
+    "id": "n4-kanji-u91cd",
+    "level": "n4",
+    "type": "kanji",
+    "character": "重",
+    "meaning": {
+      "en": "heavy, serious, overlap",
+      "id": "berat, serius, bertumpuk"
+    },
+    "onyomi": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "おもい",
+      "かさなる"
+    ],
+    "examples": [
+      "重い"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "起きる ↔ 寝る (Learn as Pairs)",
+    "sequence": 94,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 3,
+      "sequence": 94
+    }
+  },
+  {
+    "id": "n4-kanji-u8efd",
+    "level": "n4",
+    "type": "kanji",
+    "character": "軽",
+    "meaning": {
+      "en": "light, not serious",
+      "id": "ringan, tidak serius"
+    },
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "かるい"
+    ],
+    "examples": [
+      "軽い"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "起きる ↔ 寝る (Learn as Pairs)",
+    "sequence": 95,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 3,
+      "sequence": 95
+    }
+  },
+  {
+    "id": "n4-kanji-u5e83",
+    "level": "n4",
+    "type": "kanji",
+    "character": "広",
+    "meaning": {
+      "en": "wide, spacious, spread",
+      "id": "luas, lebar, menyebar"
+    },
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "ひろい",
+      "ひろがる",
+      "ひろげる"
+    ],
+    "examples": [
+      "広い"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "起きる ↔ 寝る (Learn as Pairs)",
+    "sequence": 96,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 3,
+      "sequence": 96
+    }
+  },
+  {
+    "id": "n4-kanji-u5143",
+    "level": "n4",
+    "type": "kanji",
+    "character": "元",
+    "meaning": {
+      "en": "origin, former, healthy",
+      "id": "asal, semula, sehat"
+    },
+    "onyomi": [
+      "ゲン",
+      "ガン"
+    ],
+    "kunyomi": [
+      "もと"
+    ],
+    "examples": [
+      "元気な"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "起きる ↔ 寝る (Learn as Pairs)",
+    "sequence": 97,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 3,
+      "sequence": 97
+    }
+  },
+  {
+    "id": "n4-kanji-u75c5",
+    "level": "n4",
+    "type": "kanji",
+    "character": "病",
+    "meaning": {
+      "en": "illness, sick",
+      "id": "penyakit, sakit"
+    },
+    "onyomi": [
+      "ビョウ"
+    ],
+    "kunyomi": [
+      "やまい"
+    ],
+    "examples": [
+      "病院",
+      "病気"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "起きる ↔ 寝る (Learn as Pairs)",
+    "sequence": 98,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 3,
+      "sequence": 98
+    }
+  },
+  {
+    "id": "n4-kanji-u8d77",
+    "level": "n4",
+    "type": "kanji",
+    "character": "起",
+    "meaning": {
+      "en": "get up, wake, happen",
+      "id": "bangun, membangunkan, terjadi"
+    },
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "おきる",
+      "おこす"
+    ],
+    "examples": [
+      "起きる",
+      "起こす"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "起きる ↔ 寝る (Learn as Pairs)",
+    "sequence": 99,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 3,
+      "sequence": 99
+    }
+  },
+  {
+    "id": "n4-kanji-u5bdd",
+    "level": "n4",
+    "type": "kanji",
+    "character": "寝",
+    "meaning": {
+      "en": "sleep, lie down",
+      "id": "tidur, berbaring"
+    },
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "ねる",
+      "ねかす"
+    ],
+    "examples": [
+      "寝る",
+      "寝坊"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "起きる ↔ 寝る (Learn as Pairs)",
+    "sequence": 100,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 3,
+      "sequence": 100
+    }
+  },
+  {
+    "id": "n4-kanji-u59cb",
+    "level": "n4",
+    "type": "kanji",
+    "character": "始",
+    "meaning": {
+      "en": "begin, start",
+      "id": "mulai, memulai"
+    },
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "はじまる",
+      "はじめる"
+    ],
+    "examples": [
+      "始まる",
+      "始める"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "起きる ↔ 寝る (Learn as Pairs)",
+    "sequence": 101,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 3,
+      "sequence": 101
+    }
+  },
+  {
+    "id": "n4-kanji-u7d42",
+    "level": "n4",
+    "type": "kanji",
+    "character": "終",
+    "meaning": {
+      "en": "finish, end",
+      "id": "selesai, mengakhiri"
+    },
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "おわる",
+      "おえる"
+    ],
+    "examples": [
+      "終わる",
+      "終える"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "起きる ↔ 寝る (Learn as Pairs)",
+    "sequence": 102,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 3,
+      "sequence": 102
+    }
+  },
+  {
+    "id": "n4-kanji-u7814",
+    "level": "n4",
+    "type": "kanji",
+    "character": "研",
+    "meaning": {
+      "en": "polish, study, research",
+      "id": "mengasah, mempelajari, penelitian"
+    },
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "研究する"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "発音・注意 (Pronunciation-focused Kanji)",
+    "sequence": 103,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 4,
+      "sequence": 103
+    }
+  },
+  {
+    "id": "n4-kanji-u7a76",
+    "level": "n4",
+    "type": "kanji",
+    "character": "究",
+    "meaning": {
+      "en": "research, investigate thoroughly",
+      "id": "meneliti, mendalami"
+    },
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "きわめる"
+    ],
+    "examples": [
+      "研究室",
+      "研究生",
+      "研究者"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "発音・注意 (Pronunciation-focused Kanji)",
+    "sequence": 104,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 4,
+      "sequence": 104
+    }
+  },
+  {
+    "id": "n4-kanji-u4f4f",
+    "level": "n4",
+    "type": "kanji",
+    "character": "住",
+    "meaning": {
+      "en": "live, reside",
+      "id": "tinggal"
+    },
+    "onyomi": [
+      "ジュウ"
+    ],
+    "kunyomi": [
+      "すむ"
+    ],
+    "examples": [
+      "住所",
+      "住む"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "発音・注意 (Pronunciation-focused Kanji)",
+    "sequence": 105,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 4,
+      "sequence": 105
+    }
+  },
+  {
+    "id": "n4-kanji-u6240",
+    "level": "n4",
+    "type": "kanji",
+    "character": "所",
+    "meaning": {
+      "en": "place, location",
+      "id": "tempat, lokasi"
+    },
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "ところ"
+    ],
+    "examples": [
+      "場所",
+      "所",
+      "台所"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "発音・注意 (Pronunciation-focused Kanji)",
+    "sequence": 106,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 4,
+      "sequence": 106
+    }
+  },
+  {
+    "id": "n4-kanji-u6ce8",
+    "level": "n4",
+    "type": "kanji",
+    "character": "注",
+    "meaning": {
+      "en": "pay attention, pour, order",
+      "id": "memperhatikan, menuangkan, memesan"
+    },
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "そそぐ"
+    ],
+    "examples": [
+      "注意する",
+      "注文する"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "発音・注意 (Pronunciation-focused Kanji)",
+    "sequence": 107,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 4,
+      "sequence": 107
+    }
+  },
+  {
+    "id": "n4-kanji-u610f",
+    "level": "n4",
+    "type": "kanji",
+    "character": "意",
+    "meaning": {
+      "en": "meaning, idea, mind",
+      "id": "arti, ide, pikiran"
+    },
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "意味",
+      "意見"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "発音・注意 (Pronunciation-focused Kanji)",
+    "sequence": 108,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 4,
+      "sequence": 108
+    }
+  },
+  {
+    "id": "n4-kanji-u6559",
+    "level": "n4",
+    "type": "kanji",
+    "character": "教",
+    "meaning": {
+      "en": "teach, education",
+      "id": "mengajar, pendidikan"
+    },
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "おしえる",
+      "おそわる"
+    ],
+    "examples": [
+      "教室",
+      "教育",
+      "教える"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "発音・注意 (Pronunciation-focused Kanji)",
+    "sequence": 109,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 4,
+      "sequence": 109
+    }
+  },
+  {
+    "id": "n4-kanji-u767a",
+    "level": "n4",
+    "type": "kanji",
+    "character": "発",
+    "meaning": {
+      "en": "departure, emit, start",
+      "id": "keberangkatan, memancarkan, mulai"
+    },
+    "onyomi": [
+      "ハツ",
+      "ホツ"
+    ],
+    "kunyomi": [
+      "たつ"
+    ],
+    "examples": [
+      "発音",
+      "出発する"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "発音・注意 (Pronunciation-focused Kanji)",
+    "sequence": 110,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 4,
+      "sequence": 110
+    }
+  },
+  {
+    "id": "n4-kanji-u97f3",
+    "level": "n4",
+    "type": "kanji",
+    "character": "音",
+    "meaning": {
+      "en": "sound, music",
+      "id": "bunyi, suara, musik"
+    },
+    "onyomi": [
+      "オン",
+      "イン"
+    ],
+    "kunyomi": [
+      "おと",
+      "ね"
+    ],
+    "examples": [
+      "音楽",
+      "音"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "発音・注意 (Pronunciation-focused Kanji)",
+    "sequence": 111,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 4,
+      "sequence": 111
+    }
+  },
+  {
+    "id": "n4-kanji-u5de5",
+    "level": "n4",
+    "type": "kanji",
+    "character": "工",
+    "meaning": {
+      "en": "craft, construction, industry",
+      "id": "kerajinan, konstruksi, industri"
+    },
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "工業",
+      "工事"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "発音・注意 (Pronunciation-focused Kanji)",
+    "sequence": 112,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 4,
+      "sequence": 112
+    }
+  },
+  {
+    "id": "n4-kanji-u696d",
+    "level": "n4",
+    "type": "kanji",
+    "character": "業",
+    "meaning": {
+      "en": "work, business, industry, lesson",
+      "id": "pekerjaan, bisnis, industri, pelajaran"
+    },
+    "onyomi": [
+      "ギョウ",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "わざ"
+    ],
+    "examples": [
+      "授業",
+      "卒業",
+      "工業"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "発音・注意 (Pronunciation-focused Kanji)",
+    "sequence": 113,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 4,
+      "sequence": 113
+    }
+  },
+  {
+    "id": "n4-kanji-u4ee5",
+    "level": "n4",
+    "type": "kanji",
+    "character": "以",
+    "meaning": {
+      "en": "by means of, compared with, since",
+      "id": "dengan, dibandingkan, sejak"
+    },
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "以下",
+      "以上",
+      "以内",
+      "以外"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "号・番・全 (Kanji Used to Form Words)",
+    "sequence": 114,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 5,
+      "sequence": 114
+    }
+  },
+  {
+    "id": "n4-kanji-u5185",
+    "level": "n4",
+    "type": "kanji",
+    "character": "内",
+    "meaning": {
+      "en": "inside, within, home",
+      "id": "dalam, di dalam, rumah"
+    },
+    "onyomi": [
+      "ナイ"
+    ],
+    "kunyomi": [
+      "うち"
+    ],
+    "examples": [
+      "家内",
+      "室内",
+      "内側"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "号・番・全 (Kanji Used to Form Words)",
+    "sequence": 115,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 5,
+      "sequence": 115
+    }
+  },
+  {
+    "id": "n4-kanji-u4ee3",
+    "level": "n4",
+    "type": "kanji",
+    "character": "代",
+    "meaning": {
+      "en": "period, fare, substitute",
+      "id": "masa, ongkos, pengganti"
+    },
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "かわる",
+      "かえる"
+    ],
+    "examples": [
+      "時代",
+      "バス代",
+      "代わりに"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "号・番・全 (Kanji Used to Form Words)",
+    "sequence": 116,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 5,
+      "sequence": 116
+    }
+  },
+  {
+    "id": "n4-kanji-u53f7",
+    "level": "n4",
+    "type": "kanji",
+    "character": "号",
+    "meaning": {
+      "en": "number, issue, signal",
+      "id": "nomor, edisi, sinyal"
+    },
+    "onyomi": [
+      "ゴウ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "番号",
+      "102号室"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "号・番・全 (Kanji Used to Form Words)",
+    "sequence": 117,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 5,
+      "sequence": 117
+    }
+  },
+  {
+    "id": "n4-kanji-u756a",
+    "level": "n4",
+    "type": "kanji",
+    "character": "番",
+    "meaning": {
+      "en": "number, turn, guard",
+      "id": "nomor, giliran, pos"
+    },
+    "onyomi": [
+      "バン"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "交番",
+      "1番",
+      "3番線"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "号・番・全 (Kanji Used to Form Words)",
+    "sequence": 118,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 5,
+      "sequence": 118
+    }
+  },
+  {
+    "id": "n4-kanji-u5ea6",
+    "level": "n4",
+    "type": "kanji",
+    "character": "度",
+    "meaning": {
+      "en": "degree, time, occasion",
+      "id": "derajat, kali, kesempatan"
+    },
+    "onyomi": [
+      "ド",
+      "タク"
+    ],
+    "kunyomi": [
+      "たび"
+    ],
+    "examples": [
+      "一度",
+      "今度",
+      "支度する"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "号・番・全 (Kanji Used to Form Words)",
+    "sequence": 119,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 5,
+      "sequence": 119
+    }
+  },
+  {
+    "id": "n4-kanji-u5168",
+    "level": "n4",
+    "type": "kanji",
+    "character": "全",
+    "meaning": {
+      "en": "all, whole, safe",
+      "id": "semua, seluruh, aman"
+    },
+    "onyomi": [
+      "ゼン"
+    ],
+    "kunyomi": [
+      "まったく"
+    ],
+    "examples": [
+      "全部",
+      "安全な",
+      "全然〜ない"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "号・番・全 (Kanji Used to Form Words)",
+    "sequence": 120,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 5,
+      "sequence": 120
+    }
+  },
+  {
+    "id": "n4-kanji-u6d0b",
+    "level": "n4",
+    "type": "kanji",
+    "character": "洋",
+    "meaning": {
+      "en": "Western, ocean",
+      "id": "Barat, samudra"
+    },
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "西洋",
+      "東洋",
+      "洋服"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "号・番・全 (Kanji Used to Form Words)",
+    "sequence": 121,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 5,
+      "sequence": 121
+    }
+  },
+  {
+    "id": "n4-kanji-u670d",
+    "level": "n4",
+    "type": "kanji",
+    "character": "服",
+    "meaning": {
+      "en": "clothes, obey",
+      "id": "pakaian, patuh"
+    },
+    "onyomi": [
+      "フク"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "服",
+      "洋服",
+      "和服"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "号・番・全 (Kanji Used to Form Words)",
+    "sequence": 122,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 5,
+      "sequence": 122
+    }
+  },
+  {
+    "id": "n4-kanji-u59b9",
+    "level": "n4",
+    "type": "kanji",
+    "character": "妹",
+    "meaning": {
+      "en": "younger sister",
+      "id": "adik perempuan"
+    },
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [
+      "いもうと"
+    ],
+    "examples": [
+      "妹"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "赤・白・黄 (Learn as Groups)",
+    "sequence": 123,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 6,
+      "sequence": 123
+    }
+  },
+  {
+    "id": "n4-kanji-u597d",
+    "level": "n4",
+    "type": "kanji",
+    "character": "好",
+    "meaning": {
+      "en": "like, favorite",
+      "id": "suka, favorit"
+    },
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "すき",
+      "このむ"
+    ],
+    "examples": [
+      "好きな",
+      "大好きな"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "赤・白・黄 (Learn as Groups)",
+    "sequence": 124,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 6,
+      "sequence": 124
+    }
+  },
+  {
+    "id": "n4-kanji-u5f1f",
+    "level": "n4",
+    "type": "kanji",
+    "character": "弟",
+    "meaning": {
+      "en": "younger brother",
+      "id": "adik laki-laki"
+    },
+    "onyomi": [
+      "テイ",
+      "ダイ",
+      "デ"
+    ],
+    "kunyomi": [
+      "おとうと"
+    ],
+    "examples": [
+      "兄弟",
+      "弟"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "赤・白・黄 (Learn as Groups)",
+    "sequence": 125,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 6,
+      "sequence": 125
+    }
+  },
+  {
+    "id": "n4-kanji-u8d64",
+    "level": "n4",
+    "type": "kanji",
+    "character": "赤",
+    "meaning": {
+      "en": "red",
+      "id": "merah"
+    },
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "あか",
+      "あかい"
+    ],
+    "examples": [
+      "赤",
+      "赤ちゃん",
+      "赤い"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "赤・白・黄 (Learn as Groups)",
+    "sequence": 126,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 6,
+      "sequence": 126
+    }
+  },
+  {
+    "id": "n4-kanji-u9ec4",
+    "level": "n4",
+    "type": "kanji",
+    "character": "黄",
+    "meaning": {
+      "en": "yellow",
+      "id": "kuning"
+    },
+    "onyomi": [
+      "コウ",
+      "オウ"
+    ],
+    "kunyomi": [
+      "き",
+      "こ"
+    ],
+    "examples": [
+      "黄色",
+      "黄色い"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "赤・白・黄 (Learn as Groups)",
+    "sequence": 127,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 6,
+      "sequence": 127
+    }
+  },
+  {
+    "id": "n4-kanji-u8272",
+    "level": "n4",
+    "type": "kanji",
+    "character": "色",
+    "meaning": {
+      "en": "color",
+      "id": "warna"
+    },
+    "onyomi": [
+      "ショク",
+      "シキ"
+    ],
+    "kunyomi": [
+      "いろ"
+    ],
+    "examples": [
+      "色",
+      "茶色"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "赤・白・黄 (Learn as Groups)",
+    "sequence": 128,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 6,
+      "sequence": 128
+    }
+  },
+  {
+    "id": "n4-kanji-u9ed2",
+    "level": "n4",
+    "type": "kanji",
+    "character": "黒",
+    "meaning": {
+      "en": "black",
+      "id": "hitam"
+    },
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "くろ",
+      "くろい"
+    ],
+    "examples": [
+      "黒",
+      "黒い"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "赤・白・黄 (Learn as Groups)",
+    "sequence": 129,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 6,
+      "sequence": 129
+    }
+  },
+  {
+    "id": "n4-kanji-u9996",
+    "level": "n4",
+    "type": "kanji",
+    "character": "首",
+    "meaning": {
+      "en": "neck, head of a group",
+      "id": "leher, kepala/pemimpin"
+    },
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "くび"
+    ],
+    "examples": [
+      "首"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "赤・白・黄 (Learn as Groups)",
+    "sequence": 130,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 6,
+      "sequence": 130
+    }
+  },
+  {
+    "id": "n4-kanji-u9854",
+    "level": "n4",
+    "type": "kanji",
+    "character": "顔",
+    "meaning": {
+      "en": "face",
+      "id": "wajah"
+    },
+    "onyomi": [
+      "ガン"
+    ],
+    "kunyomi": [
+      "かお"
+    ],
+    "examples": [
+      "顔"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "赤・白・黄 (Learn as Groups)",
+    "sequence": 131,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 6,
+      "sequence": 131
+    }
+  },
+  {
+    "id": "n4-kanji-u982d",
+    "level": "n4",
+    "type": "kanji",
+    "character": "頭",
+    "meaning": {
+      "en": "head",
+      "id": "kepala"
+    },
+    "onyomi": [
+      "トウ",
+      "ズ"
+    ],
+    "kunyomi": [
+      "あたま",
+      "かしら"
+    ],
+    "examples": [
+      "頭"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "赤・白・黄 (Learn as Groups)",
+    "sequence": 132,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 6,
+      "sequence": 132
+    }
+  },
+  {
+    "id": "n4-kanji-u53d6",
+    "level": "n4",
+    "type": "kanji",
+    "character": "取",
+    "meaning": {
+      "en": "take, get, receive",
+      "id": "mengambil, mendapatkan, menerima"
+    },
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "とる"
+    ],
+    "examples": [
+      "取る",
+      "取り替える"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "建物の中のサイン (Signs in a Building)",
+    "sequence": 133,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 7,
+      "sequence": 133
+    }
+  },
+  {
+    "id": "n4-kanji-u62bc",
+    "level": "n4",
+    "type": "kanji",
+    "character": "押",
+    "meaning": {
+      "en": "push, press, hold down",
+      "id": "mendorong, menekan, menahan"
+    },
+    "onyomi": [
+      "オウ"
+    ],
+    "kunyomi": [
+      "おす",
+      "おさえる"
+    ],
+    "examples": [
+      "押す",
+      "押し入れ"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "建物の中のサイン (Signs in a Building)",
+    "sequence": 134,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 7,
+      "sequence": 134
+    }
+  },
+  {
+    "id": "n4-kanji-u5f15",
+    "level": "n4",
+    "type": "kanji",
+    "character": "引",
+    "meaning": {
+      "en": "pull, draw, subtract",
+      "id": "menarik, menggambar, mengurangi"
+    },
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "ひく",
+      "ひける"
+    ],
+    "examples": [
+      "引く",
+      "引き出し"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "建物の中のサイン (Signs in a Building)",
+    "sequence": 135,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 7,
+      "sequence": 135
+    }
+  },
+  {
+    "id": "n4-kanji-u958b",
+    "level": "n4",
+    "type": "kanji",
+    "character": "開",
+    "meaning": {
+      "en": "open",
+      "id": "membuka, terbuka"
+    },
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "あく",
+      "あける",
+      "ひらく"
+    ],
+    "examples": [
+      "開く",
+      "開ける",
+      "ファイルを開く"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "建物の中のサイン (Signs in a Building)",
+    "sequence": 136,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 7,
+      "sequence": 136
+    }
+  },
+  {
+    "id": "n4-kanji-u9589",
+    "level": "n4",
+    "type": "kanji",
+    "character": "閉",
+    "meaning": {
+      "en": "close, shut",
+      "id": "menutup, tertutup"
+    },
+    "onyomi": [
+      "ヘイ"
+    ],
+    "kunyomi": [
+      "しまる",
+      "しめる",
+      "とじる"
+    ],
+    "examples": [
+      "閉まる",
+      "閉める",
+      "ドアが閉まる"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "建物の中のサイン (Signs in a Building)",
+    "sequence": 137,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 7,
+      "sequence": 137
+    }
+  },
+  {
+    "id": "n4-kanji-u6b62",
+    "level": "n4",
+    "type": "kanji",
+    "character": "止",
+    "meaning": {
+      "en": "stop, halt",
+      "id": "berhenti, menghentikan"
+    },
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "とまる",
+      "とめる"
+    ],
+    "examples": [
+      "中止する",
+      "使用中止",
+      "止まる",
+      "止める"
+    ],
+    "source": "soumatome",
+    "week": 2,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう② (Let's Study Kanji 2)",
+    "dayTitle": "建物の中のサイン (Signs in a Building)",
+    "sequence": 138,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 7,
+      "sequence": 138
+    }
+  },
+  {
+    "id": "n4-kanji-u90e8",
+    "level": "n4",
+    "type": "kanji",
+    "character": "部",
+    "meaning": {
+      "en": "part, section, department",
+      "id": "bagian, seksi, departemen"
+    },
+    "onyomi": [
+      "ブ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "部長",
+      "全部",
+      "学部",
+      "部屋"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "部屋・土産 (Special Readings)",
+    "sequence": 139,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 1,
+      "sequence": 139
+    }
+  },
+  {
+    "id": "n4-kanji-u5c4b",
+    "level": "n4",
+    "type": "kanji",
+    "character": "屋",
+    "meaning": {
+      "en": "roof, shop, house",
+      "id": "atap, toko, rumah"
+    },
+    "onyomi": [
+      "オク"
+    ],
+    "kunyomi": [
+      "や"
+    ],
+    "examples": [
+      "屋上",
+      "本屋",
+      "花屋"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "部屋・土産 (Special Readings)",
+    "sequence": 140,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 1,
+      "sequence": 140
+    }
+  },
+  {
+    "id": "n4-kanji-u7523",
+    "level": "n4",
+    "type": "kanji",
+    "character": "産",
+    "meaning": {
+      "en": "produce, industry, property",
+      "id": "menghasilkan, industri, hasil"
+    },
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "うむ",
+      "うまれる"
+    ],
+    "examples": [
+      "産業",
+      "お土産"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "部屋・土産 (Special Readings)",
+    "sequence": 141,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 1,
+      "sequence": 141
+    }
+  },
+  {
+    "id": "n4-kanji-u59c9",
+    "level": "n4",
+    "type": "kanji",
+    "character": "姉",
+    "meaning": {
+      "en": "older sister",
+      "id": "kakak perempuan"
+    },
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "あね"
+    ],
+    "examples": [
+      "姉",
+      "お姉さん"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "部屋・土産 (Special Readings)",
+    "sequence": 142,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 1,
+      "sequence": 142
+    }
+  },
+  {
+    "id": "n4-kanji-u5144",
+    "level": "n4",
+    "type": "kanji",
+    "character": "兄",
+    "meaning": {
+      "en": "older brother",
+      "id": "kakak laki-laki"
+    },
+    "onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "kunyomi": [
+      "あに"
+    ],
+    "examples": [
+      "兄弟",
+      "兄",
+      "お兄さん"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "部屋・土産 (Special Readings)",
+    "sequence": 143,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 1,
+      "sequence": 143
+    }
+  },
+  {
+    "id": "n4-kanji-u4e16",
+    "level": "n4",
+    "type": "kanji",
+    "character": "世",
+    "meaning": {
+      "en": "world, generation, society",
+      "id": "dunia, generasi, masyarakat"
+    },
+    "onyomi": [
+      "セイ",
+      "セ"
+    ],
+    "kunyomi": [
+      "よ"
+    ],
+    "examples": [
+      "世界",
+      "世話をする"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "部屋・土産 (Special Readings)",
+    "sequence": 144,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 1,
+      "sequence": 144
+    }
+  },
+  {
+    "id": "n4-kanji-u754c",
+    "level": "n4",
+    "type": "kanji",
+    "character": "界",
+    "meaning": {
+      "en": "world, boundary",
+      "id": "dunia, batas"
+    },
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "世界中",
+      "世界"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "部屋・土産 (Special Readings)",
+    "sequence": 145,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 1,
+      "sequence": 145
+    }
+  },
+  {
+    "id": "n4-kanji-u6301",
+    "level": "n4",
+    "type": "kanji",
+    "character": "持",
+    "meaning": {
+      "en": "have, hold, carry",
+      "id": "memiliki, memegang, membawa"
+    },
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "もつ"
+    ],
+    "examples": [
+      "持つ",
+      "気持ち",
+      "お金持ち"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "持・待・特 (Kanji with the Same Radicals)",
+    "sequence": 146,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 2,
+      "sequence": 146
+    }
+  },
+  {
+    "id": "n4-kanji-u5f85",
+    "level": "n4",
+    "type": "kanji",
+    "character": "待",
+    "meaning": {
+      "en": "wait, invite",
+      "id": "menunggu, mengundang"
+    },
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "まつ"
+    ],
+    "examples": [
+      "招待する",
+      "待つ"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "持・待・特 (Kanji with the Same Radicals)",
+    "sequence": 147,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 2,
+      "sequence": 147
+    }
+  },
+  {
+    "id": "n4-kanji-u7279",
+    "level": "n4",
+    "type": "kanji",
+    "character": "特",
+    "meaning": {
+      "en": "special, particular",
+      "id": "khusus, istimewa"
+    },
+    "onyomi": [
+      "トク"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "特急",
+      "特別な",
+      "特に"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "持・待・特 (Kanji with the Same Radicals)",
+    "sequence": 148,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 2,
+      "sequence": 148
+    }
+  },
+  {
+    "id": "n4-kanji-u6797",
+    "level": "n4",
+    "type": "kanji",
+    "character": "林",
+    "meaning": {
+      "en": "woods, grove",
+      "id": "hutan kecil, pepohonan"
+    },
+    "onyomi": [
+      "リン"
+    ],
+    "kunyomi": [
+      "はやし"
+    ],
+    "examples": [
+      "林"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "持・待・特 (Kanji with the Same Radicals)",
+    "sequence": 149,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 2,
+      "sequence": 149
+    }
+  },
+  {
+    "id": "n4-kanji-u6751",
+    "level": "n4",
+    "type": "kanji",
+    "character": "村",
+    "meaning": {
+      "en": "village",
+      "id": "desa"
+    },
+    "onyomi": [
+      "ソン"
+    ],
+    "kunyomi": [
+      "むら"
+    ],
+    "examples": [
+      "村"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "持・待・特 (Kanji with the Same Radicals)",
+    "sequence": 150,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 2,
+      "sequence": 150
+    }
+  },
+  {
+    "id": "n4-kanji-u68ee",
+    "level": "n4",
+    "type": "kanji",
+    "character": "森",
+    "meaning": {
+      "en": "forest",
+      "id": "hutan"
+    },
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "もり"
+    ],
+    "examples": [
+      "森"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "持・待・特 (Kanji with the Same Radicals)",
+    "sequence": 151,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 2,
+      "sequence": 151
+    }
+  },
+  {
+    "id": "n4-kanji-u66dc",
+    "level": "n4",
+    "type": "kanji",
+    "character": "曜",
+    "meaning": {
+      "en": "weekday",
+      "id": "hari dalam minggu"
+    },
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "曜日",
+      "日曜日"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "持・待・特 (Kanji with the Same Radicals)",
+    "sequence": 152,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 2,
+      "sequence": 152
+    }
+  },
+  {
+    "id": "n4-kanji-u6fef",
+    "level": "n4",
+    "type": "kanji",
+    "character": "濯",
+    "meaning": {
+      "en": "laundry, wash",
+      "id": "cucian, mencuci"
+    },
+    "onyomi": [
+      "タク"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "洗濯する"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "持・待・特 (Kanji with the Same Radicals)",
+    "sequence": 153,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 2,
+      "sequence": 153
+    }
+  },
+  {
+    "id": "n4-kanji-u8cea",
+    "level": "n4",
+    "type": "kanji",
+    "character": "質",
+    "meaning": {
+      "en": "quality, question",
+      "id": "kualitas, pertanyaan"
+    },
+    "onyomi": [
+      "シツ",
+      "シチ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "質問する"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "持・待・特 (Kanji with the Same Radicals)",
+    "sequence": 154,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 2,
+      "sequence": 154
+    }
+  },
+  {
+    "id": "n4-kanji-u554f",
+    "level": "n4",
+    "type": "kanji",
+    "character": "問",
+    "meaning": {
+      "en": "question, problem, ask",
+      "id": "pertanyaan, masalah, bertanya"
+    },
+    "onyomi": [
+      "モン"
+    ],
+    "kunyomi": [
+      "とう",
+      "とい"
+    ],
+    "examples": [
+      "問題",
+      "質問"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "持・待・特 (Kanji with the Same Radicals)",
+    "sequence": 155,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 2,
+      "sequence": 155
+    }
+  },
+  {
+    "id": "n4-kanji-u984c",
+    "level": "n4",
+    "type": "kanji",
+    "character": "題",
+    "meaning": {
+      "en": "topic, problem, title",
+      "id": "topik, soal, judul"
+    },
+    "onyomi": [
+      "ダイ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "宿題",
+      "問題"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "持・待・特 (Kanji with the Same Radicals)",
+    "sequence": 156,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 2,
+      "sequence": 156
+    }
+  },
+  {
+    "id": "n4-kanji-u58f2",
+    "level": "n4",
+    "type": "kanji",
+    "character": "売",
+    "meaning": {
+      "en": "sell, be sold",
+      "id": "menjual, laku"
+    },
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "うる",
+      "うれる"
+    ],
+    "examples": [
+      "売る",
+      "売り場"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "習う ↔ 教える (Learn as Pairs)",
+    "sequence": 157,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 3,
+      "sequence": 157
+    }
+  },
+  {
+    "id": "n4-kanji-u501f",
+    "level": "n4",
+    "type": "kanji",
+    "character": "借",
+    "meaning": {
+      "en": "borrow, rent",
+      "id": "meminjam, menyewa"
+    },
+    "onyomi": [
+      "シャク"
+    ],
+    "kunyomi": [
+      "かりる"
+    ],
+    "examples": [
+      "借りる"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "習う ↔ 教える (Learn as Pairs)",
+    "sequence": 158,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 3,
+      "sequence": 158
+    }
+  },
+  {
+    "id": "n4-kanji-u8cb8",
+    "level": "n4",
+    "type": "kanji",
+    "character": "貸",
+    "meaning": {
+      "en": "lend, loan",
+      "id": "meminjamkan"
+    },
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "かす"
+    ],
+    "examples": [
+      "貸す"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "習う ↔ 教える (Learn as Pairs)",
+    "sequence": 159,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 3,
+      "sequence": 159
+    }
+  },
+  {
+    "id": "n4-kanji-u7fd2",
+    "level": "n4",
+    "type": "kanji",
+    "character": "習",
+    "meaning": {
+      "en": "learn, practice, habit",
+      "id": "belajar, latihan, kebiasaan"
+    },
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "ならう"
+    ],
+    "examples": [
+      "練習する",
+      "予習する",
+      "復習する",
+      "習慣",
+      "習う"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "習う ↔ 教える (Learn as Pairs)",
+    "sequence": 160,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 3,
+      "sequence": 160
+    }
+  },
+  {
+    "id": "n4-kanji-u5ea7",
+    "level": "n4",
+    "type": "kanji",
+    "character": "座",
+    "meaning": {
+      "en": "sit, seat",
+      "id": "duduk, kursi"
+    },
+    "onyomi": [
+      "ザ"
+    ],
+    "kunyomi": [
+      "すわる"
+    ],
+    "examples": [
+      "座る",
+      "座席"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "習う ↔ 教える (Learn as Pairs)",
+    "sequence": 161,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 3,
+      "sequence": 161
+    }
+  },
+  {
+    "id": "n4-kanji-u4e57",
+    "level": "n4",
+    "type": "kanji",
+    "character": "乗",
+    "meaning": {
+      "en": "ride, get on, board",
+      "id": "naik kendaraan, menaiki"
+    },
+    "onyomi": [
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "のる",
+      "のせる"
+    ],
+    "examples": [
+      "乗る",
+      "乗り物",
+      "乗り換える"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "習う ↔ 教える (Learn as Pairs)",
+    "sequence": 162,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 3,
+      "sequence": 162
+    }
+  },
+  {
+    "id": "n4-kanji-u6b7b",
+    "level": "n4",
+    "type": "kanji",
+    "character": "死",
+    "meaning": {
+      "en": "die, death",
+      "id": "mati, kematian"
+    },
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "しぬ"
+    ],
+    "examples": [
+      "死ぬ",
+      "死亡"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "習う ↔ 教える (Learn as Pairs)",
+    "sequence": 163,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 3,
+      "sequence": 163
+    }
+  },
+  {
+    "id": "n4-kanji-u4e0d",
+    "level": "n4",
+    "type": "kanji",
+    "character": "不",
+    "meaning": {
+      "en": "not, un-, non-",
+      "id": "tidak, tidak nyaman, non-"
+    },
+    "onyomi": [
+      "フ",
+      "ブ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "不便な",
+      "不安な"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "習う ↔ 教える (Learn as Pairs)",
+    "sequence": 164,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 3,
+      "sequence": 164
+    }
+  },
+  {
+    "id": "n4-kanji-u4f53",
+    "level": "n4",
+    "type": "kanji",
+    "character": "体",
+    "meaning": {
+      "en": "body",
+      "id": "tubuh"
+    },
+    "onyomi": [
+      "タイ",
+      "テイ"
+    ],
+    "kunyomi": [
+      "からだ"
+    ],
+    "examples": [
+      "体"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "体・薬 (Pronunciation and Writing)",
+    "sequence": 165,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 4,
+      "sequence": 165
+    }
+  },
+  {
+    "id": "n4-kanji-u50cd",
+    "level": "n4",
+    "type": "kanji",
+    "character": "働",
+    "meaning": {
+      "en": "work, labor",
+      "id": "bekerja, bekerja keras"
+    },
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "はたらく"
+    ],
+    "examples": [
+      "働く",
+      "労働"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "体・薬 (Pronunciation and Writing)",
+    "sequence": 166,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 4,
+      "sequence": 166
+    }
+  },
+  {
+    "id": "n4-kanji-u85ac",
+    "level": "n4",
+    "type": "kanji",
+    "character": "薬",
+    "meaning": {
+      "en": "medicine, drug",
+      "id": "obat"
+    },
+    "onyomi": [
+      "ヤク"
+    ],
+    "kunyomi": [
+      "くすり"
+    ],
+    "examples": [
+      "薬",
+      "薬局"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "体・薬 (Pronunciation and Writing)",
+    "sequence": 167,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 4,
+      "sequence": 167
+    }
+  },
+  {
+    "id": "n4-kanji-u5965",
+    "level": "n4",
+    "type": "kanji",
+    "character": "奥",
+    "meaning": {
+      "en": "inner part, back, wife",
+      "id": "bagian dalam, belakang, istri"
+    },
+    "onyomi": [
+      "オウ"
+    ],
+    "kunyomi": [
+      "おく"
+    ],
+    "examples": [
+      "奥さん",
+      "奥"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "体・薬 (Pronunciation and Writing)",
+    "sequence": 168,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 4,
+      "sequence": 168
+    }
+  },
+  {
+    "id": "n4-kanji-u6b63",
+    "level": "n4",
+    "type": "kanji",
+    "character": "正",
+    "meaning": {
+      "en": "correct, right, justice",
+      "id": "benar, tepat, keadilan"
+    },
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "ただしい",
+      "ただす"
+    ],
+    "examples": [
+      "正月",
+      "正しい"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "体・薬 (Pronunciation and Writing)",
+    "sequence": 169,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 4,
+      "sequence": 169
+    }
+  },
+  {
+    "id": "n4-kanji-u6025",
+    "level": "n4",
+    "type": "kanji",
+    "character": "急",
+    "meaning": {
+      "en": "sudden, urgent, express",
+      "id": "tiba-tiba, mendesak, ekspres"
+    },
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "いそぐ"
+    ],
+    "examples": [
+      "特急",
+      "急行",
+      "急に",
+      "急ぐ"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "体・薬 (Pronunciation and Writing)",
+    "sequence": 170,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 4,
+      "sequence": 170
+    }
+  },
+  {
+    "id": "n4-kanji-u8a66",
+    "level": "n4",
+    "type": "kanji",
+    "character": "試",
+    "meaning": {
+      "en": "test, try",
+      "id": "ujian, mencoba"
+    },
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "ためす",
+      "こころみる"
+    ],
+    "examples": [
+      "試合",
+      "試験"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "体・薬 (Pronunciation and Writing)",
+    "sequence": 171,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 4,
+      "sequence": 171
+    }
+  },
+  {
+    "id": "n4-kanji-u9a13",
+    "level": "n4",
+    "type": "kanji",
+    "character": "験",
+    "meaning": {
+      "en": "test, exam, experience",
+      "id": "ujian, pengalaman"
+    },
+    "onyomi": [
+      "ケン",
+      "ゲン"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "試験",
+      "経験する"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "体・薬 (Pronunciation and Writing)",
+    "sequence": 172,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 4,
+      "sequence": 172
+    }
+  },
+  {
+    "id": "n4-kanji-u8003",
+    "level": "n4",
+    "type": "kanji",
+    "character": "考",
+    "meaning": {
+      "en": "think, consider",
+      "id": "berpikir, mempertimbangkan"
+    },
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "かんがえる"
+    ],
+    "examples": [
+      "考える"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "体・薬 (Pronunciation and Writing)",
+    "sequence": 173,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 4,
+      "sequence": 173
+    }
+  },
+  {
+    "id": "n4-kanji-u5fc3",
+    "level": "n4",
+    "type": "kanji",
+    "character": "心",
+    "meaning": {
+      "en": "heart, mind",
+      "id": "hati, pikiran"
+    },
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "こころ"
+    ],
+    "examples": [
+      "安心する",
+      "心",
+      "心配する"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "体・薬 (Pronunciation and Writing)",
+    "sequence": 174,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 4,
+      "sequence": 174
+    }
+  },
+  {
+    "id": "n4-kanji-u58f0",
+    "level": "n4",
+    "type": "kanji",
+    "character": "声",
+    "meaning": {
+      "en": "voice",
+      "id": "suara"
+    },
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "こえ"
+    ],
+    "examples": [
+      "声"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "体・薬 (Pronunciation and Writing)",
+    "sequence": 175,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 4,
+      "sequence": 175
+    }
+  },
+  {
+    "id": "n4-kanji-u5408",
+    "level": "n4",
+    "type": "kanji",
+    "character": "合",
+    "meaning": {
+      "en": "fit, meet, combine, pass",
+      "id": "cocok, bertemu, menggabungkan, lulus"
+    },
+    "onyomi": [
+      "ゴウ",
+      "ガッ",
+      "カッ"
+    ],
+    "kunyomi": [
+      "あう",
+      "あわせる"
+    ],
+    "examples": [
+      "合格する",
+      "都合がいい",
+      "合う",
+      "試合"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "親切・切手 (Kanji Combinations)",
+    "sequence": 176,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 5,
+      "sequence": 176
+    }
+  },
+  {
+    "id": "n4-kanji-u6f22",
+    "level": "n4",
+    "type": "kanji",
+    "character": "漢",
+    "meaning": {
+      "en": "Chinese, Han, kanji",
+      "id": "Cina, Han, kanji"
+    },
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "漢字"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "親切・切手 (Kanji Combinations)",
+    "sequence": 177,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 5,
+      "sequence": 177
+    }
+  },
+  {
+    "id": "n4-kanji-u5b57",
+    "level": "n4",
+    "type": "kanji",
+    "character": "字",
+    "meaning": {
+      "en": "character, letter",
+      "id": "huruf, karakter"
+    },
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "あざ"
+    ],
+    "examples": [
+      "字",
+      "文字",
+      "漢字"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "親切・切手 (Kanji Combinations)",
+    "sequence": 178,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 5,
+      "sequence": 178
+    }
+  },
+  {
+    "id": "n4-kanji-u89aa",
+    "level": "n4",
+    "type": "kanji",
+    "character": "親",
+    "meaning": {
+      "en": "parent, close, kind",
+      "id": "orang tua, akrab, ramah"
+    },
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "おや",
+      "したしい"
+    ],
+    "examples": [
+      "親切な",
+      "両親"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "親切・切手 (Kanji Combinations)",
+    "sequence": 179,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 5,
+      "sequence": 179
+    }
+  },
+  {
+    "id": "n4-kanji-u5207",
+    "level": "n4",
+    "type": "kanji",
+    "character": "切",
+    "meaning": {
+      "en": "cut, important, ticket in compounds",
+      "id": "memotong, penting, tiket pada gabungan"
+    },
+    "onyomi": [
+      "セツ",
+      "サイ"
+    ],
+    "kunyomi": [
+      "きる",
+      "きれる"
+    ],
+    "examples": [
+      "大切な",
+      "切る",
+      "切れる",
+      "切手",
+      "切符"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "親切・切手 (Kanji Combinations)",
+    "sequence": 180,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 5,
+      "sequence": 180
+    }
+  },
+  {
+    "id": "n4-kanji-u697d",
+    "level": "n4",
+    "type": "kanji",
+    "character": "楽",
+    "meaning": {
+      "en": "music, fun, comfortable",
+      "id": "musik, menyenangkan, nyaman"
+    },
+    "onyomi": [
+      "ガク",
+      "ラク"
+    ],
+    "kunyomi": [
+      "たのしい",
+      "たのしむ"
+    ],
+    "examples": [
+      "音楽",
+      "楽しい",
+      "楽しむ"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "親切・切手 (Kanji Combinations)",
+    "sequence": 181,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 5,
+      "sequence": 181
+    }
+  },
+  {
+    "id": "n4-kanji-u81ea",
+    "level": "n4",
+    "type": "kanji",
+    "character": "自",
+    "meaning": {
+      "en": "self, oneself, automatic",
+      "id": "diri sendiri, otomatis"
+    },
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "kunyomi": [
+      "みずから"
+    ],
+    "examples": [
+      "自分",
+      "自動",
+      "自由"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "親切・切手 (Kanji Combinations)",
+    "sequence": 182,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 5,
+      "sequence": 182
+    }
+  },
+  {
+    "id": "n4-kanji-u5834",
+    "level": "n4",
+    "type": "kanji",
+    "character": "場",
+    "meaning": {
+      "en": "place, location, scene",
+      "id": "tempat, lokasi, arena"
+    },
+    "onyomi": [
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "ば"
+    ],
+    "examples": [
+      "工場",
+      "駐車場",
+      "場所"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "親切・切手 (Kanji Combinations)",
+    "sequence": 183,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 5,
+      "sequence": 183
+    }
+  },
+  {
+    "id": "n4-kanji-u5ba4",
+    "level": "n4",
+    "type": "kanji",
+    "character": "室",
+    "meaning": {
+      "en": "room, chamber",
+      "id": "ruangan, kamar"
+    },
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [
+      "むろ"
+    ],
+    "examples": [
+      "教室",
+      "会議室"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "親切・切手 (Kanji Combinations)",
+    "sequence": 184,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 5,
+      "sequence": 184
+    }
+  },
+  {
+    "id": "n4-kanji-u9ce5",
+    "level": "n4",
+    "type": "kanji",
+    "character": "鳥",
+    "meaning": {
+      "en": "bird",
+      "id": "burung"
+    },
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "とり"
+    ],
+    "examples": [
+      "鳥",
+      "小鳥"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "海・山・空・川 (Learn as Groups)",
+    "sequence": 185,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 6,
+      "sequence": 185
+    }
+  },
+  {
+    "id": "n4-kanji-u9280",
+    "level": "n4",
+    "type": "kanji",
+    "character": "銀",
+    "meaning": {
+      "en": "silver",
+      "id": "perak"
+    },
+    "onyomi": [
+      "ギン"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "銀行"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "海・山・空・川 (Learn as Groups)",
+    "sequence": 186,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 6,
+      "sequence": 186
+    }
+  },
+  {
+    "id": "n4-kanji-u5802",
+    "level": "n4",
+    "type": "kanji",
+    "character": "堂",
+    "meaning": {
+      "en": "hall, public building",
+      "id": "aula, gedung"
+    },
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "食堂",
+      "講堂"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "海・山・空・川 (Learn as Groups)",
+    "sequence": 187,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 6,
+      "sequence": 187
+    }
+  },
+  {
+    "id": "n4-kanji-u9662",
+    "level": "n4",
+    "type": "kanji",
+    "character": "院",
+    "meaning": {
+      "en": "institution, temple, hospital",
+      "id": "lembaga, rumah sakit, vihara"
+    },
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "病院",
+      "入院する",
+      "大学院"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "海・山・空・川 (Learn as Groups)",
+    "sequence": 188,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 6,
+      "sequence": 188
+    }
+  },
+  {
+    "id": "n4-kanji-u6b69",
+    "level": "n4",
+    "type": "kanji",
+    "character": "歩",
+    "meaning": {
+      "en": "walk, step",
+      "id": "berjalan, langkah"
+    },
+    "onyomi": [
+      "ホ",
+      "ブ",
+      "フ"
+    ],
+    "kunyomi": [
+      "あるく",
+      "あゆむ"
+    ],
+    "examples": [
+      "散歩する",
+      "歩く"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "海・山・空・川 (Learn as Groups)",
+    "sequence": 189,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 6,
+      "sequence": 189
+    }
+  },
+  {
+    "id": "n4-kanji-u8d70",
+    "level": "n4",
+    "type": "kanji",
+    "character": "走",
+    "meaning": {
+      "en": "run",
+      "id": "berlari"
+    },
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "はしる"
+    ],
+    "examples": [
+      "走る"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "海・山・空・川 (Learn as Groups)",
+    "sequence": 190,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 6,
+      "sequence": 190
+    }
+  },
+  {
+    "id": "n4-kanji-u6d77",
+    "level": "n4",
+    "type": "kanji",
+    "character": "海",
+    "meaning": {
+      "en": "sea, ocean",
+      "id": "laut, samudra"
+    },
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "うみ"
+    ],
+    "examples": [
+      "海岸",
+      "海"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "海・山・空・川 (Learn as Groups)",
+    "sequence": 191,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 6,
+      "sequence": 191
+    }
+  },
+  {
+    "id": "n4-kanji-u5e30",
+    "level": "n4",
+    "type": "kanji",
+    "character": "帰",
+    "meaning": {
+      "en": "return home, go back",
+      "id": "pulang, kembali"
+    },
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "かえる",
+      "かえす"
+    ],
+    "examples": [
+      "帰る",
+      "帰国"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "海・山・空・川 (Learn as Groups)",
+    "sequence": 192,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 6,
+      "sequence": 192
+    }
+  },
+  {
+    "id": "n4-kanji-u82f1",
+    "level": "n4",
+    "type": "kanji",
+    "character": "英",
+    "meaning": {
+      "en": "English, excellent",
+      "id": "bahasa Inggris, unggul"
+    },
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "英語"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "漢字の部分の名前 (Names of Kanji Radicals)",
+    "sequence": 193,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 7,
+      "sequence": 193
+    }
+  },
+  {
+    "id": "n4-kanji-u8336",
+    "level": "n4",
+    "type": "kanji",
+    "character": "茶",
+    "meaning": {
+      "en": "tea",
+      "id": "teh"
+    },
+    "onyomi": [
+      "チャ",
+      "サ"
+    ],
+    "kunyomi": [],
+    "examples": [
+      "お茶",
+      "紅茶",
+      "喫茶店"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "漢字の部分の名前 (Names of Kanji Radicals)",
+    "sequence": 194,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 7,
+      "sequence": 194
+    }
+  },
+  {
+    "id": "n4-kanji-u7b54",
+    "level": "n4",
+    "type": "kanji",
+    "character": "答",
+    "meaning": {
+      "en": "answer, reply",
+      "id": "menjawab, jawaban"
+    },
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "こたえる",
+      "こたえ"
+    ],
+    "examples": [
+      "答える",
+      "答え"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "漢字の部分の名前 (Names of Kanji Radicals)",
+    "sequence": 195,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 7,
+      "sequence": 195
+    }
+  },
+  {
+    "id": "n4-kanji-u7d19",
+    "level": "n4",
+    "type": "kanji",
+    "character": "紙",
+    "meaning": {
+      "en": "paper",
+      "id": "kertas"
+    },
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "かみ"
+    ],
+    "examples": [
+      "紙",
+      "手紙"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "漢字の部分の名前 (Names of Kanji Radicals)",
+    "sequence": 196,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 7,
+      "sequence": 196
+    }
+  },
+  {
+    "id": "n4-kanji-u79c1",
+    "level": "n4",
+    "type": "kanji",
+    "character": "私",
+    "meaning": {
+      "en": "I, private",
+      "id": "saya, pribadi"
+    },
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "わたし",
+      "わたくし"
+    ],
+    "examples": [
+      "私",
+      "私立"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "漢字の部分の名前 (Names of Kanji Radicals)",
+    "sequence": 197,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 7,
+      "sequence": 197
+    }
+  },
+  {
+    "id": "n4-kanji-u9001",
+    "level": "n4",
+    "type": "kanji",
+    "character": "送",
+    "meaning": {
+      "en": "send, escort",
+      "id": "mengirim, mengantar"
+    },
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "おくる"
+    ],
+    "examples": [
+      "放送",
+      "送る"
+    ],
+    "source": "soumatome",
+    "week": 3,
+    "day": 7,
+    "weekTitle": "漢字を勉強しましょう③ (Let's Study Kanji 3)",
+    "dayTitle": "漢字の部分の名前 (Names of Kanji Radicals)",
+    "sequence": 198,
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 7,
+      "sequence": 198
+    }
+  }
+]

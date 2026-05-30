@@ -1,0 +1,6158 @@
+[
+  {
+    "id": "n3-grammar-g101",
+    "curriculumId": "g101",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 1,
+    "title": "〜れる・〜られる",
+    "reading": "reru/rareru",
+    "meaning": {
+      "en": "Passive form — action done to subject",
+      "id": "Bentuk pasif — tindakan menimpa subjek"
+    },
+    "formula": "V(nai-stem)+れる／られる",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 1,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g102",
+    "curriculumId": "g102",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 2,
+    "title": "〜させる・〜させられる",
+    "reading": "saseru/saserareru",
+    "meaning": {
+      "en": "Causative / causative-passive: make or be made to do",
+      "id": "Kausatif / kausatif-pasif: menyuruh / terpaksa melakukan"
+    },
+    "formula": "V(nai-stem)+させる／させられる",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 2,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g103",
+    "curriculumId": "g103",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 3,
+    "title": "〜させてください",
+    "reading": "sasete kudasai",
+    "meaning": {
+      "en": "Please let me do ~ (polite request for permission)",
+      "id": "Tolong izinkan saya melakukan ~ (permintaan izin sopan)"
+    },
+    "formula": "V(nai-stem)+させてください",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 3,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g104",
+    "curriculumId": "g104",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 4,
+    "title": "〜てしまう・〜ちゃう",
+    "reading": "te shimau / chau",
+    "meaning": {
+      "en": "Completion with regret or unintended result; ちゃう is casual",
+      "id": "Selesai dengan penyesalan atau tak disengaja; ちゃう bentuk kasual"
+    },
+    "formula": "V(て)+しまう",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 4,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g105",
+    "curriculumId": "g105",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 5,
+    "title": "〜ておく・〜とく",
+    "reading": "te oku / toku",
+    "meaning": {
+      "en": "Do in advance; leave as is for later; とく is casual",
+      "id": "Melakukan sebagai persiapan; dibiarkan untuk nanti; とく bentuk kasual"
+    },
+    "formula": "V(て)+おく",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 5,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g106",
+    "curriculumId": "g106",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 6,
+    "title": "〜ないと（いけない）",
+    "reading": "naito (ikenai)",
+    "meaning": {
+      "en": "Must do; have to (casual obligation expression)",
+      "id": "Harus melakukan (ekspresi kewajiban kasual)"
+    },
+    "formula": "V(nai)+と",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 6,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g107",
+    "curriculumId": "g107",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 7,
+    "title": "〜みたいだ・〜みたいな",
+    "reading": "mitai da / na",
+    "meaning": {
+      "en": "Looks like; seems like (casual, based on direct observation)",
+      "id": "Sepertinya; kelihatan seperti (kasual, berdasarkan pengamatan langsung)"
+    },
+    "formula": "N/V(plain)+みたいだ",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 7,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g108",
+    "curriculumId": "g108",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 8,
+    "title": "〜らしい（様態）",
+    "reading": "rashii (appearance)",
+    "meaning": {
+      "en": "Typical of; has the qualities of; appears to be",
+      "id": "Khas dari; memiliki sifat-sifat; tampaknya"
+    },
+    "formula": "N/V(plain)+らしい",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 8,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g109",
+    "curriculumId": "g109",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 9,
+    "title": "〜っぽい",
+    "reading": "ppoi",
+    "meaning": {
+      "en": "-ish; tends to; has a feeling of (often slightly negative)",
+      "id": "Agak; cenderung; berkesan (sering sedikit negatif)"
+    },
+    "formula": "N/V(stem)+っぽい",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 9,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g110",
+    "curriculumId": "g110",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 10,
+    "title": "〜ようになる",
+    "reading": "you ni naru",
+    "meaning": {
+      "en": "Come to do; gradual change to a new state or ability",
+      "id": "Menjadi bisa; perubahan bertahap menuju keadaan atau kemampuan baru"
+    },
+    "formula": "V(dict/potential)+ようになる",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 4,
+      "sequence": 10,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g111",
+    "curriculumId": "g111",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 11,
+    "title": "〜ようにする",
+    "reading": "you ni suru",
+    "meaning": {
+      "en": "Make sure to do; make a conscious ongoing effort to do",
+      "id": "Memastikan untuk melakukan; berusaha secara sadar dan berkelanjutan"
+    },
+    "formula": "V(dict/nai)+ようにする",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 4,
+      "sequence": 11,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g112",
+    "curriculumId": "g112",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 12,
+    "title": "〜ように（目的）",
+    "reading": "you ni (purpose)",
+    "meaning": {
+      "en": "In order to; so that ~ (non-volitional or potential verb required)",
+      "id": "Agar; supaya ~ (memerlukan kata kerja non-volitional atau potensial)"
+    },
+    "formula": "V(dict/nai/potential)+ように",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 5,
+      "sequence": 12,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g113",
+    "curriculumId": "g113",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 13,
+    "title": "〜ように言う・頼む",
+    "reading": "you ni iu / tanomu",
+    "meaning": {
+      "en": "Tell or ask someone to do ~ (indirect command or request)",
+      "id": "Memberitahu atau meminta seseorang untuk ~ (perintah atau permintaan tidak langsung)"
+    },
+    "formula": "V(dict/nai)+ように言う／頼む",
+    "difficulty": "medium",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 5,
+      "sequence": 13,
+      "sourceTag": "K",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g114",
+    "curriculumId": "g114",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 14,
+    "title": "〜（よ）うとする",
+    "reading": "(yo)u to suru",
+    "meaning": {
+      "en": "Try to do; be about to do; attempt an action",
+      "id": "Mencoba melakukan; akan melakukan; berusaha melakukan suatu tindakan"
+    },
+    "formula": "V(volitional)+とする",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 6,
+      "sequence": 14,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g115",
+    "curriculumId": "g115",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 15,
+    "title": "〜（よ）うと思う",
+    "reading": "(yo)u to omou",
+    "meaning": {
+      "en": "I think I will; I am planning to (speaker's own intention)",
+      "id": "Saya pikir saya akan; saya berencana (niat pembicara sendiri)"
+    },
+    "formula": "V(volitional)+と思う",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 1,
+      "day": 6,
+      "sequence": 15,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g201",
+    "curriculumId": "g201",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 16,
+    "title": "〜ばかり（3用法）",
+    "reading": "bakari (3 uses)",
+    "meaning": {
+      "en": "Nothing but / always doing / just finished — 3 distinct usages",
+      "id": "Tidak lain selain / selalu melakukan / baru saja selesai — 3 penggunaan berbeda"
+    },
+    "formula": "N+ばかり / V(て)+ばかりいる / V(た)+ばかり",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 16,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g202",
+    "curriculumId": "g202",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 17,
+    "title": "〜しか〜ない",
+    "reading": "shika~nai",
+    "meaning": {
+      "en": "Only; nothing but (always requires negative predicate)",
+      "id": "Hanya; tidak ada selain (selalu memerlukan predikat negatif)"
+    },
+    "formula": "N+しか+V(neg)",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 17,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g203",
+    "curriculumId": "g203",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 18,
+    "title": "〜さえ・〜さえ〜ば",
+    "reading": "sae / sae~ba",
+    "meaning": {
+      "en": "Even; if only; as long as (focus particle or minimum condition)",
+      "id": "Bahkan; kalau saja; asalkan (partikel fokus atau syarat minimum)"
+    },
+    "formula": "N+さえ / V(stem)+さえ〜ば",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 18,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g204",
+    "curriculumId": "g204",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 19,
+    "title": "〜こそ",
+    "reading": "koso",
+    "meaning": {
+      "en": "It is precisely ~ that (emphatic particle, stresses preceding word)",
+      "id": "Justru ~ itulah (partikel penekan, menekankan kata sebelumnya)"
+    },
+    "formula": "N+こそ",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 19,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g205",
+    "curriculumId": "g205",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 20,
+    "title": "〜に関して・〜に関する",
+    "reading": "ni kanshite / suru",
+    "meaning": {
+      "en": "Regarding; concerning (more formal than について)",
+      "id": "Mengenai; berkaitan dengan (lebih formal dari について)"
+    },
+    "formula": "N+に関して／に関する",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 2,
+      "sequence": 20,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g206",
+    "curriculumId": "g206",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 21,
+    "title": "〜について・〜についての",
+    "reading": "ni tsuite",
+    "meaning": {
+      "en": "About; concerning; regarding (general, neutral register)",
+      "id": "Tentang; mengenai (umum, ragam netral)"
+    },
+    "formula": "N+について",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 2,
+      "sequence": 21,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g207",
+    "curriculumId": "g207",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 22,
+    "title": "〜によって・〜による",
+    "reading": "ni yotte / yoru",
+    "meaning": {
+      "en": "Depending on; by means of; due to; by (passive agent marker)",
+      "id": "Tergantung pada; dengan cara; karena; oleh (penanda agen pasif)"
+    },
+    "formula": "N+によって／による",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 2,
+      "sequence": 22,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g208",
+    "curriculumId": "g208",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 23,
+    "title": "〜によれば・〜によると",
+    "reading": "ni yoreba / yoru to",
+    "meaning": {
+      "en": "According to ~ (citing an information source)",
+      "id": "Menurut ~ (mengutip sumber informasi)"
+    },
+    "formula": "N+によれば／によると",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 2,
+      "sequence": 23,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g209",
+    "curriculumId": "g209",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 24,
+    "title": "〜さ・〜み（名詞化）",
+    "reading": "sa / mi (nominalization)",
+    "meaning": {
+      "en": "Turns adjective into noun: さ = objective degree, み = subjective feel",
+      "id": "Mengubah adjektif jadi kata benda: さ = derajat objektif, み = perasaan subjektif"
+    },
+    "formula": "Adj(stem)+さ／み",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 24,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g210",
+    "curriculumId": "g210",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 25,
+    "title": "〜こと・〜の（名詞節）",
+    "reading": "koto / no (noun clause)",
+    "meaning": {
+      "en": "Nominalizer: こと = abstract or formal; の = concrete or emotional",
+      "id": "Nominalisator: こと = abstrak atau formal; の = konkret atau emosional"
+    },
+    "formula": "V(plain)+こと／の",
+    "difficulty": "hard",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 25,
+      "sourceTag": "K",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g211",
+    "curriculumId": "g211",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 26,
+    "title": "〜という・〜といった",
+    "reading": "to iu / to itta",
+    "meaning": {
+      "en": "Called; named; known as; such as (describing or naming)",
+      "id": "Yang bernama; yang disebut; seperti (mendeskripsikan atau menamakan)"
+    },
+    "formula": "N/clause+という／といった",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 26,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g212",
+    "curriculumId": "g212",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 27,
+    "title": "〜というのは・〜とは",
+    "reading": "to iu no wa / to wa",
+    "meaning": {
+      "en": "What is meant by ~; ~ refers to (providing a definition)",
+      "id": "Yang dimaksud dengan ~; ~ mengacu pada (memberikan definisi)"
+    },
+    "formula": "N+というのは／とは+definition",
+    "difficulty": "medium",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 27,
+      "sourceTag": "K",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g213",
+    "curriculumId": "g213",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 28,
+    "title": "〜というより",
+    "reading": "to iu yori",
+    "meaning": {
+      "en": "Rather than saying ~; it is more accurate to say ~",
+      "id": "Lebih dari sekedar mengatakan ~; lebih tepatnya ~"
+    },
+    "formula": "V/N/Adj+というより",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 5,
+      "sequence": 28,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g214",
+    "curriculumId": "g214",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 29,
+    "title": "〜というと・〜といえば",
+    "reading": "to iu to / to ieba",
+    "meaning": {
+      "en": "Speaking of ~; when it comes to ~ (topic association trigger)",
+      "id": "Bicara soal ~; kalau membicarakan tentang ~ (pemicu asosiasi topik)"
+    },
+    "formula": "N+というと／といえば",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 5,
+      "sequence": 29,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g215",
+    "curriculumId": "g215",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 30,
+    "title": "〜といっても",
+    "reading": "to itte mo",
+    "meaning": {
+      "en": "Even though I say ~; although called ~ (reality differs from label)",
+      "id": "Meskipun saya katakan ~; walaupun disebut ~ (kenyataan berbeda dari label)"
+    },
+    "formula": "V/N+といっても",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 5,
+      "sequence": 30,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g216",
+    "curriculumId": "g216",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 31,
+    "title": "〜てごらん（なさい）",
+    "reading": "te goran (nasai)",
+    "meaning": {
+      "en": "Try doing ~; go ahead and ~ (gentle suggestion toward someone junior)",
+      "id": "Coba lakukan ~; silakan ~ (saran lembut kepada yang lebih muda atau bawahan)"
+    },
+    "formula": "V(て)+ごらん",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 6,
+      "sequence": 31,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g217",
+    "curriculumId": "g217",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 32,
+    "title": "〜ように言う・〜なと言われた",
+    "reading": "you ni iu / na to iwareta",
+    "meaning": {
+      "en": "Tell someone to do / was told not to do (indirect speech)",
+      "id": "Memberitahu seseorang untuk / diberitahu untuk tidak (pidato tidak langsung)"
+    },
+    "formula": "V+ように言う / V(dict)+なと言われた",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 2,
+      "day": 6,
+      "sequence": 32,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g301",
+    "curriculumId": "g301",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 33,
+    "title": "〜ても・〜でも",
+    "reading": "te mo / de mo",
+    "meaning": {
+      "en": "Even if; even though (concession — unexpected or unchanging result)",
+      "id": "Meskipun; bahkan jika (konsesi — hasil tak terduga atau tidak berubah)"
+    },
+    "formula": "V(て)+も / Adj+くても / N+でも",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 1,
+      "sequence": 33,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g302",
+    "curriculumId": "g302",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 34,
+    "title": "〜ずに・〜ないで",
+    "reading": "zu ni / naide",
+    "meaning": {
+      "en": "Without doing ~; instead of doing ~ (negative manner or means)",
+      "id": "Tanpa melakukan ~; alih-alih melakukan ~ (cara atau sarana negatif)"
+    },
+    "formula": "V(nai-stem)+ずに／ないで",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 1,
+      "sequence": 34,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g303",
+    "curriculumId": "g303",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 35,
+    "title": "どんなに〜ても",
+    "reading": "donna ni~te mo",
+    "meaning": {
+      "en": "No matter how much ~; however ~ (extreme concession)",
+      "id": "Seberapa pun ~; bagaimanapun ~ (konsesi ekstrem)"
+    },
+    "formula": "どんなに+V/Adj+ても",
+    "difficulty": "medium",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 1,
+      "sequence": 35,
+      "sourceTag": "K",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g304",
+    "curriculumId": "g304",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 36,
+    "title": "〜として・〜としては",
+    "reading": "to shite / to shite wa",
+    "meaning": {
+      "en": "As ~; in the role or capacity of ~",
+      "id": "Sebagai ~; dalam peran atau kapasitas ~"
+    },
+    "formula": "N+として",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 2,
+      "sequence": 36,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g305",
+    "curriculumId": "g305",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 37,
+    "title": "〜にしては",
+    "reading": "ni shite wa",
+    "meaning": {
+      "en": "For ~; considering ~ (result is unexpectedly good or bad)",
+      "id": "Untuk ukuran ~; mengingat ~ (hasilnya lebih baik atau buruk dari harapan)"
+    },
+    "formula": "N/V(dict)+にしては",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 2,
+      "sequence": 37,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g306",
+    "curriculumId": "g306",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 38,
+    "title": "〜にしても・〜にしろ",
+    "reading": "ni shite mo / ni shiro",
+    "meaning": {
+      "en": "Even if it is ~; regardless of which (concessive, both options apply)",
+      "id": "Bahkan jika itu ~; terlepas dari mana pun (keduanya berlaku)"
+    },
+    "formula": "N/V(plain)+にしても",
+    "difficulty": "hard",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 2,
+      "sequence": 38,
+      "sourceTag": "S",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g307",
+    "curriculumId": "g307",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 39,
+    "title": "〜としたら・〜とすれば",
+    "reading": "to shitara / to sureba",
+    "meaning": {
+      "en": "If we suppose that ~; assuming ~ (hypothetical reasoning)",
+      "id": "Jika kita anggap bahwa ~; dengan asumsi ~ (penalaran hipotetis)"
+    },
+    "formula": "V(plain)/N+だとしたら／とすれば",
+    "difficulty": "hard",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 2,
+      "sequence": 39,
+      "sourceTag": "K",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g308",
+    "curriculumId": "g308",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 40,
+    "title": "〜つもりだ・〜つもりで",
+    "reading": "tsumori da / de",
+    "meaning": {
+      "en": "Intend to; plan to; under the impression that",
+      "id": "Bermaksud; berencana; dengan anggapan bahwa"
+    },
+    "formula": "V(dict/nai)+つもりだ",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 3,
+      "sequence": 40,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g309",
+    "curriculumId": "g309",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 41,
+    "title": "〜はずだ・〜はずがない",
+    "reading": "hazu da / ga nai",
+    "meaning": {
+      "en": "Should be (logical expectation); there is no way (logical impossibility)",
+      "id": "Seharusnya (harapan logis); tidak mungkin (kemustahilan logis)"
+    },
+    "formula": "V(plain)/N+のはずだ",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 3,
+      "sequence": 41,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g310",
+    "curriculumId": "g310",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 42,
+    "title": "〜べきだ・〜べきではない",
+    "reading": "beki da / de wa nai",
+    "meaning": {
+      "en": "Should; ought to (moral or social obligation)",
+      "id": "Seharusnya; wajib (kewajiban moral atau sosial)"
+    },
+    "formula": "V(dict)+べきだ",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 3,
+      "sequence": 42,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g311",
+    "curriculumId": "g311",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 43,
+    "title": "〜ものだ・〜ものではない",
+    "reading": "mono da / de wa nai",
+    "meaning": {
+      "en": "It is natural that; used to (nostalgia); that is just how things are",
+      "id": "Sudah sewajarnya; dulu sering (nostalgia); memang begitulah adanya"
+    },
+    "formula": "V(dict/nai/た)+ものだ",
+    "difficulty": "hard",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 3,
+      "sequence": 43,
+      "sourceTag": "K",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g312",
+    "curriculumId": "g312",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 44,
+    "title": "〜ついでに",
+    "reading": "tsui de ni",
+    "meaning": {
+      "en": "While you are at it; take the opportunity to do ~ alongside",
+      "id": "Sekalian; memanfaatkan kesempatan untuk ~ bersamaan"
+    },
+    "formula": "V(dict/た)/N+の+ついでに",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 4,
+      "sequence": 44,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g313",
+    "curriculumId": "g313",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 45,
+    "title": "〜たびに",
+    "reading": "tabi ni",
+    "meaning": {
+      "en": "Every time ~; whenever ~ (repeated action each occurrence)",
+      "id": "Setiap kali ~; setiap kali ~ (tindakan berulang setiap kejadian)"
+    },
+    "formula": "V(dict)/N+の+たびに",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 4,
+      "sequence": 45,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g314",
+    "curriculumId": "g314",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 46,
+    "title": "〜とたん（に）",
+    "reading": "to tan (ni)",
+    "meaning": {
+      "en": "The moment ~; just as ~ (immediately after, often unexpected result)",
+      "id": "Tepat saat ~; begitu saja ~ (langsung setelah, sering hasil tak terduga)"
+    },
+    "formula": "V(た)+とたん（に）",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 4,
+      "sequence": 46,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g315",
+    "curriculumId": "g315",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 47,
+    "title": "〜最中に・〜最中だ",
+    "reading": "saichuu ni / da",
+    "meaning": {
+      "en": "Right in the middle of; in the midst of (interruption of ongoing action)",
+      "id": "Di tengah-tengah; tepat di saat (interupsi tindakan yang sedang berlangsung)"
+    },
+    "formula": "V(ている)/N+の+最中に",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 4,
+      "sequence": 47,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g316",
+    "curriculumId": "g316",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 48,
+    "title": "〜とおり（に）・〜どおり",
+    "reading": "toori (ni) / doori",
+    "meaning": {
+      "en": "Exactly as; just as; according to (following a model or instruction)",
+      "id": "Tepat seperti; sesuai dengan (mengikuti model atau instruksi)"
+    },
+    "formula": "N+の+とおり / V(dict/た)+とおり",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 48,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g317",
+    "curriculumId": "g317",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 49,
+    "title": "〜たまま（で）",
+    "reading": "ta mama (de)",
+    "meaning": {
+      "en": "Leaving in the state of; with ~ still on or unchanged",
+      "id": "Membiarkan dalam keadaan; dengan ~ yang masih menyala atau tidak berubah"
+    },
+    "formula": "V(た)+まま（で）",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 49,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g318",
+    "curriculumId": "g318",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 50,
+    "title": "〜っぱなし",
+    "reading": "ppanashi",
+    "meaning": {
+      "en": "Leaving something carelessly undone; keeps doing (negative nuance)",
+      "id": "Membiarkan sesuatu terbengkalai; terus melakukan (nuansa negatif)"
+    },
+    "formula": "V(stem)+っぱなし",
+    "difficulty": "hard",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 50,
+      "sourceTag": "S",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g319",
+    "curriculumId": "g319",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 51,
+    "title": "〜きり・〜っきり",
+    "reading": "kiri / kkiri",
+    "meaning": {
+      "en": "Only; just the two of; ever since ~ (and no more after that)",
+      "id": "Hanya; hanya berdua; sejak saat itu (dan tidak lebih)"
+    },
+    "formula": "N+きり / V(た)+きり",
+    "difficulty": "hard",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 51,
+      "sourceTag": "S",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g320",
+    "curriculumId": "g320",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 52,
+    "title": "〜がる・〜がっている",
+    "reading": "garu / gatte iru",
+    "meaning": {
+      "en": "Show signs of feeling ~; appears to feel ~ (3rd person feelings)",
+      "id": "Menunjukkan tanda-tanda ~; terlihat merasa ~ (perasaan orang ketiga)"
+    },
+    "formula": "Adj(stem)+がる",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 52,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g321",
+    "curriculumId": "g321",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 53,
+    "title": "〜てほしい・〜ないでほしい",
+    "reading": "te hoshii / naide hoshii",
+    "meaning": {
+      "en": "Want someone to do; want someone not to do (desire for others' action)",
+      "id": "Ingin seseorang melakukan; ingin seseorang tidak melakukan"
+    },
+    "formula": "V(て)+ほしい",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 53,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g322",
+    "curriculumId": "g322",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 54,
+    "title": "〜ふりをする",
+    "reading": "furi wo suru",
+    "meaning": {
+      "en": "Pretend to ~; act as if ~ (feigning a state or action)",
+      "id": "Berpura-pura ~; berlagak seolah-olah ~"
+    },
+    "formula": "V(dict/nai/た)/N+の+ふりをする",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 54,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g401",
+    "curriculumId": "g401",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 1,
+    "sequence": 55,
+    "title": "〜にとって・〜にとっての",
+    "reading": "ni totte",
+    "meaning": {
+      "en": "For ~; from the standpoint of ~ (subjective evaluation)",
+      "id": "Bagi ~; dari sudut pandang ~ (penilaian subjektif)"
+    },
+    "formula": "N+にとって",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 1,
+      "sequence": 55,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g402",
+    "curriculumId": "g402",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 1,
+    "sequence": 56,
+    "title": "〜わりに（は）",
+    "reading": "wari ni (wa)",
+    "meaning": {
+      "en": "Considering ~; for ~ (result is unexpectedly contrary)",
+      "id": "Mengingat ~; untuk ukuran ~ (hasil berlawanan tak terduga)"
+    },
+    "formula": "V(plain)/N+の+わりに",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 1,
+      "sequence": 56,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g403",
+    "curriculumId": "g403",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 1,
+    "sequence": 57,
+    "title": "〜くせに・〜くせして",
+    "reading": "kuse ni / shite",
+    "meaning": {
+      "en": "Even though; despite (carries criticism or blame toward subject)",
+      "id": "Padahal; walaupun (mengandung kritik atau kecaman terhadap subjek)"
+    },
+    "formula": "V(plain)/N+の+くせに",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 1,
+      "sequence": 57,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g404",
+    "curriculumId": "g404",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 1,
+    "sequence": 58,
+    "title": "〜なんか・〜なんて",
+    "reading": "nanka / nante",
+    "meaning": {
+      "en": "Things like ~; the likes of ~ (dismissal, surprise, or self-deprecation)",
+      "id": "Hal seperti ~; seperti ~ (meremehkan, terkejut, atau merendahkan diri)"
+    },
+    "formula": "N+なんか／なんて",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 1,
+      "sequence": 58,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g405",
+    "curriculumId": "g405",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 2,
+    "sequence": 59,
+    "title": "〜おかげで・〜おかげだ",
+    "reading": "okage de / da",
+    "meaning": {
+      "en": "Thanks to ~; owing to ~ (positive cause or credit)",
+      "id": "Berkat ~; karena ~ (sebab positif atau kredit)"
+    },
+    "formula": "V(plain)/N+の+おかげで",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 2,
+      "sequence": 59,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g406",
+    "curriculumId": "g406",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 2,
+    "sequence": 60,
+    "title": "〜せいで・〜せいか",
+    "reading": "sei de / ka",
+    "meaning": {
+      "en": "Because of ~; due to ~ (negative cause, assigns blame)",
+      "id": "Karena ~; gara-gara ~ (sebab negatif, menyalahkan)"
+    },
+    "formula": "V(plain)/N+の+せいで",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 2,
+      "sequence": 60,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g407",
+    "curriculumId": "g407",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 2,
+    "sequence": 61,
+    "title": "〜かわりに・〜の代わりに",
+    "reading": "kawari ni",
+    "meaning": {
+      "en": "Instead of ~; in exchange for ~; on behalf of ~ (substitution)",
+      "id": "Sebagai gantinya ~; sebagai imbalan ~; mewakili ~ (substitusi)"
+    },
+    "formula": "V(dict/た)/N+の+かわりに",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 2,
+      "sequence": 61,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g408",
+    "curriculumId": "g408",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 3,
+    "sequence": 62,
+    "title": "〜くらい・〜ほど（程度）",
+    "reading": "kurai / hodo (degree)",
+    "meaning": {
+      "en": "About; to the extent of; as ~ as (degree and comparison)",
+      "id": "Sekitar; sejauh; sebanding dengan (derajat dan perbandingan)"
+    },
+    "formula": "N/V(plain)+くらい／ほど",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 3,
+      "sequence": 62,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g409",
+    "curriculumId": "g409",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 3,
+    "sequence": 63,
+    "title": "〜ば〜ほど",
+    "reading": "ba~hodo",
+    "meaning": {
+      "en": "The more ~ the more ~ (proportional increase)",
+      "id": "Semakin ~ semakin ~ (peningkatan proporsional)"
+    },
+    "formula": "V(ば)+V(dict)+ほど",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 3,
+      "sequence": 63,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g410",
+    "curriculumId": "g410",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 3,
+    "sequence": 64,
+    "title": "〜ほど〜はない",
+    "reading": "hodo~wa nai",
+    "meaning": {
+      "en": "Nothing is as ~ as; ~ is the most (superlative via negation)",
+      "id": "Tidak ada yang se~ seperti; ~ adalah yang paling (superlatif via negasi)"
+    },
+    "formula": "N+ほど+Adj+はない",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 3,
+      "sequence": 64,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g411",
+    "curriculumId": "g411",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 4,
+    "sequence": 65,
+    "title": "〜ことはない",
+    "reading": "koto wa nai",
+    "meaning": {
+      "en": "There is no need to; do not have to (action is unnecessary)",
+      "id": "Tidak perlu; tidak harus (tindakan tidak diperlukan)"
+    },
+    "formula": "V(dict)+ことはない",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 4,
+      "sequence": 65,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g412",
+    "curriculumId": "g412",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 4,
+    "sequence": 66,
+    "title": "〜ことだ",
+    "reading": "koto da",
+    "meaning": {
+      "en": "You should; best to (advice or recommendation to someone)",
+      "id": "Sebaiknya; yang terbaik adalah (saran atau rekomendasi)"
+    },
+    "formula": "V(dict/nai)+ことだ",
+    "difficulty": "medium",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 4,
+      "sequence": 66,
+      "sourceTag": "K",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g413",
+    "curriculumId": "g413",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 4,
+    "sequence": 67,
+    "title": "〜ということだ・〜とのことだ",
+    "reading": "to iu koto da",
+    "meaning": {
+      "en": "It means that; apparently; I hear that (reported or summarized info)",
+      "id": "Artinya; rupanya; katanya (informasi yang dilaporkan atau dirangkum)"
+    },
+    "formula": "V(plain)/N+ということだ",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 4,
+      "sequence": 67,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g414",
+    "curriculumId": "g414",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 4,
+    "sequence": 68,
+    "title": "〜ことか・〜ことだろう",
+    "reading": "koto ka",
+    "meaning": {
+      "en": "How ~! What a ~! (emotional exclamation of wonder or regret)",
+      "id": "Betapa ~! Alangkah ~! (seruan emosional kekaguman atau penyesalan)"
+    },
+    "formula": "Wh-word+V/Adj+ことか",
+    "difficulty": "hard",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 4,
+      "sequence": 68,
+      "sourceTag": "S",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g415",
+    "curriculumId": "g415",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 5,
+    "sequence": 69,
+    "title": "〜っけ",
+    "reading": "kke",
+    "meaning": {
+      "en": "Was it ~? What was it again? (trying to recall something)",
+      "id": "Apa ya ~? Apa tadi? (mencoba mengingat sesuatu)"
+    },
+    "formula": "V(plain/た)/N+っけ",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 5,
+      "sequence": 69,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g416",
+    "curriculumId": "g416",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 5,
+    "sequence": 70,
+    "title": "〜しかない・〜よりほかない",
+    "reading": "shika nai / yori hoka nai",
+    "meaning": {
+      "en": "Have no choice but to; the only option is (forced conclusion)",
+      "id": "Tidak ada pilihan selain; satu-satunya pilihan adalah (kesimpulan terpaksa)"
+    },
+    "formula": "V(dict)+しかない",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 5,
+      "sequence": 70,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g417",
+    "curriculumId": "g417",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 5,
+    "sequence": 71,
+    "title": "〜んだって・〜んだと",
+    "reading": "ndatte / ndato",
+    "meaning": {
+      "en": "I heard that ~; they say ~ (casual hearsay from another person)",
+      "id": "Saya dengar ~; katanya ~ (kabar angin kasual dari orang lain)"
+    },
+    "formula": "V(plain)/N+なんだって",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 5,
+      "sequence": 71,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g418",
+    "curriculumId": "g418",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 5,
+    "sequence": 72,
+    "title": "〜もん・〜もの（終助詞）",
+    "reading": "mon / mono (sentence-final)",
+    "meaning": {
+      "en": "Because; after all (childlike or feminine justification at sentence end)",
+      "id": "Karena; soalnya (pembenaran kekanak-kanakan atau feminin di akhir kalimat)"
+    },
+    "formula": "clause+もん／もの",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 5,
+      "sequence": 72,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g419",
+    "curriculumId": "g419",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 6,
+    "sequence": 73,
+    "title": "〜つまり・〜すなわち",
+    "reading": "tsumari / sunawachi",
+    "meaning": {
+      "en": "In other words; that is to say; namely (rephrasing for clarity)",
+      "id": "Dengan kata lain; yaitu; yakni (menyatakan ulang untuk kejelasan)"
+    },
+    "formula": "Sentence+つまり／すなわち+restatement",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 6,
+      "sequence": 73,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g420",
+    "curriculumId": "g420",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 6,
+    "sequence": 74,
+    "title": "〜そのため（に）・〜したがって",
+    "reading": "sono tame (ni) / shitagatte",
+    "meaning": {
+      "en": "Therefore; as a result; consequently (logical result connector)",
+      "id": "Oleh karena itu; akibatnya; dengan demikian (penghubung hasil logis)"
+    },
+    "formula": "Sentence A+そのため（に）+Sentence B",
+    "difficulty": "easy",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 6,
+      "sequence": 74,
+      "sourceTag": "K",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g421",
+    "curriculumId": "g421",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 6,
+    "sequence": 75,
+    "title": "〜なぜなら〜からだ",
+    "reading": "nazenara~kara da",
+    "meaning": {
+      "en": "The reason is that; because (states reason after giving the result)",
+      "id": "Alasannya adalah bahwa; karena (menyatakan alasan setelah memberikan hasil)"
+    },
+    "formula": "Result. なぜなら+Reason+からだ",
+    "difficulty": "medium",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 4,
+      "day": 6,
+      "sequence": 75,
+      "sourceTag": "K",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g501",
+    "curriculumId": "g501",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 1,
+    "sequence": 76,
+    "title": "〜はもちろん・〜はもとより",
+    "reading": "wa mochiron / wa motoyori",
+    "meaning": {
+      "en": "Not only ~ but also; ~ goes without saying, and even more",
+      "id": "Bukan hanya ~ tetapi juga; ~ sudah jelas, dan terlebih lagi"
+    },
+    "formula": "N+はもちろん（のこと）",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 1,
+      "sequence": 76,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g502",
+    "curriculumId": "g502",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 1,
+    "sequence": 77,
+    "title": "〜ばかりか・〜ばかりでなく",
+    "reading": "bakari ka / bakari de naku",
+    "meaning": {
+      "en": "Not only ~ but also; furthermore (strong addition, often surprising)",
+      "id": "Tidak hanya ~ tetapi juga; selain itu (tambahan kuat, sering mengejutkan)"
+    },
+    "formula": "V(plain)/N+ばかりか／ばかりでなく",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 1,
+      "sequence": 77,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g503",
+    "curriculumId": "g503",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 1,
+    "sequence": 78,
+    "title": "〜に比べて・〜に比べ",
+    "reading": "ni kurabete",
+    "meaning": {
+      "en": "Compared to ~; in comparison with ~",
+      "id": "Dibandingkan dengan ~; jika dibandingkan dengan ~"
+    },
+    "formula": "N+に比べて",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 1,
+      "sequence": 78,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g504",
+    "curriculumId": "g504",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 1,
+    "sequence": 79,
+    "title": "〜に対して・〜に対する",
+    "reading": "ni taishite / suru",
+    "meaning": {
+      "en": "Toward ~; against ~; in contrast to ~ (target of action or contrast)",
+      "id": "Terhadap ~; melawan ~; berbeda dengan ~ (target tindakan atau kontras)"
+    },
+    "formula": "N+に対して／に対する",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 1,
+      "sequence": 79,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g505",
+    "curriculumId": "g505",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 2,
+    "sequence": 80,
+    "title": "〜あげる・〜あがる（完成）",
+    "reading": "ageru / agaru (completion)",
+    "meaning": {
+      "en": "Finish doing; complete ~ (upward direction signals completion)",
+      "id": "Menyelesaikan; selesai ~ (arah ke atas menandakan penyelesaian)"
+    },
+    "formula": "V(stem)+あげる／あがる",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 2,
+      "sequence": 80,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g506",
+    "curriculumId": "g506",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 2,
+    "sequence": 81,
+    "title": "〜きれる・〜きれない",
+    "reading": "kireru / kirenai",
+    "meaning": {
+      "en": "Able to finish completely / unable to finish completely",
+      "id": "Bisa menyelesaikan sepenuhnya / tidak bisa menyelesaikan sepenuhnya"
+    },
+    "formula": "V(stem)+きれる／きれない",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 2,
+      "sequence": 81,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g507",
+    "curriculumId": "g507",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 2,
+    "sequence": 82,
+    "title": "〜かけ・〜かける",
+    "reading": "kake / kakeru",
+    "meaning": {
+      "en": "Half-done; in the middle of; about to start (action is incomplete)",
+      "id": "Setengah jadi; sedang dalam proses; akan dimulai (tindakan tidak selesai)"
+    },
+    "formula": "V(stem)+かけ（の）／かける",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 2,
+      "sequence": 82,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g508",
+    "curriculumId": "g508",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 2,
+    "sequence": 83,
+    "title": "〜たて・〜たての",
+    "reading": "tate / tateno",
+    "meaning": {
+      "en": "Just done; freshly ~ (immediately after completion, still in that state)",
+      "id": "Baru saja selesai; segar ~ (langsung setelah selesai, masih dalam keadaan itu)"
+    },
+    "formula": "V(stem)+たて（の）",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 2,
+      "sequence": 83,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g509",
+    "curriculumId": "g509",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 3,
+    "sequence": 84,
+    "title": "〜といいなあ・〜たらいいなあ",
+    "reading": "to ii naa / tara ii naa",
+    "meaning": {
+      "en": "I wish ~; I hope ~ (speaker's desire for a good future state)",
+      "id": "Andai saja ~; semoga ~ (keinginan pembicara untuk keadaan masa depan yang baik)"
+    },
+    "formula": "V(dict/nai/た)+といいなあ／たらいいなあ",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 3,
+      "sequence": 84,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g510",
+    "curriculumId": "g510",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 3,
+    "sequence": 85,
+    "title": "〜ばよかった・〜たらよかった",
+    "reading": "ba yokatta / tara yokatta",
+    "meaning": {
+      "en": "I should have ~; I wish I had ~ (regret about past action or inaction)",
+      "id": "Seharusnya ~; andai saja ~ (penyesalan tentang tindakan atau kelambanan masa lalu)"
+    },
+    "formula": "V(ば/たら)+よかった",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 3,
+      "sequence": 85,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g511",
+    "curriculumId": "g511",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 3,
+    "sequence": 86,
+    "title": "〜ないかなあ・〜ないかな",
+    "reading": "nai ka naa",
+    "meaning": {
+      "en": "I wonder if ~ will not happen; I wish ~ would (hoping someone acts)",
+      "id": "Apakah ~ tidak akan terjadi; andai ~ mau (berharap seseorang bertindak)"
+    },
+    "formula": "V(nai)+かなあ",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 3,
+      "sequence": 86,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g512",
+    "curriculumId": "g512",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 4,
+    "sequence": 87,
+    "title": "〜まで・〜までに",
+    "reading": "made / made ni",
+    "meaning": {
+      "en": "Until ~; up to ~ (まで) / by the deadline of ~ (までに)",
+      "id": "Sampai ~; hingga ~ (まで) / paling lambat ~ tenggat waktu (までに)"
+    },
+    "formula": "V(dict)/N+まで／までに",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 4,
+      "sequence": 87,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g513",
+    "curriculumId": "g513",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 4,
+    "sequence": 88,
+    "title": "〜にかけて・〜にかけての",
+    "reading": "ni kakete",
+    "meaning": {
+      "en": "From ~ to ~ spanning (time or place range, gradual change)",
+      "id": "Dari ~ hingga ~ meliputi (rentang waktu atau tempat, perubahan bertahap)"
+    },
+    "formula": "N+から/N+にかけて",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 4,
+      "sequence": 88,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g514",
+    "curriculumId": "g514",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 4,
+    "sequence": 89,
+    "title": "〜において・〜における",
+    "reading": "ni oite / ni okeru",
+    "meaning": {
+      "en": "At ~; in ~; in the context or domain of ~ (formal or written register)",
+      "id": "Di ~; dalam ~; dalam konteks atau bidang ~ (ragam formal atau tertulis)"
+    },
+    "formula": "N+において／における",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 4,
+      "sequence": 89,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g515",
+    "curriculumId": "g515",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 5,
+    "sequence": 90,
+    "title": "たとえ〜ても・たとえ〜でも",
+    "reading": "tatoe~te mo",
+    "meaning": {
+      "en": "Even if ~; no matter what ~ (hypothetical extreme concession)",
+      "id": "Bahkan jika ~; tidak peduli apa ~ (konsesi hipotesis ekstrem)"
+    },
+    "formula": "たとえ+V(て)+も",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 5,
+      "sequence": 90,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g516",
+    "curriculumId": "g516",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 5,
+    "sequence": 91,
+    "title": "〜とは限らない",
+    "reading": "to wa kagiranai",
+    "meaning": {
+      "en": "Not necessarily; not always the case (negates an assumed generalization)",
+      "id": "Tidak selalu; belum tentu (meniadakan generalisasi yang diasumsikan)"
+    },
+    "formula": "V(plain)/N+とは限らない",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 5,
+      "sequence": 91,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g517",
+    "curriculumId": "g517",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 5,
+    "sequence": 92,
+    "title": "もしかすると〜かもしれない",
+    "reading": "moshikasuruto~kamoshirenai",
+    "meaning": {
+      "en": "Perhaps; possibly; there is a chance ~ (uncertain possibility)",
+      "id": "Mungkin saja; ada kemungkinan ~ (kemungkinan yang tidak pasti)"
+    },
+    "formula": "もしかすると+clause+かもしれない",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 5,
+      "sequence": 92,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g518",
+    "curriculumId": "g518",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 5,
+    "sequence": 93,
+    "title": "まるで〜ようだ・まるで〜みたいだ",
+    "reading": "marude~you da / mitai da",
+    "meaning": {
+      "en": "Just like ~; as if ~; exactly as though ~ (vivid comparison or metaphor)",
+      "id": "Persis seperti ~; seolah-olah ~; bagaikan ~ (perbandingan atau metafora vivid)"
+    },
+    "formula": "まるで+N+のようだ／みたいだ",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 5,
+      "sequence": 93,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g519",
+    "curriculumId": "g519",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 6,
+    "sequence": 94,
+    "title": "〜だけど・〜だが・〜けれど",
+    "reading": "dakedo / daga / keredo",
+    "meaning": {
+      "en": "But; however (contrasting conjunctions at varying formality levels)",
+      "id": "Tapi; namun (konjungsi kontras dengan berbagai tingkat formalitas)"
+    },
+    "formula": "Sentence A+だけど／だが+Sentence B",
+    "difficulty": "easy",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 6,
+      "sequence": 94,
+      "sourceTag": "K",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g520",
+    "curriculumId": "g520",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 6,
+    "sequence": 95,
+    "title": "〜ところが",
+    "reading": "tokoro ga",
+    "meaning": {
+      "en": "However; but (unexpected contrast — result contrary to expectation)",
+      "id": "Namun; tapi (kontras tak terduga — hasil berlawanan dengan harapan)"
+    },
+    "formula": "Sentence A+ところが+unexpected B",
+    "difficulty": "medium",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 6,
+      "sequence": 95,
+      "sourceTag": "K",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g521",
+    "curriculumId": "g521",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 6,
+    "sequence": 96,
+    "title": "〜ところで",
+    "reading": "tokoro de",
+    "meaning": {
+      "en": "By the way; incidentally (shifts topic in conversation)",
+      "id": "Ngomong-ngomong; omong-omong (mengalihkan topik dalam percakapan)"
+    },
+    "formula": "Sentence+ところで+new topic",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 6,
+      "sequence": 96,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g522",
+    "curriculumId": "g522",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 5,
+    "day": 6,
+    "sequence": 97,
+    "title": "〜ですから・〜だから（文頭）",
+    "reading": "desu kara / da kara",
+    "meaning": {
+      "en": "That is why; therefore (emphasizes reason, often at start of reply)",
+      "id": "Itulah kenapa; oleh karena itu (menekankan alasan, sering di awal jawaban)"
+    },
+    "formula": "Reason+ですから／だから+Result",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 5,
+      "day": 6,
+      "sequence": 97,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g601",
+    "curriculumId": "g601",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 1,
+    "sequence": 98,
+    "title": "〜なら・〜（の）なら",
+    "reading": "nara / no nara",
+    "meaning": {
+      "en": "If ~ (conditional based on info assumed or heard); as for ~",
+      "id": "Jika ~ (kondisional berdasarkan info yang diasumsikan atau didengar); kalau soal ~"
+    },
+    "formula": "V(plain)/N+なら",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 1,
+      "sequence": 98,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g602",
+    "curriculumId": "g602",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 1,
+    "sequence": 99,
+    "title": "〜としても・〜にしても",
+    "reading": "to shite mo / ni shite mo",
+    "meaning": {
+      "en": "Even if; even assuming that ~ (hypothetical concession)",
+      "id": "Bahkan jika; bahkan dengan asumsi ~ (konsesi hipotetis)"
+    },
+    "formula": "V(plain)/N+としても",
+    "difficulty": "hard",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 1,
+      "sequence": 99,
+      "sourceTag": "K",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g603",
+    "curriculumId": "g603",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 1,
+    "sequence": 100,
+    "title": "もし〜なら・もし〜としたら",
+    "reading": "moshi~nara / to shitara",
+    "meaning": {
+      "en": "If (hypothetical scenario); what if ~ (opens counterfactual reasoning)",
+      "id": "Jika (skenario hipotetis); bagaimana jika ~ (membuka penalaran kontrafaktual)"
+    },
+    "formula": "もし+condition+なら／としたら",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 1,
+      "sequence": 100,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g604",
+    "curriculumId": "g604",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 2,
+    "sequence": 101,
+    "title": "〜ことになっている",
+    "reading": "koto ni natte iru",
+    "meaning": {
+      "en": "It is arranged or decided that; expected to (established rule or schedule)",
+      "id": "Sudah diatur atau diputuskan bahwa; sudah seharusnya (aturan atau jadwal berlaku)"
+    },
+    "formula": "V(dict/nai)+ことになっている",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 2,
+      "sequence": 101,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g605",
+    "curriculumId": "g605",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 2,
+    "sequence": 102,
+    "title": "〜ことにしている",
+    "reading": "koto ni shite iru",
+    "meaning": {
+      "en": "Make it a rule to; I have decided to (self-imposed personal habit)",
+      "id": "Membiasakan diri; saya memutuskan untuk (kebiasaan pribadi yang dikenakan sendiri)"
+    },
+    "formula": "V(dict/nai)+ことにしている",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 2,
+      "sequence": 102,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g606",
+    "curriculumId": "g606",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 2,
+    "sequence": 103,
+    "title": "〜ことは〜が・〜ことは〜けれど",
+    "reading": "koto wa~ga / keredo",
+    "meaning": {
+      "en": "It is true that ~, but (partial admission with contrast)",
+      "id": "Memang benar ~, tapi (pengakuan sebagian dengan kontras)"
+    },
+    "formula": "V(dict)+ことは+V(dict)+が／けれど",
+    "difficulty": "hard",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 2,
+      "sequence": 103,
+      "sourceTag": "K",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g607",
+    "curriculumId": "g607",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 2,
+    "sequence": 104,
+    "title": "〜ないことはない・〜ないこともない",
+    "reading": "nai koto wa nai",
+    "meaning": {
+      "en": "It is not that I cannot; it is possible (double negative = reluctant yes)",
+      "id": "Bukan berarti tidak bisa; mungkin saja (negasi ganda = ya yang enggan)"
+    },
+    "formula": "V(nai)+ことは（も）ない",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 2,
+      "sequence": 104,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g608",
+    "curriculumId": "g608",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 3,
+    "sequence": 105,
+    "title": "〜たところ（だ）",
+    "reading": "ta tokoro (da)",
+    "meaning": {
+      "en": "Just finished doing ~ (very recent completed action)",
+      "id": "Baru saja selesai melakukan ~ (tindakan yang baru saja selesai)"
+    },
+    "formula": "V(た)+ところ（だ）",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 3,
+      "sequence": 105,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g609",
+    "curriculumId": "g609",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 3,
+    "sequence": 106,
+    "title": "〜するところだった",
+    "reading": "suru tokoro datta",
+    "meaning": {
+      "en": "Was about to do; almost did (narrowly avoided or barely happened)",
+      "id": "Hampir melakukan; nyaris ~ (hampir terjadi atau nyaris terjadi)"
+    },
+    "formula": "V(dict)+ところだった",
+    "difficulty": "medium",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 3,
+      "sequence": 106,
+      "sourceTag": "K",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g610",
+    "curriculumId": "g610",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 3,
+    "sequence": 107,
+    "title": "〜てはじめて",
+    "reading": "te hajimete",
+    "meaning": {
+      "en": "Only after doing ~ does one realize or become able to",
+      "id": "Baru setelah melakukan ~ baru menyadari atau bisa"
+    },
+    "formula": "V(て)+はじめて",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 3,
+      "sequence": 107,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g611",
+    "curriculumId": "g611",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 3,
+    "sequence": 108,
+    "title": "〜うちに・〜ないうちに",
+    "reading": "uchi ni / nai uchi ni",
+    "meaning": {
+      "en": "While ~; before ~ changes (do something before situation changes)",
+      "id": "Selagi ~; sebelum ~ berubah (lakukan sesuatu sebelum situasi berubah)"
+    },
+    "formula": "V(dict/nai/ている)+うちに",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 3,
+      "sequence": 108,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g612",
+    "curriculumId": "g612",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 4,
+    "sequence": 109,
+    "title": "〜わけだ・〜というわけだ",
+    "reading": "wake da / to iu wake da",
+    "meaning": {
+      "en": "That is why; naturally; it means ~ (logical conclusion from situation)",
+      "id": "Itulah mengapa; wajar saja; artinya ~ (kesimpulan logis dari situasi)"
+    },
+    "formula": "V(plain)/N+な+わけだ",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 4,
+      "sequence": 109,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g613",
+    "curriculumId": "g613",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 4,
+    "sequence": 110,
+    "title": "〜わけではない・〜わけでもない",
+    "reading": "wake de wa nai",
+    "meaning": {
+      "en": "It is not that ~; it does not mean ~ (partial or nuanced negation)",
+      "id": "Bukan berarti ~; bukan bahwa ~ (negasi sebagian atau bernuansa)"
+    },
+    "formula": "V(plain)/N+な+わけではない",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 4,
+      "sequence": 110,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g614",
+    "curriculumId": "g614",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 4,
+    "sequence": 111,
+    "title": "〜わけがない・〜わけにはいかない",
+    "reading": "wake ga nai / ni wa ikanai",
+    "meaning": {
+      "en": "No way it is ~ (impossibility) / Cannot possibly do ~ (social constraint)",
+      "id": "Tidak mungkin ~ (kemustahilan) / Tidak bisa melakukan ~ (kendala sosial)"
+    },
+    "formula": "V(plain)+わけがない / V(dict)+わけにはいかない",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 4,
+      "sequence": 111,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n3-grammar-g615",
+    "curriculumId": "g615",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 5,
+    "sequence": 112,
+    "title": "決して〜ない",
+    "reading": "kesshite~nai",
+    "meaning": {
+      "en": "Never; absolutely not; by no means (strong absolute negation)",
+      "id": "Tidak pernah; sama sekali tidak; tidak akan pernah (negasi absolut kuat)"
+    },
+    "formula": "決して+V(neg)",
+    "difficulty": "medium",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 5,
+      "sequence": 112,
+      "sourceTag": "K",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g616",
+    "curriculumId": "g616",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 5,
+    "sequence": 113,
+    "title": "めったに〜ない",
+    "reading": "metta ni~nai",
+    "meaning": {
+      "en": "Rarely; seldom; hardly ever",
+      "id": "Jarang; hampir tidak pernah"
+    },
+    "formula": "めったに+V(neg)",
+    "difficulty": "easy",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 5,
+      "sequence": 113,
+      "sourceTag": "K",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g617",
+    "curriculumId": "g617",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 5,
+    "sequence": 114,
+    "title": "まったく〜ない・少しも〜ない",
+    "reading": "mattaku / sukoshi mo~nai",
+    "meaning": {
+      "en": "Not at all; not even a little (total emphatic negation)",
+      "id": "Sama sekali tidak; sedikit pun tidak (negasi total dan tegas)"
+    },
+    "formula": "まったく／少しも+V(neg)",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 5,
+      "sequence": 114,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g618",
+    "curriculumId": "g618",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 6,
+    "sequence": 115,
+    "title": "〜その上（に）・〜しかも",
+    "reading": "sono ue (ni) / shikamo",
+    "meaning": {
+      "en": "Moreover; furthermore; on top of that (adds another point)",
+      "id": "Selain itu; terlebih lagi; di atas itu (menambahkan poin lain)"
+    },
+    "formula": "Sentence A+その上（に）／しかも+Sentence B",
+    "difficulty": "medium",
+    "sourceTag": "K",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 6,
+      "sequence": 115,
+      "sourceTag": "K",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n3-grammar-g619",
+    "curriculumId": "g619",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 6,
+    "sequence": 116,
+    "title": "〜それと・〜それから",
+    "reading": "sore to / sore kara",
+    "meaning": {
+      "en": "And; and also (adding items in a list or continuing a narrative)",
+      "id": "Dan; dan juga (menambahkan item dalam daftar atau melanjutkan narasi)"
+    },
+    "formula": "Sentence A+それと／それから+Sentence B",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 6,
+      "sequence": 116,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-grammar-g620",
+    "curriculumId": "g620",
+    "level": "n3",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 6,
+    "day": 6,
+    "sequence": 117,
+    "title": "〜それとも",
+    "reading": "sore to mo",
+    "meaning": {
+      "en": "Or; alternatively (presenting an alternative, usually in questions)",
+      "id": "Atau; sebagai alternatif (menyajikan alternatif, biasanya dalam pertanyaan)"
+    },
+    "formula": "Option A+それとも+Option B（か）",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "grammar",
+      "week": 6,
+      "day": 6,
+      "sequence": 117,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n3-vocab-v101",
+    "curriculumId": "v101",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 118,
+    "title": "キッチンで／リビングで",
+    "meaning": {
+      "en": "In the kitchen / in the living room",
+      "id": "Di dapur / di ruang keluarga"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 1,
+      "day": 1,
+      "sequence": 118
+    }
+  },
+  {
+    "id": "n3-vocab-v102",
+    "curriculumId": "v102",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 119,
+    "title": "料理をしましょう①",
+    "meaning": {
+      "en": "Let's cook — ingredients and preparation",
+      "id": "Ayo memasak — bahan dan persiapan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 1,
+      "day": 2,
+      "sequence": 119
+    }
+  },
+  {
+    "id": "n3-vocab-v103",
+    "curriculumId": "v103",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 120,
+    "title": "料理をしましょう②",
+    "meaning": {
+      "en": "Let's cook — seasoning and taste",
+      "id": "Ayo memasak — bumbu dan rasa"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 1,
+      "day": 3,
+      "sequence": 120
+    }
+  },
+  {
+    "id": "n3-vocab-v104",
+    "curriculumId": "v104",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 121,
+    "title": "掃除をしましょう",
+    "meaning": {
+      "en": "Let's clean",
+      "id": "Ayo membersihkan rumah"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 1,
+      "day": 4,
+      "sequence": 121
+    }
+  },
+  {
+    "id": "n3-vocab-v105",
+    "curriculumId": "v105",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 122,
+    "title": "洗濯をしましょう",
+    "meaning": {
+      "en": "Let's do laundry",
+      "id": "Ayo mencuci pakaian"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 1,
+      "day": 5,
+      "sequence": 122
+    }
+  },
+  {
+    "id": "n3-vocab-v106",
+    "curriculumId": "v106",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 123,
+    "title": "子どもやペットの世話をしましょう",
+    "meaning": {
+      "en": "Taking care of children and pets",
+      "id": "Merawat anak dan hewan peliharaan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 1,
+      "day": 6,
+      "sequence": 123
+    }
+  },
+  {
+    "id": "n3-vocab-v201",
+    "curriculumId": "v201",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 124,
+    "title": "計画を立てましょう",
+    "meaning": {
+      "en": "Let's make plans",
+      "id": "Ayo membuat rencana"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 2,
+      "day": 1,
+      "sequence": 124
+    }
+  },
+  {
+    "id": "n3-vocab-v202",
+    "curriculumId": "v202",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 125,
+    "title": "電車に乗りましょう①",
+    "meaning": {
+      "en": "Let's take the train (1)",
+      "id": "Ayo naik kereta ①"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 2,
+      "day": 2,
+      "sequence": 125
+    }
+  },
+  {
+    "id": "n3-vocab-v203",
+    "curriculumId": "v203",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 126,
+    "title": "電車に乗りましょう②",
+    "meaning": {
+      "en": "Let's take the train (2)",
+      "id": "Ayo naik kereta ②"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 2,
+      "day": 3,
+      "sequence": 126
+    }
+  },
+  {
+    "id": "n3-vocab-v204",
+    "curriculumId": "v204",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 127,
+    "title": "車に乗りましょう①",
+    "meaning": {
+      "en": "Let's take a car (1)",
+      "id": "Ayo naik mobil ①"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 2,
+      "day": 4,
+      "sequence": 127
+    }
+  },
+  {
+    "id": "n3-vocab-v205",
+    "curriculumId": "v205",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 128,
+    "title": "車に乗りましょう②",
+    "meaning": {
+      "en": "Let's take a car (2)",
+      "id": "Ayo naik mobil ②"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 2,
+      "day": 5,
+      "sequence": 128
+    }
+  },
+  {
+    "id": "n3-vocab-v206",
+    "curriculumId": "v206",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 129,
+    "title": "用事を済ませましょう",
+    "meaning": {
+      "en": "Let's get errands done",
+      "id": "Ayo selesaikan urusan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 2,
+      "day": 6,
+      "sequence": 129
+    }
+  },
+  {
+    "id": "n3-vocab-v301",
+    "curriculumId": "v301",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 130,
+    "title": "デートにさそいましょう",
+    "meaning": {
+      "en": "Let's invite someone on a date",
+      "id": "Ayo ajak kencan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 3,
+      "day": 1,
+      "sequence": 130
+    }
+  },
+  {
+    "id": "n3-vocab-v302",
+    "curriculumId": "v302",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 131,
+    "title": "したくをしましょう",
+    "meaning": {
+      "en": "Let's get ready",
+      "id": "Ayo bersiap-siap"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 3,
+      "day": 2,
+      "sequence": 131
+    }
+  },
+  {
+    "id": "n3-vocab-v303",
+    "curriculumId": "v303",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 132,
+    "title": "買い物をしましょう",
+    "meaning": {
+      "en": "Let's go shopping",
+      "id": "Ayo berbelanja"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 3,
+      "day": 3,
+      "sequence": 132
+    }
+  },
+  {
+    "id": "n3-vocab-v304",
+    "curriculumId": "v304",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 133,
+    "title": "食事に行きましょう",
+    "meaning": {
+      "en": "Let's go eat",
+      "id": "Ayo makan di luar"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 3,
+      "day": 4,
+      "sequence": 133
+    }
+  },
+  {
+    "id": "n3-vocab-v305",
+    "curriculumId": "v305",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 134,
+    "title": "お酒を飲みましょう",
+    "meaning": {
+      "en": "Let's have a drink",
+      "id": "Ayo minum bersama"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 3,
+      "day": 5,
+      "sequence": 134
+    }
+  },
+  {
+    "id": "n3-vocab-v306",
+    "curriculumId": "v306",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 135,
+    "title": "お金を払いましょう",
+    "meaning": {
+      "en": "Let's pay",
+      "id": "Ayo bayar"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 3,
+      "day": 6,
+      "sequence": 135
+    }
+  },
+  {
+    "id": "n3-vocab-v401",
+    "curriculumId": "v401",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 4,
+    "day": 1,
+    "sequence": 136,
+    "title": "学校へ行きましょう①",
+    "meaning": {
+      "en": "Let's go to school (1)",
+      "id": "Ayo ke sekolah ①"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 4,
+      "day": 1,
+      "sequence": 136
+    }
+  },
+  {
+    "id": "n3-vocab-v402",
+    "curriculumId": "v402",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 4,
+    "day": 2,
+    "sequence": 137,
+    "title": "学校へ行きましょう②",
+    "meaning": {
+      "en": "Let's go to school (2)",
+      "id": "Ayo ke sekolah ②"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 4,
+      "day": 2,
+      "sequence": 137
+    }
+  },
+  {
+    "id": "n3-vocab-v403",
+    "curriculumId": "v403",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 4,
+    "day": 3,
+    "sequence": 138,
+    "title": "学校へ行きましょう③",
+    "meaning": {
+      "en": "Let's go to school (3)",
+      "id": "Ayo ke sekolah ③"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 4,
+      "day": 3,
+      "sequence": 138
+    }
+  },
+  {
+    "id": "n3-vocab-v404",
+    "curriculumId": "v404",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 4,
+    "day": 4,
+    "sequence": 139,
+    "title": "仕事をしましょう",
+    "meaning": {
+      "en": "Let's work",
+      "id": "Ayo bekerja"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 4,
+      "day": 4,
+      "sequence": 139
+    }
+  },
+  {
+    "id": "n3-vocab-v405",
+    "curriculumId": "v405",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 4,
+    "day": 5,
+    "sequence": 140,
+    "title": "パソコンを使いましょう",
+    "meaning": {
+      "en": "Let's use a computer",
+      "id": "Ayo gunakan komputer"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 4,
+      "day": 5,
+      "sequence": 140
+    }
+  },
+  {
+    "id": "n3-vocab-v406",
+    "curriculumId": "v406",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 4,
+    "day": 6,
+    "sequence": 141,
+    "title": "メールを書きましょう",
+    "meaning": {
+      "en": "Let's write an email",
+      "id": "Ayo tulis email"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 4,
+      "day": 6,
+      "sequence": 141
+    }
+  },
+  {
+    "id": "n3-vocab-v501",
+    "curriculumId": "v501",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 5,
+    "day": 1,
+    "sequence": 142,
+    "title": "どういう関係ですか？",
+    "meaning": {
+      "en": "What kind of relationship?",
+      "id": "Hubungan seperti apa?"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 5,
+      "day": 1,
+      "sequence": 142
+    }
+  },
+  {
+    "id": "n3-vocab-v502",
+    "curriculumId": "v502",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 5,
+    "day": 2,
+    "sequence": 143,
+    "title": "あいさつをしましょう",
+    "meaning": {
+      "en": "Let's greet",
+      "id": "Ayo menyapa"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 5,
+      "day": 2,
+      "sequence": 143
+    }
+  },
+  {
+    "id": "n3-vocab-v503",
+    "curriculumId": "v503",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 5,
+    "day": 3,
+    "sequence": 144,
+    "title": "どんな人が好き？",
+    "meaning": {
+      "en": "What kind of person do you like?",
+      "id": "Orang seperti apa yang kamu suka?"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 5,
+      "day": 3,
+      "sequence": 144
+    }
+  },
+  {
+    "id": "n3-vocab-v504",
+    "curriculumId": "v504",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 5,
+    "day": 4,
+    "sequence": 145,
+    "title": "体の調子はどうですか？",
+    "meaning": {
+      "en": "How is your physical condition?",
+      "id": "Bagaimana kondisi tubuhmu?"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 5,
+      "day": 4,
+      "sequence": 145
+    }
+  },
+  {
+    "id": "n3-vocab-v505",
+    "curriculumId": "v505",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 5,
+    "day": 5,
+    "sequence": 146,
+    "title": "どんなようすですか？①",
+    "meaning": {
+      "en": "What is it like? (1)",
+      "id": "Seperti apa keadaannya? ①"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 5,
+      "day": 5,
+      "sequence": 146
+    }
+  },
+  {
+    "id": "n3-vocab-v506",
+    "curriculumId": "v506",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 5,
+    "day": 6,
+    "sequence": 147,
+    "title": "どんなようすですか？②",
+    "meaning": {
+      "en": "What is it like? (2)",
+      "id": "Seperti apa keadaannya? ②"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 5,
+      "day": 6,
+      "sequence": 147
+    }
+  },
+  {
+    "id": "n3-vocab-v601",
+    "curriculumId": "v601",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 6,
+    "day": 1,
+    "sequence": 148,
+    "title": "かなりがんばっています",
+    "meaning": {
+      "en": "Degree adverbs — quite, fairly, considerably",
+      "id": "Kata keterangan derajat"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 6,
+      "day": 1,
+      "sequence": 148
+    }
+  },
+  {
+    "id": "n3-vocab-v602",
+    "curriculumId": "v602",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 6,
+    "day": 2,
+    "sequence": 149,
+    "title": "ちゃんとがんばっています",
+    "meaning": {
+      "en": "Manner adverbs — properly, neatly, steadily",
+      "id": "Kata keterangan cara"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 6,
+      "day": 2,
+      "sequence": 149
+    }
+  },
+  {
+    "id": "n3-vocab-v603",
+    "curriculumId": "v603",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 6,
+    "day": 3,
+    "sequence": 150,
+    "title": "ますますがんばります",
+    "meaning": {
+      "en": "Change adverbs — more and more, gradually",
+      "id": "Kata keterangan perubahan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 6,
+      "day": 3,
+      "sequence": 150
+    }
+  },
+  {
+    "id": "n3-vocab-v604",
+    "curriculumId": "v604",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 6,
+    "day": 4,
+    "sequence": 151,
+    "title": "組み合わせのことば",
+    "meaning": {
+      "en": "Word combinations — collocations",
+      "id": "Kombinasi kata — kolokasi"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 6,
+      "day": 4,
+      "sequence": 151
+    }
+  },
+  {
+    "id": "n3-vocab-v605",
+    "curriculumId": "v605",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 6,
+    "day": 5,
+    "sequence": 152,
+    "title": "意味がたくさんある動詞①",
+    "meaning": {
+      "en": "Verbs with multiple meanings (1)",
+      "id": "Kata kerja dengan banyak makna ①"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 6,
+      "day": 5,
+      "sequence": 152
+    }
+  },
+  {
+    "id": "n3-vocab-v606",
+    "curriculumId": "v606",
+    "level": "n3",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 6,
+    "day": 6,
+    "sequence": 153,
+    "title": "意味がたくさんある動詞②",
+    "meaning": {
+      "en": "Verbs with multiple meanings (2)",
+      "id": "Kata kerja dengan banyak makna ②"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "week": 6,
+      "day": 6,
+      "sequence": 153
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v01",
+    "curriculumId": "sk_v01",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "人間関係 Human Relations",
+    "lesson": 1,
+    "sequence": 154,
+    "title": "人間関係1：家族と友達、性格",
+    "meaning": {
+      "en": "Human relations 1: Family, friends, personality",
+      "id": "Hubungan 1: Keluarga, teman, kepribadian"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 1,
+      "sequence": 154
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v02",
+    "curriculumId": "sk_v02",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "人間関係 Human Relations",
+    "lesson": 2,
+    "sequence": 155,
+    "title": "人間関係2：付き合い、気持ち",
+    "meaning": {
+      "en": "Human relations 2: Relationships and mood",
+      "id": "Hubungan 2: Pergaulan dan perasaan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 2,
+      "sequence": 155
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v03",
+    "curriculumId": "sk_v03",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "生活 Daily Life",
+    "lesson": 3,
+    "sequence": 156,
+    "title": "生活1：毎日の生活",
+    "meaning": {
+      "en": "Living 1: Everyday life",
+      "id": "Kehidupan 1: Kegiatan sehari-hari"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 3,
+      "sequence": 156
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v04",
+    "curriculumId": "sk_v04",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "生活 Daily Life",
+    "lesson": 4,
+    "sequence": 157,
+    "title": "生活2：食生活",
+    "meaning": {
+      "en": "Living 2: Diet and eating habits",
+      "id": "Kehidupan 2: Pola makan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 4,
+      "sequence": 157
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v05",
+    "curriculumId": "sk_v05",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "生活 Daily Life",
+    "lesson": 5,
+    "sequence": 158,
+    "title": "生活3：家",
+    "meaning": {
+      "en": "Living 3: Home",
+      "id": "Kehidupan 3: Rumah"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 5,
+      "sequence": 158
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v06",
+    "curriculumId": "sk_v06",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "体 The Body",
+    "lesson": 6,
+    "sequence": 159,
+    "title": "体1：美容、健康",
+    "meaning": {
+      "en": "The body 1: Beauty and health",
+      "id": "Tubuh 1: Kecantikan dan kesehatan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 6,
+      "sequence": 159
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v07",
+    "curriculumId": "sk_v07",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "体 The Body",
+    "lesson": 7,
+    "sequence": 160,
+    "title": "体2：病気",
+    "meaning": {
+      "en": "The body 2: Illness",
+      "id": "Tubuh 2: Penyakit"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 7,
+      "sequence": 160
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v08",
+    "curriculumId": "sk_v08",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "趣味と旅行 Hobbies and Travel",
+    "lesson": 8,
+    "sequence": 161,
+    "title": "趣味と旅行1：スポーツ、芸術",
+    "meaning": {
+      "en": "Hobbies and travel 1: Sports and fine arts",
+      "id": "Hobi dan perjalanan 1: Olahraga dan seni"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 8,
+      "sequence": 161
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v09",
+    "curriculumId": "sk_v09",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "趣味と旅行 Hobbies and Travel",
+    "lesson": 9,
+    "sequence": 162,
+    "title": "趣味と旅行2：ファッション",
+    "meaning": {
+      "en": "Hobbies and travel 2: Fashion",
+      "id": "Hobi dan perjalanan 2: Fashion"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 9,
+      "sequence": 162
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v10",
+    "curriculumId": "sk_v10",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "趣味と旅行 Hobbies and Travel",
+    "lesson": 10,
+    "sequence": 163,
+    "title": "趣味と旅行3：旅行",
+    "meaning": {
+      "en": "Hobbies and travel 3: Travel",
+      "id": "Hobi dan perjalanan 3: Perjalanan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 10,
+      "sequence": 163
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v11",
+    "curriculumId": "sk_v11",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "教育 Education",
+    "lesson": 11,
+    "sequence": 164,
+    "title": "教育1：学校生活（小中高）",
+    "meaning": {
+      "en": "Education 1: School life (elementary and junior high)",
+      "id": "Pendidikan 1: Kehidupan sekolah (SD dan SMP)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 11,
+      "sequence": 164
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v12",
+    "curriculumId": "sk_v12",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "教育 Education",
+    "lesson": 12,
+    "sequence": 165,
+    "title": "教育2：学校生活（大学）",
+    "meaning": {
+      "en": "Education 2: College life (university)",
+      "id": "Pendidikan 2: Kehidupan kampus (universitas)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 12,
+      "sequence": 165
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v13",
+    "curriculumId": "sk_v13",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "仕事 Work",
+    "lesson": 13,
+    "sequence": 166,
+    "title": "仕事1：仕事",
+    "meaning": {
+      "en": "Working life 1: Jobs and occupations",
+      "id": "Kehidupan kerja 1: Pekerjaan dan jabatan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 13,
+      "sequence": 166
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v14",
+    "curriculumId": "sk_v14",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "仕事 Work",
+    "lesson": 14,
+    "sequence": 167,
+    "title": "仕事2：コンピューター、郵便、電話など",
+    "meaning": {
+      "en": "Working life 2: Computers, post, telephone, etc.",
+      "id": "Kehidupan kerja 2: Komputer, pos, telepon, dll."
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 14,
+      "sequence": 167
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v15",
+    "curriculumId": "sk_v15",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "社会 Society",
+    "lesson": 15,
+    "sequence": 168,
+    "title": "社会1：事件、事故",
+    "meaning": {
+      "en": "Society 1: Events and incidents",
+      "id": "Masyarakat 1: Kejadian dan kecelakaan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 15,
+      "sequence": 168
+    }
+  },
+  {
+    "id": "n3-vocab-sk_v16",
+    "curriculumId": "sk_v16",
+    "level": "n3",
+    "section": "vocab",
+    "source": "shinkanzen",
+    "category": "社会 Society",
+    "lesson": 16,
+    "sequence": 169,
+    "title": "社会2：政治、経済",
+    "meaning": {
+      "en": "Society 2: Politics and economy",
+      "id": "Masyarakat 2: Politik dan ekonomi"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "vocab",
+      "lesson": 16,
+      "sequence": 169
+    }
+  },
+  {
+    "id": "n3-kanji-k101",
+    "curriculumId": "k101",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 170,
+    "title": "駐車場",
+    "meaning": {
+      "en": "Parking lot — transport and parking signs",
+      "id": "Tempat parkir — tanda transportasi dan parkir"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 170
+    }
+  },
+  {
+    "id": "n3-kanji-k102",
+    "curriculumId": "k102",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 171,
+    "title": "横断歩道",
+    "meaning": {
+      "en": "Pedestrian crossing — crosswalk kanji",
+      "id": "Penyeberangan pejalan kaki"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 171
+    }
+  },
+  {
+    "id": "n3-kanji-k103",
+    "curriculumId": "k103",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 172,
+    "title": "サイン",
+    "meaning": {
+      "en": "Signs — reading various public signs",
+      "id": "Tanda — membaca berbagai tanda umum"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 172
+    }
+  },
+  {
+    "id": "n3-kanji-k104",
+    "curriculumId": "k104",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 173,
+    "title": "駅のホーム",
+    "meaning": {
+      "en": "Train station platform signs",
+      "id": "Tanda peron stasiun kereta"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 173
+    }
+  },
+  {
+    "id": "n3-kanji-k105",
+    "curriculumId": "k105",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 174,
+    "title": "特急電車",
+    "meaning": {
+      "en": "Express train — train types and service signs",
+      "id": "Kereta ekspres — jenis kereta dan tanda layanan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 174
+    }
+  },
+  {
+    "id": "n3-kanji-k106",
+    "curriculumId": "k106",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 175,
+    "title": "バス",
+    "meaning": {
+      "en": "Bus — bus stop and route signs",
+      "id": "Bus — tanda halte dan rute"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 175
+    }
+  },
+  {
+    "id": "n3-kanji-k201",
+    "curriculumId": "k201",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 176,
+    "title": "レストラン",
+    "meaning": {
+      "en": "Restaurant — menu and sign kanji",
+      "id": "Restoran — kanji menu dan tanda"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 2,
+      "day": 1,
+      "sequence": 176
+    }
+  },
+  {
+    "id": "n3-kanji-k202",
+    "curriculumId": "k202",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 177,
+    "title": "禁煙",
+    "meaning": {
+      "en": "No smoking — prohibition signs",
+      "id": "Dilarang merokok — tanda larangan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 177
+    }
+  },
+  {
+    "id": "n3-kanji-k203",
+    "curriculumId": "k203",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 178,
+    "title": "観光地図",
+    "meaning": {
+      "en": "Tourist map — sightseeing area signs",
+      "id": "Peta wisata — tanda area wisata"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 2,
+      "day": 3,
+      "sequence": 178
+    }
+  },
+  {
+    "id": "n3-kanji-k204",
+    "curriculumId": "k204",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 179,
+    "title": "街の地図",
+    "meaning": {
+      "en": "City map — reading urban maps and directions",
+      "id": "Peta kota — membaca peta dan petunjuk arah"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 2,
+      "day": 4,
+      "sequence": 179
+    }
+  },
+  {
+    "id": "n3-kanji-k205",
+    "curriculumId": "k205",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 180,
+    "title": "病院",
+    "meaning": {
+      "en": "Hospital — medical facility signs",
+      "id": "Rumah sakit — tanda fasilitas medis"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 2,
+      "day": 5,
+      "sequence": 180
+    }
+  },
+  {
+    "id": "n3-kanji-k206",
+    "curriculumId": "k206",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 181,
+    "title": "困ったときは",
+    "meaning": {
+      "en": "When in trouble — emergency and help signs",
+      "id": "Saat kesulitan — tanda darurat dan pertolongan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 2,
+      "day": 6,
+      "sequence": 181
+    }
+  },
+  {
+    "id": "n3-kanji-k301",
+    "curriculumId": "k301",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 182,
+    "title": "要冷蔵",
+    "meaning": {
+      "en": "Refrigeration required — product label kanji",
+      "id": "Perlu disimpan dingin — kanji label produk"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 3,
+      "day": 1,
+      "sequence": 182
+    }
+  },
+  {
+    "id": "n3-kanji-k302",
+    "curriculumId": "k302",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 183,
+    "title": "消費期限",
+    "meaning": {
+      "en": "Expiry date — date and freshness label kanji",
+      "id": "Tanggal kedaluwarsa — kanji label tanggal"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 3,
+      "day": 2,
+      "sequence": 183
+    }
+  },
+  {
+    "id": "n3-kanji-k303",
+    "curriculumId": "k303",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 184,
+    "title": "自動販売機",
+    "meaning": {
+      "en": "Vending machine — vending and payment kanji",
+      "id": "Mesin penjual otomatis"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 3,
+      "day": 3,
+      "sequence": 184
+    }
+  },
+  {
+    "id": "n3-kanji-k304",
+    "curriculumId": "k304",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 185,
+    "title": "レシピ",
+    "meaning": {
+      "en": "Recipe — cooking instruction kanji",
+      "id": "Resep — kanji instruksi memasak"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 3,
+      "day": 4,
+      "sequence": 185
+    }
+  },
+  {
+    "id": "n3-kanji-k305",
+    "curriculumId": "k305",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 186,
+    "title": "コピー機・留守番電話",
+    "meaning": {
+      "en": "Copier and answering machine — device instruction kanji",
+      "id": "Mesin fotokopi dan penjawab telepon"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 3,
+      "day": 5,
+      "sequence": 186
+    }
+  },
+  {
+    "id": "n3-kanji-k306",
+    "curriculumId": "k306",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 187,
+    "title": "携帯電話",
+    "meaning": {
+      "en": "Mobile phone — smartphone and communication kanji",
+      "id": "Telepon genggam — kanji ponsel pintar"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 3,
+      "day": 6,
+      "sequence": 187
+    }
+  },
+  {
+    "id": "n3-kanji-k401",
+    "curriculumId": "k401",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 4,
+    "day": 1,
+    "sequence": 188,
+    "title": "日用品",
+    "meaning": {
+      "en": "Daily necessities — shopping item kanji",
+      "id": "Kebutuhan sehari-hari — kanji barang belanja"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 4,
+      "day": 1,
+      "sequence": 188
+    }
+  },
+  {
+    "id": "n3-kanji-k402",
+    "curriculumId": "k402",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 4,
+    "day": 2,
+    "sequence": 189,
+    "title": "広告メール",
+    "meaning": {
+      "en": "Advertisement mail — promotional text kanji",
+      "id": "Email iklan — kanji teks promosi"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 4,
+      "day": 2,
+      "sequence": 189
+    }
+  },
+  {
+    "id": "n3-kanji-k403",
+    "curriculumId": "k403",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 4,
+    "day": 3,
+    "sequence": 190,
+    "title": "通信販売",
+    "meaning": {
+      "en": "Mail order — online and catalog shopping kanji",
+      "id": "Belanja pos — kanji belanja online"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 4,
+      "day": 3,
+      "sequence": 190
+    }
+  },
+  {
+    "id": "n3-kanji-k404",
+    "curriculumId": "k404",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 4,
+    "day": 4,
+    "sequence": 191,
+    "title": "申込書",
+    "meaning": {
+      "en": "Application form — form-filling kanji",
+      "id": "Formulir pendaftaran — kanji pengisian formulir"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 4,
+      "day": 4,
+      "sequence": 191
+    }
+  },
+  {
+    "id": "n3-kanji-k405",
+    "curriculumId": "k405",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 4,
+    "day": 5,
+    "sequence": 192,
+    "title": "注文",
+    "meaning": {
+      "en": "Order — ordering and purchase kanji",
+      "id": "Pemesanan — kanji pemesanan dan pembelian"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 4,
+      "day": 5,
+      "sequence": 192
+    }
+  },
+  {
+    "id": "n3-kanji-k406",
+    "curriculumId": "k406",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 4,
+    "day": 6,
+    "sequence": 193,
+    "title": "不在通知",
+    "meaning": {
+      "en": "Delivery notice — absence notification kanji",
+      "id": "Pemberitahuan ketidakhadiran"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 4,
+      "day": 6,
+      "sequence": 193
+    }
+  },
+  {
+    "id": "n3-kanji-k501",
+    "curriculumId": "k501",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 5,
+    "day": 1,
+    "sequence": 194,
+    "title": "メールを送る",
+    "meaning": {
+      "en": "Sending email — email writing kanji",
+      "id": "Mengirim email — kanji penulisan email"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 5,
+      "day": 1,
+      "sequence": 194
+    }
+  },
+  {
+    "id": "n3-kanji-k502",
+    "curriculumId": "k502",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 5,
+    "day": 2,
+    "sequence": 195,
+    "title": "アンケート",
+    "meaning": {
+      "en": "Survey — questionnaire and form response kanji",
+      "id": "Kuesioner — kanji tanggapan formulir"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 5,
+      "day": 2,
+      "sequence": 195
+    }
+  },
+  {
+    "id": "n3-kanji-k503",
+    "curriculumId": "k503",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 5,
+    "day": 3,
+    "sequence": 196,
+    "title": "日本語クラス",
+    "meaning": {
+      "en": "Japanese class — academic document kanji",
+      "id": "Kelas bahasa Jepang — kanji dokumen akademik"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 5,
+      "day": 3,
+      "sequence": 196
+    }
+  },
+  {
+    "id": "n3-kanji-k504",
+    "curriculumId": "k504",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 5,
+    "day": 4,
+    "sequence": 197,
+    "title": "作文",
+    "meaning": {
+      "en": "Essay — composition writing kanji",
+      "id": "Karangan — kanji penulisan komposisi"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 5,
+      "day": 4,
+      "sequence": 197
+    }
+  },
+  {
+    "id": "n3-kanji-k505",
+    "curriculumId": "k505",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 5,
+    "day": 5,
+    "sequence": 198,
+    "title": "問診票―歯科で",
+    "meaning": {
+      "en": "Medical questionnaire — dental clinic kanji",
+      "id": "Lembar anamnesis — klinik gigi"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 5,
+      "day": 5,
+      "sequence": 198
+    }
+  },
+  {
+    "id": "n3-kanji-k506",
+    "curriculumId": "k506",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 5,
+    "day": 6,
+    "sequence": 199,
+    "title": "問診票―健康診断",
+    "meaning": {
+      "en": "Medical questionnaire — health check kanji",
+      "id": "Lembar anamnesis — pemeriksaan kesehatan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 5,
+      "day": 6,
+      "sequence": 199
+    }
+  },
+  {
+    "id": "n3-kanji-k601",
+    "curriculumId": "k601",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 6,
+    "day": 1,
+    "sequence": 200,
+    "title": "天気予報",
+    "meaning": {
+      "en": "Weather forecast — meteorological kanji",
+      "id": "Prakiraan cuaca — kanji meteorologi"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 6,
+      "day": 1,
+      "sequence": 200
+    }
+  },
+  {
+    "id": "n3-kanji-k602",
+    "curriculumId": "k602",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 6,
+    "day": 2,
+    "sequence": 201,
+    "title": "求人広告",
+    "meaning": {
+      "en": "Job advertisement — employment ad kanji",
+      "id": "Iklan lowongan kerja — kanji iklan kerja"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 6,
+      "day": 2,
+      "sequence": 201
+    }
+  },
+  {
+    "id": "n3-kanji-k603",
+    "curriculumId": "k603",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 6,
+    "day": 3,
+    "sequence": 202,
+    "title": "スポーツ記事",
+    "meaning": {
+      "en": "Sports article — sports news kanji",
+      "id": "Artikel olahraga — kanji berita olahraga"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 6,
+      "day": 3,
+      "sequence": 202
+    }
+  },
+  {
+    "id": "n3-kanji-k604",
+    "curriculumId": "k604",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 6,
+    "day": 4,
+    "sequence": 203,
+    "title": "経済",
+    "meaning": {
+      "en": "Economy — economic and financial news kanji",
+      "id": "Ekonomi — kanji berita ekonomi"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 6,
+      "day": 4,
+      "sequence": 203
+    }
+  },
+  {
+    "id": "n3-kanji-k605",
+    "curriculumId": "k605",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 6,
+    "day": 5,
+    "sequence": 204,
+    "title": "地球温暖化",
+    "meaning": {
+      "en": "Global warming — environmental issue kanji",
+      "id": "Pemanasan global — kanji isu lingkungan"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 6,
+      "day": 5,
+      "sequence": 204
+    }
+  },
+  {
+    "id": "n3-kanji-k606",
+    "curriculumId": "k606",
+    "level": "n3",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 6,
+    "day": 6,
+    "sequence": 205,
+    "title": "政治",
+    "meaning": {
+      "en": "Politics — political news kanji",
+      "id": "Politik — kanji berita politik"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "week": 6,
+      "day": 6,
+      "sequence": 205
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k01",
+    "curriculumId": "sk_k01",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 1,
+    "sequence": 206,
+    "title": "訓読み：名詞",
+    "meaning": {
+      "en": "Kunyomi: Nouns",
+      "id": "Kun'yomi: Kata benda"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 1,
+      "sequence": 206
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k02",
+    "curriculumId": "sk_k02",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 2,
+    "sequence": 207,
+    "title": "訓読み：動詞（1）",
+    "meaning": {
+      "en": "Kunyomi: Verbs (1)",
+      "id": "Kun'yomi: Kata kerja (1)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 2,
+      "sequence": 207
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k03",
+    "curriculumId": "sk_k03",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 3,
+    "sequence": 208,
+    "title": "訓読み：動詞（2）",
+    "meaning": {
+      "en": "Kunyomi: Verbs (2)",
+      "id": "Kun'yomi: Kata kerja (2)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 3,
+      "sequence": 208
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k04",
+    "curriculumId": "sk_k04",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 4,
+    "sequence": 209,
+    "title": "訓読み：形容詞など",
+    "meaning": {
+      "en": "Kunyomi: Adjectives, etc.",
+      "id": "Kun'yomi: Kata sifat, dll."
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 4,
+      "sequence": 209
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k05",
+    "curriculumId": "sk_k05",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 5,
+    "sequence": 210,
+    "title": "たくさんの言葉を作る漢字：音読み",
+    "meaning": {
+      "en": "Kanji that form many words: Onyomi",
+      "id": "On'yomi frekuensi tinggi"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 5,
+      "sequence": 210
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k06",
+    "curriculumId": "sk_k06",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 6,
+    "sequence": 211,
+    "title": "たくさんの言葉を作る漢字：音読みと訓読み",
+    "meaning": {
+      "en": "Kanji that form many words: Onyomi and kunyomi",
+      "id": "Kanji produktif: On'yomi dan Kun'yomi"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 6,
+      "sequence": 211
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k07",
+    "curriculumId": "sk_k07",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 7,
+    "sequence": 212,
+    "title": "政治・経済・社会（1）",
+    "meaning": {
+      "en": "Politics, economy and society (1)",
+      "id": "Politik, ekonomi, dan masyarakat (1)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 7,
+      "sequence": 212
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k08",
+    "curriculumId": "sk_k08",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 8,
+    "sequence": 213,
+    "title": "政治・経済・社会（2）",
+    "meaning": {
+      "en": "Politics, economy and society (2)",
+      "id": "Politik, ekonomi, dan masyarakat (2)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 8,
+      "sequence": 213
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k09",
+    "curriculumId": "sk_k09",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 9,
+    "sequence": 214,
+    "title": "政治・経済・社会（3）",
+    "meaning": {
+      "en": "Politics, economy and society (3)",
+      "id": "Politik, ekonomi, dan masyarakat (3)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 9,
+      "sequence": 214
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k10",
+    "curriculumId": "sk_k10",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 10,
+    "sequence": 215,
+    "title": "教育・文化・生活（1）",
+    "meaning": {
+      "en": "Education, culture and lifestyle (1)",
+      "id": "Pendidikan, budaya, dan gaya hidup (1)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 10,
+      "sequence": 215
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k11",
+    "curriculumId": "sk_k11",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 11,
+    "sequence": 216,
+    "title": "教育・文化・生活（2）",
+    "meaning": {
+      "en": "Education, culture and lifestyle (2)",
+      "id": "Pendidikan, budaya, dan gaya hidup (2)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 11,
+      "sequence": 216
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k12",
+    "curriculumId": "sk_k12",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 12,
+    "sequence": 217,
+    "title": "教育・文化・生活（3）",
+    "meaning": {
+      "en": "Education, culture and lifestyle (3)",
+      "id": "Pendidikan, budaya, dan gaya hidup (3)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 12,
+      "sequence": 217
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k13",
+    "curriculumId": "sk_k13",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 13,
+    "sequence": 218,
+    "title": "教育・文化・生活（4）",
+    "meaning": {
+      "en": "Education, culture and lifestyle (4)",
+      "id": "Pendidikan, budaya, dan gaya hidup (4)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 13,
+      "sequence": 218
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k14",
+    "curriculumId": "sk_k14",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 14,
+    "sequence": 219,
+    "title": "教育・文化・生活（5）",
+    "meaning": {
+      "en": "Education, culture and lifestyle (5)",
+      "id": "Pendidikan, budaya, dan gaya hidup (5)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 14,
+      "sequence": 219
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k15",
+    "curriculumId": "sk_k15",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 15,
+    "sequence": 220,
+    "title": "交通・旅行（1）",
+    "meaning": {
+      "en": "Transportation and travel (1)",
+      "id": "Transportasi dan perjalanan (1)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 15,
+      "sequence": 220
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k16",
+    "curriculumId": "sk_k16",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 16,
+    "sequence": 221,
+    "title": "交通・旅行（2）",
+    "meaning": {
+      "en": "Transportation and travel (2)",
+      "id": "Transportasi dan perjalanan (2)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 16,
+      "sequence": 221
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k17",
+    "curriculumId": "sk_k17",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 17,
+    "sequence": 222,
+    "title": "新しく音読みを覚える漢字：動詞",
+    "meaning": {
+      "en": "New onyomi for learned kanji: Verbs",
+      "id": "On'yomi baru untuk kanji yang sudah dikenal: Kata kerja"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 17,
+      "sequence": 222
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k18",
+    "curriculumId": "sk_k18",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 18,
+    "sequence": 223,
+    "title": "新しく音読みを覚える漢字：名詞や形容詞",
+    "meaning": {
+      "en": "New onyomi for learned kanji: Nouns and adjectives",
+      "id": "On'yomi baru untuk kanji yang sudah dikenal: Kata benda dan sifat"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 18,
+      "sequence": 223
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k19",
+    "curriculumId": "sk_k19",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 19,
+    "sequence": 224,
+    "title": "音読みと訓読みを覚える新しい漢字：動詞",
+    "meaning": {
+      "en": "New kanji with both readings: Verbs",
+      "id": "Kanji baru dengan kedua bacaan: Kata kerja"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 19,
+      "sequence": 224
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k20",
+    "curriculumId": "sk_k20",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 20,
+    "sequence": 225,
+    "title": "音読みと訓読みを覚える新しい漢字：名詞や形容詞",
+    "meaning": {
+      "en": "New kanji with both readings: Nouns and adjectives",
+      "id": "Kanji baru dengan kedua bacaan: Kata benda dan sifat"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 20,
+      "sequence": 225
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k21",
+    "curriculumId": "sk_k21",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 21,
+    "sequence": 226,
+    "title": "二つ以上の訓読みを覚える漢字",
+    "meaning": {
+      "en": "Kanji with two or more kunyomi readings",
+      "id": "Kanji dengan dua atau lebih bacaan kun'yomi"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 21,
+      "sequence": 226
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k22",
+    "curriculumId": "sk_k22",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 22,
+    "sequence": 227,
+    "title": "二つめの音読みを覚える漢字",
+    "meaning": {
+      "en": "Learning a second onyomi for the same kanji",
+      "id": "Mempelajari on'yomi kedua untuk kanji yang sama"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 22,
+      "sequence": 227
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k23",
+    "curriculumId": "sk_k23",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 23,
+    "sequence": 228,
+    "title": "二つの音読みを覚える新しい漢字",
+    "meaning": {
+      "en": "New kanji with two onyomi readings",
+      "id": "Kanji baru dengan dua bacaan on'yomi"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 23,
+      "sequence": 228
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k24",
+    "curriculumId": "sk_k24",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 24,
+    "sequence": 229,
+    "title": "三つ以上の読み方を覚える漢字（1）",
+    "meaning": {
+      "en": "Kanji with three readings or more (1)",
+      "id": "Kanji dengan tiga bacaan atau lebih (1)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 24,
+      "sequence": 229
+    }
+  },
+  {
+    "id": "n3-kanji-sk_k25",
+    "curriculumId": "sk_k25",
+    "level": "n3",
+    "section": "kanji",
+    "source": "shinkanzen",
+    "round": 25,
+    "sequence": 230,
+    "title": "三つ以上の読み方を覚える漢字（2）",
+    "meaning": {
+      "en": "Kanji with three readings or more (2)",
+      "id": "Kanji dengan tiga bacaan atau lebih (2)"
+    },
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n3",
+      "section": "kanji",
+      "round": 25,
+      "sequence": 230
+    }
+  }
+]

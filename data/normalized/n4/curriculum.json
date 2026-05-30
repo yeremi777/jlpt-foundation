@@ -1,0 +1,5408 @@
+[
+  {
+    "id": "n4-grammar-n4_g101",
+    "curriculumId": "n4_g101",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 1,
+    "title": "〜で",
+    "reading": "de",
+    "meaning": {
+      "en": "At/in ~; place where an action happens",
+      "id": "Di ~; tempat terjadinya aksi"
+    },
+    "formula": "N(place)+で+V",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 1,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g102",
+    "curriculumId": "n4_g102",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 2,
+    "title": "〜に勤める",
+    "reading": "ni tsutomeru",
+    "meaning": {
+      "en": "Work at/for ~",
+      "id": "Bekerja di/untuk ~"
+    },
+    "formula": "N(company/place)+に勤める",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 2,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g103",
+    "curriculumId": "n4_g103",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 3,
+    "title": "〜から",
+    "reading": "kara",
+    "meaning": {
+      "en": "Made from ~; source material",
+      "id": "Terbuat dari ~; bahan asal"
+    },
+    "formula": "N+から+作る",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 3,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g104",
+    "curriculumId": "n4_g104",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 4,
+    "title": "〜に",
+    "reading": "ni",
+    "meaning": {
+      "en": "Per ~; frequency within a time span",
+      "id": "Per ~; frekuensi dalam rentang waktu"
+    },
+    "formula": "Time+に+number/counter",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 4,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g105",
+    "curriculumId": "n4_g105",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 5,
+    "title": "〜も",
+    "reading": "mo",
+    "meaning": {
+      "en": "Even ~; as many/much as ~",
+      "id": "Bahkan ~; sebanyak ~"
+    },
+    "formula": "N/quantity+も",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 5,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g106",
+    "curriculumId": "n4_g106",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 6,
+    "title": "〜ずつ",
+    "reading": "zutsu",
+    "meaning": {
+      "en": "Each; at a time; by equal amount",
+      "id": "Masing-masing; tiap kali; jumlah yang sama"
+    },
+    "formula": "Counter+ずつ",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 6,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g107",
+    "curriculumId": "n4_g107",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 7,
+    "title": "〜ほど〜ない",
+    "reading": "hodo~nai",
+    "meaning": {
+      "en": "Not as ~ as ~",
+      "id": "Tidak se~ seperti ~"
+    },
+    "formula": "N1はN2ほど+Adj(neg)",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 7,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g108",
+    "curriculumId": "n4_g108",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 8,
+    "title": "〜では・〜には・〜からも",
+    "reading": "de wa / ni wa / kara mo",
+    "meaning": {
+      "en": "Particle + は/も for contrast or emphasis",
+      "id": "Partikel + は/も untuk kontras atau penekanan"
+    },
+    "formula": "Particle+は／も",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 8,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g109",
+    "curriculumId": "n4_g109",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 9,
+    "title": "名詞修飾",
+    "reading": "meishi shuushoku",
+    "meaning": {
+      "en": "Noun modification; describe a noun before it",
+      "id": "Modifikasi kata benda; penjelas sebelum nomina"
+    },
+    "formula": "Modifier+N",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 9,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g110",
+    "curriculumId": "n4_g110",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 10,
+    "title": "〜でも",
+    "reading": "demo",
+    "meaning": {
+      "en": "Even ~; something like ~; example",
+      "id": "Bahkan ~; seperti ~; contoh"
+    },
+    "formula": "N+でも",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 10,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g111",
+    "curriculumId": "n4_g111",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 11,
+    "title": "〜で",
+    "reading": "de",
+    "meaning": {
+      "en": "By/with/in ~; method, range, reason, material",
+      "id": "Dengan/di/karena/dari ~; cara, cakupan, alasan, bahan"
+    },
+    "formula": "N+で",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 11,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g112",
+    "curriculumId": "n4_g112",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 12,
+    "title": "〜も",
+    "reading": "mo",
+    "meaning": {
+      "en": "As much/many as ~; emphasizes large amount",
+      "id": "Sampai/sebanyak ~; menekankan jumlah besar"
+    },
+    "formula": "Quantity+も",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 12,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g113",
+    "curriculumId": "n4_g113",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 13,
+    "title": "〜も〜ない",
+    "reading": "mo~nai",
+    "meaning": {
+      "en": "Not even one; not at all",
+      "id": "Satu pun tidak; sama sekali tidak"
+    },
+    "formula": "Counter+も+V(neg)",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 13,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g114",
+    "curriculumId": "n4_g114",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 14,
+    "title": "〜とか〜とか",
+    "reading": "toka~toka",
+    "meaning": {
+      "en": "Things like ~ and ~; examples",
+      "id": "Seperti ~ dan ~; memberi contoh"
+    },
+    "formula": "NとかNとか",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 14,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g115",
+    "curriculumId": "n4_g115",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 15,
+    "title": "〜しか〜ない",
+    "reading": "shika~nai",
+    "meaning": {
+      "en": "Only; nothing but ~",
+      "id": "Hanya; tidak ada selain ~"
+    },
+    "formula": "N+しか+V(neg)",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 15,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g116",
+    "curriculumId": "n4_g116",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 16,
+    "title": "〜まで",
+    "reading": "made",
+    "meaning": {
+      "en": "Until ~",
+      "id": "Sampai ~"
+    },
+    "formula": "N/V(dict)+まで",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 16,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g117",
+    "curriculumId": "n4_g117",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 17,
+    "title": "〜までに",
+    "reading": "made ni",
+    "meaning": {
+      "en": "By ~; before a deadline",
+      "id": "Paling lambat ~; sebelum tenggat"
+    },
+    "formula": "N/V(dict)+までに",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 17,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g118",
+    "curriculumId": "n4_g118",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 18,
+    "title": "〜たり〜たりする",
+    "reading": "tari~tari suru",
+    "meaning": {
+      "en": "Do things such as ~ and ~",
+      "id": "Melakukan hal seperti ~ dan ~"
+    },
+    "formula": "V(た)+り+V(た)+りする",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 18,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g119",
+    "curriculumId": "n4_g119",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 19,
+    "title": "〜し〜し",
+    "reading": "shi~shi",
+    "meaning": {
+      "en": "And; what’s more; listing reasons or qualities",
+      "id": "Dan juga; selain itu; menyebutkan alasan/sifat"
+    },
+    "formula": "Clause+し+Clause+し",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 19,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g120",
+    "curriculumId": "n4_g120",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 20,
+    "title": "〜ばかり",
+    "reading": "bakari",
+    "meaning": {
+      "en": "Only; nothing but; a lot of ~",
+      "id": "Hanya; melulu; banyak sekali ~"
+    },
+    "formula": "N+ばかり / V(て)+ばかりいる",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 20,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g121",
+    "curriculumId": "n4_g121",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 21,
+    "title": "〜ところ",
+    "reading": "tokoro",
+    "meaning": {
+      "en": "About to do ~",
+      "id": "Baru akan melakukan ~"
+    },
+    "formula": "V(dict)+ところ",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 4,
+      "sequence": 21,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g122",
+    "curriculumId": "n4_g122",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 22,
+    "title": "〜ているところ",
+    "reading": "te iru tokoro",
+    "meaning": {
+      "en": "In the middle of doing ~",
+      "id": "Sedang melakukan ~"
+    },
+    "formula": "V(ている)+ところ",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 4,
+      "sequence": 22,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g123",
+    "curriculumId": "n4_g123",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 23,
+    "title": "〜たところ",
+    "reading": "ta tokoro",
+    "meaning": {
+      "en": "Just finished doing ~",
+      "id": "Baru saja selesai melakukan ~"
+    },
+    "formula": "V(た)+ところ",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 4,
+      "sequence": 23,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g124",
+    "curriculumId": "n4_g124",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 24,
+    "title": "〜間に",
+    "reading": "aida ni",
+    "meaning": {
+      "en": "While; during the time that ~",
+      "id": "Selama; ketika ~"
+    },
+    "formula": "N+の間に / V(ている)+間に",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 4,
+      "sequence": 24,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g125",
+    "curriculumId": "n4_g125",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 25,
+    "title": "〜とき（に）",
+    "reading": "toki ni",
+    "meaning": {
+      "en": "When ~; at the time of ~",
+      "id": "Ketika ~; saat ~"
+    },
+    "formula": "V(dict/た)+とき（に）",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 4,
+      "sequence": 25,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g126",
+    "curriculumId": "n4_g126",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 26,
+    "title": "〜中",
+    "reading": "chuu",
+    "meaning": {
+      "en": "In the middle of ~; during ~",
+      "id": "Sedang ~; selama ~"
+    },
+    "formula": "N+中",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 4,
+      "sequence": 26,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g127",
+    "curriculumId": "n4_g127",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 27,
+    "title": "〜て・〜で（原因）",
+    "reading": "te / de",
+    "meaning": {
+      "en": "Because of ~; cause or reason",
+      "id": "Karena ~; sebab atau alasan"
+    },
+    "formula": "V(て) / Adj(くて) / N+で",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 5,
+      "sequence": 27,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g128",
+    "curriculumId": "n4_g128",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 28,
+    "title": "〜て・〜ないで（方法）",
+    "reading": "te / naide",
+    "meaning": {
+      "en": "By doing ~; without doing ~",
+      "id": "Dengan melakukan ~; tanpa melakukan ~"
+    },
+    "formula": "V(て) / V(ないで)",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 5,
+      "sequence": 28,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g129",
+    "curriculumId": "n4_g129",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 29,
+    "title": "〜まま",
+    "reading": "mama",
+    "meaning": {
+      "en": "While still ~; leaving a state unchanged",
+      "id": "Tetap dalam keadaan ~; keadaan tidak berubah"
+    },
+    "formula": "V(た)+まま / N+のまま",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 5,
+      "sequence": 29,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g130",
+    "curriculumId": "n4_g130",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 30,
+    "title": "〜ながら",
+    "reading": "nagara",
+    "meaning": {
+      "en": "While doing ~",
+      "id": "Sambil melakukan ~"
+    },
+    "formula": "V(stem)+ながら",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 5,
+      "sequence": 30,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g131",
+    "curriculumId": "n4_g131",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 31,
+    "title": "〜たことがある・ない",
+    "reading": "ta koto ga aru / nai",
+    "meaning": {
+      "en": "Have / have never done ~",
+      "id": "Pernah / tidak pernah melakukan ~"
+    },
+    "formula": "V(た)+ことがある／ない",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 6,
+      "sequence": 31,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g132",
+    "curriculumId": "n4_g132",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 32,
+    "title": "〜ことがある",
+    "reading": "koto ga aru",
+    "meaning": {
+      "en": "Sometimes ~ happens; occasionally do ~",
+      "id": "Kadang-kadang ~ terjadi; kadang melakukan ~"
+    },
+    "formula": "V(dict/nai)+ことがある",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 6,
+      "sequence": 32,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g133",
+    "curriculumId": "n4_g133",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 33,
+    "title": "〜にする",
+    "reading": "ni suru",
+    "meaning": {
+      "en": "Decide on ~; choose ~",
+      "id": "Memilih ~; memutuskan ~"
+    },
+    "formula": "N+にする",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 6,
+      "sequence": 33,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g134",
+    "curriculumId": "n4_g134",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 34,
+    "title": "〜ことにする",
+    "reading": "koto ni suru",
+    "meaning": {
+      "en": "Decide to do / not do ~",
+      "id": "Memutuskan untuk melakukan / tidak melakukan ~"
+    },
+    "formula": "V(dict/nai)+ことにする",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 6,
+      "sequence": 34,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g135",
+    "curriculumId": "n4_g135",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 35,
+    "title": "〜ことにしている",
+    "reading": "koto ni shite iru",
+    "meaning": {
+      "en": "Make it a habit/rule to ~",
+      "id": "Membiasakan / membuat aturan pribadi untuk ~"
+    },
+    "formula": "V(dict/nai)+ことにしている",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 6,
+      "sequence": 35,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g136",
+    "curriculumId": "n4_g136",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 36,
+    "title": "〜になる",
+    "reading": "ni naru",
+    "meaning": {
+      "en": "Become ~; be decided as ~",
+      "id": "Menjadi ~; diputuskan menjadi ~"
+    },
+    "formula": "N+になる",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 6,
+      "sequence": 36,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g137",
+    "curriculumId": "n4_g137",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 37,
+    "title": "〜ことになる",
+    "reading": "koto ni naru",
+    "meaning": {
+      "en": "It has been decided that ~",
+      "id": "Diputuskan bahwa ~"
+    },
+    "formula": "V(dict/nai)+ことになる",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 6,
+      "sequence": 37,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g138",
+    "curriculumId": "n4_g138",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 38,
+    "title": "〜くする・〜にする",
+    "reading": "ku suru / ni suru",
+    "meaning": {
+      "en": "Make something ~",
+      "id": "Membuat sesuatu menjadi ~"
+    },
+    "formula": "いAdj-くする / なAdj+にする",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 6,
+      "sequence": 38,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g139",
+    "curriculumId": "n4_g139",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 39,
+    "title": "〜くなる・〜になる",
+    "reading": "ku naru / ni naru",
+    "meaning": {
+      "en": "Become ~",
+      "id": "Menjadi ~"
+    },
+    "formula": "いAdj-くなる / なAdj+になる",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 1,
+      "day": 6,
+      "sequence": 39,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g201",
+    "curriculumId": "n4_g201",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 40,
+    "title": "〜なければならない",
+    "reading": "nakereba naranai",
+    "meaning": {
+      "en": "Must; have to",
+      "id": "Harus; wajib"
+    },
+    "formula": "V(ない-stem)+なければならない",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 40,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g202",
+    "curriculumId": "n4_g202",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 41,
+    "title": "〜なくてはいけない",
+    "reading": "nakute wa ikenai",
+    "meaning": {
+      "en": "Must; have to",
+      "id": "Harus; wajib"
+    },
+    "formula": "V(ない)+なくてはいけない",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 41,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g203",
+    "curriculumId": "n4_g203",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 42,
+    "title": "〜ないといけない",
+    "reading": "nai to ikenai",
+    "meaning": {
+      "en": "Must; have to",
+      "id": "Harus; wajib"
+    },
+    "formula": "V(ない)+といけない",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 42,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g204",
+    "curriculumId": "n4_g204",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 43,
+    "title": "〜なきゃ・〜なくちゃ・〜ないと",
+    "reading": "nakya / nakucha / nai to",
+    "meaning": {
+      "en": "Casual “must” expressions",
+      "id": "Bentuk kasual untuk “harus”"
+    },
+    "formula": "V(ない-stem)+なきゃ／なくちゃ / V(ない)+と",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 43,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g205",
+    "curriculumId": "n4_g205",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 44,
+    "title": "〜てもいい",
+    "reading": "te mo ii",
+    "meaning": {
+      "en": "May; it is okay to do ~",
+      "id": "Boleh melakukan ~"
+    },
+    "formula": "V(て)+もいい",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 44,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g206",
+    "curriculumId": "n4_g206",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 45,
+    "title": "〜なくてもいい",
+    "reading": "nakute mo ii",
+    "meaning": {
+      "en": "Do not have to ~",
+      "id": "Tidak perlu melakukan ~"
+    },
+    "formula": "V(ない)+なくてもいい",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 45,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g207",
+    "curriculumId": "n4_g207",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 46,
+    "title": "〜てはいけない",
+    "reading": "te wa ikenai",
+    "meaning": {
+      "en": "Must not; should not",
+      "id": "Tidak boleh; jangan ~"
+    },
+    "formula": "V(て)+はいけない",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 46,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g208",
+    "curriculumId": "n4_g208",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 47,
+    "title": "〜といい・〜たらいい・〜ばいい",
+    "reading": "to ii / tara ii / ba ii",
+    "meaning": {
+      "en": "It is good to; you should ~",
+      "id": "Sebaiknya ~; bagus kalau ~"
+    },
+    "formula": "V(dict)+といい / V(たら)+いい / V(ば)+いい",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 47,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g209",
+    "curriculumId": "n4_g209",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 48,
+    "title": "〜ておく",
+    "reading": "te oku",
+    "meaning": {
+      "en": "Do in advance; leave as is",
+      "id": "Melakukan sebagai persiapan; membiarkan tetap begitu"
+    },
+    "formula": "V(て)+おく",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 2,
+      "sequence": 48,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g210",
+    "curriculumId": "n4_g210",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 49,
+    "title": "〜てしまう",
+    "reading": "te shimau",
+    "meaning": {
+      "en": "Finish completely; unfortunately do ~",
+      "id": "Selesai sepenuhnya; terlanjur/tidak sengaja ~"
+    },
+    "formula": "V(て)+しまう",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 2,
+      "sequence": 49,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g211",
+    "curriculumId": "n4_g211",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 50,
+    "title": "〜てみる",
+    "reading": "te miru",
+    "meaning": {
+      "en": "Try doing ~",
+      "id": "Mencoba melakukan ~"
+    },
+    "formula": "V(て)+みる",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 2,
+      "sequence": 50,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g212",
+    "curriculumId": "n4_g212",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 51,
+    "title": "〜をあげる・〜をくれる・〜をもらう",
+    "reading": "wo ageru / kureru / morau",
+    "meaning": {
+      "en": "Give / receive things",
+      "id": "Memberi / menerima barang"
+    },
+    "formula": "Nをあげる／くれる／もらう",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 51,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g213",
+    "curriculumId": "n4_g213",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 52,
+    "title": "〜てあげる",
+    "reading": "te ageru",
+    "meaning": {
+      "en": "Do something for someone",
+      "id": "Melakukan sesuatu untuk orang lain"
+    },
+    "formula": "V(て)+あげる",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 52,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g214",
+    "curriculumId": "n4_g214",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 53,
+    "title": "〜てくれる",
+    "reading": "te kureru",
+    "meaning": {
+      "en": "Someone does something for me/us",
+      "id": "Seseorang melakukan sesuatu untuk saya/kita"
+    },
+    "formula": "V(て)+くれる",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 53,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g215",
+    "curriculumId": "n4_g215",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 54,
+    "title": "〜てもらう",
+    "reading": "te morau",
+    "meaning": {
+      "en": "Have/get someone to do ~",
+      "id": "Mendapat bantuan / meminta seseorang melakukan ~"
+    },
+    "formula": "V(て)+もらう",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 54,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g216",
+    "curriculumId": "n4_g216",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 55,
+    "title": "〜さしあげる・〜くださる・〜いただく",
+    "reading": "sashiageru / kudasaru / itadaku",
+    "meaning": {
+      "en": "Polite giving and receiving verbs",
+      "id": "Kata kerja sopan untuk memberi dan menerima"
+    },
+    "formula": "Nをさしあげる／くださる／いただく",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 55,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g217",
+    "curriculumId": "n4_g217",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 56,
+    "title": "〜てさしあげる・〜てくださる・〜ていただく",
+    "reading": "te sashiageru / te kudasaru / te itadaku",
+    "meaning": {
+      "en": "Polite help/action giving and receiving",
+      "id": "Bentuk sopan untuk memberi/menerima bantuan tindakan"
+    },
+    "formula": "V(て)+さしあげる／くださる／いただく",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 56,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g218",
+    "curriculumId": "n4_g218",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 57,
+    "title": "〜ために",
+    "reading": "tame ni",
+    "meaning": {
+      "en": "In order to; for the purpose of ~",
+      "id": "Untuk; demi tujuan ~"
+    },
+    "formula": "V(dict)+ために / N+のために",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 57,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g219",
+    "curriculumId": "n4_g219",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 58,
+    "title": "〜ため（に）",
+    "reading": "tame ni",
+    "meaning": {
+      "en": "Because of; due to ~",
+      "id": "Karena; disebabkan oleh ~"
+    },
+    "formula": "N+のために / V(plain)+ために",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 58,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g220",
+    "curriculumId": "n4_g220",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 59,
+    "title": "〜ように",
+    "reading": "you ni",
+    "meaning": {
+      "en": "So that; in order that ~",
+      "id": "Agar; supaya ~"
+    },
+    "formula": "V(dict/potential/ない)+ように",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 59,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g221",
+    "curriculumId": "n4_g221",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 60,
+    "title": "〜ようになる",
+    "reading": "you ni naru",
+    "meaning": {
+      "en": "Become able to; come to ~",
+      "id": "Menjadi bisa; mulai menjadi ~"
+    },
+    "formula": "V(dict/potential)+ようになる",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 60,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g222",
+    "curriculumId": "n4_g222",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 61,
+    "title": "〜ようにする",
+    "reading": "you ni suru",
+    "meaning": {
+      "en": "Make sure to; try to make a habit of ~",
+      "id": "Berusaha agar; membiasakan untuk ~"
+    },
+    "formula": "V(dict/ない)+ようにする",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 61,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g223",
+    "curriculumId": "n4_g223",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 62,
+    "title": "〜ように言う",
+    "reading": "you ni iu",
+    "meaning": {
+      "en": "Tell someone to do ~",
+      "id": "Menyuruh / mengatakan agar seseorang ~"
+    },
+    "formula": "V(dict/ない)+ように言う",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 62,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g224",
+    "curriculumId": "n4_g224",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 63,
+    "title": "〜ように言われる",
+    "reading": "you ni iwareru",
+    "meaning": {
+      "en": "Be told to do ~",
+      "id": "Diberitahu / disuruh untuk ~"
+    },
+    "formula": "V(dict/ない)+ように言われる",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 63,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g225",
+    "curriculumId": "n4_g225",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 64,
+    "title": "こんな・そんな・あんな・どんな + N",
+    "reading": "konna / sonna / anna / donna",
+    "meaning": {
+      "en": "This/that/what kind of ~",
+      "id": "~ seperti ini/itu/apa"
+    },
+    "formula": "こんな／そんな／あんな／どんな+N",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 5,
+      "sequence": 64,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g226",
+    "curriculumId": "n4_g226",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 65,
+    "title": "こんなに・そんなに・あんなに・どんなに",
+    "reading": "konna ni / sonna ni / anna ni / donna ni",
+    "meaning": {
+      "en": "This/that/how much; this/that/how ~",
+      "id": "Sebegini/sebegitu/seberapa ~"
+    },
+    "formula": "こんなに／そんなに／あんなに／どんなに+Adj/V",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 5,
+      "sequence": 65,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g227",
+    "curriculumId": "n4_g227",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 66,
+    "title": "こう・そう・ああ・どう",
+    "reading": "kou / sou / aa / dou",
+    "meaning": {
+      "en": "Like this; like that; how",
+      "id": "Begini; begitu; bagaimana"
+    },
+    "formula": "こう／そう／ああ／どう+V",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 5,
+      "sequence": 66,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g228",
+    "curriculumId": "n4_g228",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 67,
+    "title": "〜というN・〜っていうN",
+    "reading": "to iu N / tte iu N",
+    "meaning": {
+      "en": "Called ~; named ~",
+      "id": "Yang disebut ~; bernama ~"
+    },
+    "formula": "Phrase+というN / っていうN",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 5,
+      "sequence": 67,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g229",
+    "curriculumId": "n4_g229",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 68,
+    "title": "どういうN",
+    "reading": "dou iu N",
+    "meaning": {
+      "en": "What kind of ~; what meaning ~",
+      "id": "Jenis apa; arti apa"
+    },
+    "formula": "どういう+N",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 5,
+      "sequence": 68,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g230",
+    "curriculumId": "n4_g230",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 69,
+    "title": "〜たほうがいい",
+    "reading": "ta hou ga ii",
+    "meaning": {
+      "en": "It is better to do ~; should do ~",
+      "id": "Sebaiknya melakukan ~"
+    },
+    "formula": "V(た)+ほうがいい",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 6,
+      "sequence": 69,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g231",
+    "curriculumId": "n4_g231",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 70,
+    "title": "〜ないほうがいい",
+    "reading": "nai hou ga ii",
+    "meaning": {
+      "en": "It is better not to do ~",
+      "id": "Sebaiknya tidak melakukan ~"
+    },
+    "formula": "V(ない)+ほうがいい",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 6,
+      "sequence": 70,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g232",
+    "curriculumId": "n4_g232",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 71,
+    "title": "命令形",
+    "reading": "meireikei",
+    "meaning": {
+      "en": "Imperative command form",
+      "id": "Bentuk perintah langsung"
+    },
+    "formula": "V imperative form",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 6,
+      "sequence": 71,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g233",
+    "curriculumId": "n4_g233",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 72,
+    "title": "禁止形・〜るな",
+    "reading": "kinshikei / ru na",
+    "meaning": {
+      "en": "Prohibitive form; do not ~",
+      "id": "Bentuk larangan; jangan ~"
+    },
+    "formula": "V(dict)+な",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 6,
+      "sequence": 72,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g234",
+    "curriculumId": "n4_g234",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 73,
+    "title": "〜なさい",
+    "reading": "nasai",
+    "meaning": {
+      "en": "Do ~; polite/firm instruction",
+      "id": "Lakukan ~; perintah sopan/tegas"
+    },
+    "formula": "V(stem)+なさい",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 2,
+      "day": 6,
+      "sequence": 73,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g301",
+    "curriculumId": "n4_g301",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 74,
+    "title": "〜かどうか",
+    "reading": "ka dou ka",
+    "meaning": {
+      "en": "Whether or not ~",
+      "id": "Apakah ~ atau tidak"
+    },
+    "formula": "Clause+かどうか",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 1,
+      "sequence": 74,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g302",
+    "curriculumId": "n4_g302",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 75,
+    "title": "疑問詞〜か",
+    "reading": "gimonshi~ka",
+    "meaning": {
+      "en": "Embedded question: who/what/where/when/how ~",
+      "id": "Pertanyaan tidak langsung: siapa/apa/di mana/kapan/bagaimana ~"
+    },
+    "formula": "Wh-word+clause+か",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 1,
+      "sequence": 75,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g303",
+    "curriculumId": "n4_g303",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 76,
+    "title": "〜の（名詞化）",
+    "reading": "no",
+    "meaning": {
+      "en": "Nominalizer; turns a clause into a noun phrase",
+      "id": "Nominalisasi; mengubah klausa menjadi frasa benda"
+    },
+    "formula": "V/Adj/plain clause+の",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 1,
+      "sequence": 76,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g304",
+    "curriculumId": "n4_g304",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 77,
+    "title": "〜のに（用途・目的）",
+    "reading": "no ni",
+    "meaning": {
+      "en": "For doing ~; used to do ~",
+      "id": "Untuk melakukan ~; dipakai untuk ~"
+    },
+    "formula": "V(dict)+のに",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 1,
+      "sequence": 77,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g305",
+    "curriculumId": "n4_g305",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 78,
+    "title": "可能形",
+    "reading": "kanoukei",
+    "meaning": {
+      "en": "Potential form; can do ~",
+      "id": "Bentuk potensial; bisa melakukan ~"
+    },
+    "formula": "V potential form",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 2,
+      "sequence": 78,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g306",
+    "curriculumId": "n4_g306",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 79,
+    "title": "聞こえる・聞ける",
+    "reading": "kikoeru / kikeru",
+    "meaning": {
+      "en": "Can hear naturally / can listen intentionally",
+      "id": "Terdengar / bisa mendengarkan"
+    },
+    "formula": "聞こえる / 聞ける",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 2,
+      "sequence": 79,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g307",
+    "curriculumId": "n4_g307",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 80,
+    "title": "見える・見られる",
+    "reading": "mieru / mirareru",
+    "meaning": {
+      "en": "Can see naturally / can watch or see intentionally",
+      "id": "Terlihat / bisa melihat atau menonton"
+    },
+    "formula": "見える / 見られる",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 2,
+      "sequence": 80,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g308",
+    "curriculumId": "n4_g308",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 81,
+    "title": "〜のが見える・〜のが聞こえる",
+    "reading": "no ga mieru / no ga kikoeru",
+    "meaning": {
+      "en": "Can see/hear that something is happening",
+      "id": "Terlihat/terdengar bahwa sesuatu sedang terjadi"
+    },
+    "formula": "V(plain)+のが見える／聞こえる",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 2,
+      "sequence": 81,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g309",
+    "curriculumId": "n4_g309",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 82,
+    "title": "〜のを見る・〜のを聞く",
+    "reading": "no wo miru / no wo kiku",
+    "meaning": {
+      "en": "See/hear someone doing ~",
+      "id": "Melihat/mendengar seseorang melakukan ~"
+    },
+    "formula": "V(plain)+のを見る／聞く",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 2,
+      "sequence": 82,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g310",
+    "curriculumId": "n4_g310",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 83,
+    "title": "〜ので",
+    "reading": "node",
+    "meaning": {
+      "en": "Because; since ~",
+      "id": "Karena; sebab ~"
+    },
+    "formula": "V/Adj(plain)+ので / N・なAdj+なので",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 3,
+      "sequence": 83,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g311",
+    "curriculumId": "n4_g311",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 84,
+    "title": "〜のに（逆接）",
+    "reading": "no ni",
+    "meaning": {
+      "en": "Even though ~; despite ~",
+      "id": "Padahal; meskipun ~"
+    },
+    "formula": "V/Adj(plain)+のに / N・なAdj+なのに",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 3,
+      "sequence": 84,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g312",
+    "curriculumId": "n4_g312",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 85,
+    "title": "〜ても・〜でも",
+    "reading": "te mo / de mo",
+    "meaning": {
+      "en": "Even if; even though ~",
+      "id": "Walaupun; bahkan jika ~"
+    },
+    "formula": "V(て)+も / N+でも",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 3,
+      "sequence": 85,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g313",
+    "curriculumId": "n4_g313",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 86,
+    "title": "疑問詞〜ても・〜でも",
+    "reading": "gimonshi~te mo / demo",
+    "meaning": {
+      "en": "No matter who/what/where/when/how ~",
+      "id": "Siapa pun/apa pun/di mana pun/kapan pun/bagaimanapun ~"
+    },
+    "formula": "Wh-word+V(て)+も / Wh-word+でも",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 3,
+      "sequence": 86,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g314",
+    "curriculumId": "n4_g314",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 87,
+    "title": "それに・そのうえ",
+    "reading": "sore ni / sono ue",
+    "meaning": {
+      "en": "Besides; in addition; what is more",
+      "id": "Selain itu; terlebih lagi"
+    },
+    "formula": "Sentence A。それに／そのうえ+Sentence B",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 4,
+      "sequence": 87,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g315",
+    "curriculumId": "n4_g315",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 88,
+    "title": "それで・だから",
+    "reading": "sore de / dakara",
+    "meaning": {
+      "en": "Therefore; that is why ~",
+      "id": "Oleh karena itu; jadi ~"
+    },
+    "formula": "Reason。それで／だから+Result",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 4,
+      "sequence": 88,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g316",
+    "curriculumId": "n4_g316",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 89,
+    "title": "ところが",
+    "reading": "tokoro ga",
+    "meaning": {
+      "en": "However; unexpectedly ~",
+      "id": "Namun; ternyata ~"
+    },
+    "formula": "Sentence A。ところが+unexpected B",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 4,
+      "sequence": 89,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g317",
+    "curriculumId": "n4_g317",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 90,
+    "title": "〜さ",
+    "reading": "sa",
+    "meaning": {
+      "en": "Turns adjective into noun showing degree",
+      "id": "Mengubah kata sifat menjadi kata benda tingkat/ukuran"
+    },
+    "formula": "いAdj-stem+さ / なAdj+さ",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 4,
+      "sequence": 90,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g318",
+    "curriculumId": "n4_g318",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 91,
+    "title": "V方",
+    "reading": "V-kata",
+    "meaning": {
+      "en": "Way of doing ~; how to ~",
+      "id": "Cara melakukan ~"
+    },
+    "formula": "V(stem)+方",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 4,
+      "sequence": 91,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g319",
+    "curriculumId": "n4_g319",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 92,
+    "title": "〜てくれませんか",
+    "reading": "te kuremasen ka",
+    "meaning": {
+      "en": "Could you do ~ for me?",
+      "id": "Bisakah melakukan ~ untuk saya?"
+    },
+    "formula": "V(て)+くれませんか",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 92,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g320",
+    "curriculumId": "n4_g320",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 93,
+    "title": "〜てもらえませんか",
+    "reading": "te moraemasen ka",
+    "meaning": {
+      "en": "Could I get you to do ~?",
+      "id": "Bisakah saya meminta Anda melakukan ~?"
+    },
+    "formula": "V(て)+もらえませんか",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 93,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g321",
+    "curriculumId": "n4_g321",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 94,
+    "title": "〜てくださいませんか",
+    "reading": "te kudasaimasen ka",
+    "meaning": {
+      "en": "Would you please do ~?",
+      "id": "Bisakah Anda melakukan ~? (sopan)"
+    },
+    "formula": "V(て)+くださいませんか",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 94,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g322",
+    "curriculumId": "n4_g322",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 95,
+    "title": "〜ていただけませんか",
+    "reading": "te itadakemasen ka",
+    "meaning": {
+      "en": "Could you kindly do ~?",
+      "id": "Bisakah Anda melakukan ~? (sangat sopan)"
+    },
+    "formula": "V(て)+いただけませんか",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 95,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g323",
+    "curriculumId": "n4_g323",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 96,
+    "title": "〜てほしい",
+    "reading": "te hoshii",
+    "meaning": {
+      "en": "Want someone to do ~",
+      "id": "Ingin seseorang melakukan ~"
+    },
+    "formula": "V(て)+ほしい",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 96,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g324",
+    "curriculumId": "n4_g324",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 97,
+    "title": "〜てもらいたい",
+    "reading": "te moraitai",
+    "meaning": {
+      "en": "Want to have someone do ~",
+      "id": "Ingin meminta seseorang melakukan ~"
+    },
+    "formula": "V(て)+もらいたい",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 97,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g325",
+    "curriculumId": "n4_g325",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 98,
+    "title": "〜ていただきたい",
+    "reading": "te itadakitai",
+    "meaning": {
+      "en": "Would like someone to do ~ politely",
+      "id": "Ingin seseorang melakukan ~ secara sopan"
+    },
+    "formula": "V(て)+いただきたい",
+    "difficulty": "hard",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 98,
+      "sourceTag": "S",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g326",
+    "curriculumId": "n4_g326",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 99,
+    "title": "〜たらどうですか",
+    "reading": "tara dou desu ka",
+    "meaning": {
+      "en": "Why don’t you ~?; how about ~?",
+      "id": "Bagaimana kalau ~?; sebaiknya ~"
+    },
+    "formula": "V(たら)+どうですか",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 99,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g327",
+    "curriculumId": "n4_g327",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 100,
+    "title": "〜が・〜けど…",
+    "reading": "ga / kedo",
+    "meaning": {
+      "en": "Preface before asking or saying something",
+      "id": "Pembuka sebelum bertanya/menyampaikan sesuatu"
+    },
+    "formula": "Clause+が／けど…",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 100,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g328",
+    "curriculumId": "n4_g328",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 101,
+    "title": "〜と言う・〜って言う",
+    "reading": "to iu / tte iu",
+    "meaning": {
+      "en": "Say that ~; spoken quote",
+      "id": "Mengatakan bahwa ~; kutipan lisan"
+    },
+    "formula": "Clause+と言う／って言う",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 101,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g329",
+    "curriculumId": "n4_g329",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 102,
+    "title": "〜と言われる",
+    "reading": "to iwarareru",
+    "meaning": {
+      "en": "It is said that ~; be told that ~",
+      "id": "Dikatakan bahwa ~; diberitahu bahwa ~"
+    },
+    "formula": "Clause+と言われる",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 102,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g330",
+    "curriculumId": "n4_g330",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 103,
+    "title": "〜と思う",
+    "reading": "to omou",
+    "meaning": {
+      "en": "I think that ~",
+      "id": "Saya pikir bahwa ~"
+    },
+    "formula": "Clause+と思う",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 103,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g331",
+    "curriculumId": "n4_g331",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 104,
+    "title": "Vよう",
+    "reading": "V-you",
+    "meaning": {
+      "en": "Let’s do ~; volitional form",
+      "id": "Ayo ~; bentuk kemauan/ajakan"
+    },
+    "formula": "V volitional form",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 104,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g332",
+    "curriculumId": "n4_g332",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 105,
+    "title": "〜ようと思う",
+    "reading": "you to omou",
+    "meaning": {
+      "en": "I think I will ~; intend to ~",
+      "id": "Saya berniat/berpikir akan ~"
+    },
+    "formula": "V(volitional)+と思う",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 105,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g333",
+    "curriculumId": "n4_g333",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 106,
+    "title": "〜つもり",
+    "reading": "tsumori",
+    "meaning": {
+      "en": "Plan to ~; intend to ~",
+      "id": "Berencana/berniat untuk ~"
+    },
+    "formula": "V(dict/ない)+つもり",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 106,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g401",
+    "curriculumId": "n4_g401",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 1,
+    "sequence": 107,
+    "title": "〜たら",
+    "reading": "tara",
+    "meaning": {
+      "en": "If/when ~; after ~ happens",
+      "id": "Kalau/ketika ~; setelah ~ terjadi"
+    },
+    "formula": "V(た)+ら / いAdj-かったら / なAdj・N+だったら",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 1,
+      "sequence": 107,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g402",
+    "curriculumId": "n4_g402",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 1,
+    "sequence": 108,
+    "title": "〜ば",
+    "reading": "ba",
+    "meaning": {
+      "en": "If ~; conditional",
+      "id": "Jika ~; kalau ~"
+    },
+    "formula": "Vば / いAdj-ければ",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 1,
+      "sequence": 108,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g403",
+    "curriculumId": "n4_g403",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 1,
+    "sequence": 109,
+    "title": "〜なら",
+    "reading": "nara",
+    "meaning": {
+      "en": "If it is about ~; if that is the case",
+      "id": "Kalau soal ~; kalau begitu"
+    },
+    "formula": "N・plain form+なら",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 1,
+      "sequence": 109,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g404",
+    "curriculumId": "n4_g404",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 1,
+    "sequence": 110,
+    "title": "〜と",
+    "reading": "to",
+    "meaning": {
+      "en": "When/if ~, then naturally/automatically ~",
+      "id": "Kalau ~, maka secara alami/otomatis ~"
+    },
+    "formula": "V(dict)+と",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 1,
+      "sequence": 110,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g405",
+    "curriculumId": "n4_g405",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 2,
+    "sequence": 111,
+    "title": "〜ようだ",
+    "reading": "you da",
+    "meaning": {
+      "en": "It seems/looks like ~",
+      "id": "Sepertinya ~"
+    },
+    "formula": "Plain form+ようだ / N+のようだ / なAdj+なようだ",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 2,
+      "sequence": 111,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g406",
+    "curriculumId": "n4_g406",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 2,
+    "sequence": 112,
+    "title": "〜みたいだ",
+    "reading": "mitai da",
+    "meaning": {
+      "en": "It seems/looks like ~; like ~",
+      "id": "Sepertinya ~; seperti ~"
+    },
+    "formula": "Plain form+みたいだ / N+みたいだ",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 2,
+      "sequence": 112,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g407",
+    "curriculumId": "n4_g407",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 2,
+    "sequence": 113,
+    "title": "〜そうだ（様態）",
+    "reading": "sou da",
+    "meaning": {
+      "en": "Looks/seems ~ from appearance",
+      "id": "Terlihat/sepertinya ~ dari tampilan"
+    },
+    "formula": "いAdj-stem+そうだ / なAdj+そうだ / V(stem)+そうだ",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 2,
+      "sequence": 113,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g408",
+    "curriculumId": "n4_g408",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 2,
+    "sequence": 114,
+    "title": "〜そうだ（伝聞）",
+    "reading": "sou da",
+    "meaning": {
+      "en": "I heard that ~; apparently ~",
+      "id": "Katanya ~; menurut informasi ~"
+    },
+    "formula": "Plain form+そうだ",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 2,
+      "sequence": 114,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g409",
+    "curriculumId": "n4_g409",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 2,
+    "sequence": 115,
+    "title": "〜でしょう・〜だろう",
+    "reading": "deshou / darou",
+    "meaning": {
+      "en": "Probably ~; I suppose ~",
+      "id": "Mungkin/barangkali ~"
+    },
+    "formula": "Plain form+でしょう／だろう",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 2,
+      "sequence": 115,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g410",
+    "curriculumId": "n4_g410",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 2,
+    "sequence": 116,
+    "title": "〜かもしれない",
+    "reading": "kamoshirenai",
+    "meaning": {
+      "en": "Might; may; possibly ~",
+      "id": "Mungkin saja ~"
+    },
+    "formula": "Plain form+かもしれない",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 2,
+      "sequence": 116,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g411",
+    "curriculumId": "n4_g411",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 3,
+    "sequence": 117,
+    "title": "〜すぎる",
+    "reading": "sugiru",
+    "meaning": {
+      "en": "Too much; too ~",
+      "id": "Terlalu ~"
+    },
+    "formula": "V(stem)+すぎる / いAdj-stem+すぎる / なAdj+すぎる",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 3,
+      "sequence": 117,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g412",
+    "curriculumId": "n4_g412",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 3,
+    "sequence": 118,
+    "title": "〜やすい",
+    "reading": "yasui",
+    "meaning": {
+      "en": "Easy to do ~; likely to ~",
+      "id": "Mudah untuk ~; cenderung ~"
+    },
+    "formula": "V(stem)+やすい",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 3,
+      "sequence": 118,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g413",
+    "curriculumId": "n4_g413",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 3,
+    "sequence": 119,
+    "title": "〜にくい",
+    "reading": "nikui",
+    "meaning": {
+      "en": "Hard to do ~; difficult to ~",
+      "id": "Sulit untuk ~"
+    },
+    "formula": "V(stem)+にくい",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 3,
+      "sequence": 119,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g414",
+    "curriculumId": "n4_g414",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 3,
+    "sequence": 120,
+    "title": "〜出す",
+    "reading": "dasu",
+    "meaning": {
+      "en": "Start doing ~ suddenly",
+      "id": "Mulai ~ secara tiba-tiba"
+    },
+    "formula": "V(stem)+出す",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 3,
+      "sequence": 120,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g415",
+    "curriculumId": "n4_g415",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 3,
+    "sequence": 121,
+    "title": "〜終わる",
+    "reading": "owaru",
+    "meaning": {
+      "en": "Finish doing ~",
+      "id": "Selesai melakukan ~"
+    },
+    "formula": "V(stem)+終わる",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 3,
+      "sequence": 121,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g416",
+    "curriculumId": "n4_g416",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 3,
+    "sequence": 122,
+    "title": "〜続ける",
+    "reading": "tsuzukeru",
+    "meaning": {
+      "en": "Continue doing ~",
+      "id": "Terus melakukan ~"
+    },
+    "formula": "V(stem)+続ける",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 3,
+      "sequence": 122,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g417",
+    "curriculumId": "n4_g417",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 4,
+    "sequence": 123,
+    "title": "受身形",
+    "reading": "ukemikei",
+    "meaning": {
+      "en": "Passive form; be done by someone",
+      "id": "Bentuk pasif; dikenai tindakan"
+    },
+    "formula": "V passive form",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 4,
+      "sequence": 123,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g418",
+    "curriculumId": "n4_g418",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 4,
+    "sequence": 124,
+    "title": "〜させる",
+    "reading": "saseru",
+    "meaning": {
+      "en": "Make/let someone do ~",
+      "id": "Menyuruh/membiarkan seseorang melakukan ~"
+    },
+    "formula": "V causative form",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 4,
+      "sequence": 124,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g419",
+    "curriculumId": "n4_g419",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 4,
+    "sequence": 125,
+    "title": "〜させられる",
+    "reading": "saserareru",
+    "meaning": {
+      "en": "Be made/forced to do ~",
+      "id": "Dipaksa/disuruh melakukan ~"
+    },
+    "formula": "V causative-passive form",
+    "difficulty": "hard",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 4,
+      "sequence": 125,
+      "sourceTag": "S",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g420",
+    "curriculumId": "n4_g420",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 4,
+    "sequence": 126,
+    "title": "〜させてください",
+    "reading": "sasete kudasai",
+    "meaning": {
+      "en": "Please let me do ~",
+      "id": "Izinkan saya melakukan ~"
+    },
+    "formula": "V causative te-form+ください",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 4,
+      "sequence": 126,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g421",
+    "curriculumId": "n4_g421",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 5,
+    "sequence": 127,
+    "title": "自動詞・他動詞",
+    "reading": "jidoushi / tadoushi",
+    "meaning": {
+      "en": "Intransitive and transitive verbs",
+      "id": "Kata kerja intransitif dan transitif"
+    },
+    "formula": "Nが+自動詞 / Nを+他動詞",
+    "difficulty": "hard",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 5,
+      "sequence": 127,
+      "sourceTag": "B",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g422",
+    "curriculumId": "n4_g422",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 5,
+    "sequence": 128,
+    "title": "〜ている（結果の状態）",
+    "reading": "te iru",
+    "meaning": {
+      "en": "Resulting state; something is/has been ~",
+      "id": "Keadaan hasil; sesuatu dalam kondisi sudah ~"
+    },
+    "formula": "自動詞V(て)+いる",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 5,
+      "sequence": 128,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g423",
+    "curriculumId": "n4_g423",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 5,
+    "sequence": 129,
+    "title": "〜てある",
+    "reading": "te aru",
+    "meaning": {
+      "en": "Result of intentional preparation/action",
+      "id": "Keadaan hasil dari tindakan yang sengaja dilakukan"
+    },
+    "formula": "他動詞V(て)+ある",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 5,
+      "sequence": 129,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g424",
+    "curriculumId": "n4_g424",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 5,
+    "sequence": 130,
+    "title": "〜てくる",
+    "reading": "te kuru",
+    "meaning": {
+      "en": "Come to do ~; become/get ~ toward current point",
+      "id": "Datang melakukan ~; mulai menjadi ~ mendekati titik sekarang"
+    },
+    "formula": "V(て)+くる",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 5,
+      "sequence": 130,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g425",
+    "curriculumId": "n4_g425",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 5,
+    "sequence": 131,
+    "title": "〜ていく",
+    "reading": "te iku",
+    "meaning": {
+      "en": "Go to do ~; continue/become ~ from now on",
+      "id": "Pergi melakukan ~; terus menjadi ~ ke depannya"
+    },
+    "formula": "V(て)+いく",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 5,
+      "sequence": 131,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g426",
+    "curriculumId": "n4_g426",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 6,
+    "sequence": 132,
+    "title": "〜んです・〜のです",
+    "reading": "n desu / no desu",
+    "meaning": {
+      "en": "Explanation/reason; asking for explanation",
+      "id": "Penjelasan/alasan; meminta penjelasan"
+    },
+    "formula": "Plain form+んです／のです",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 6,
+      "sequence": 132,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g427",
+    "curriculumId": "n4_g427",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 6,
+    "sequence": 133,
+    "title": "〜なあ",
+    "reading": "naa",
+    "meaning": {
+      "en": "Emotion, surprise, admiration",
+      "id": "Perasaan, kekaguman, keterkejutan"
+    },
+    "formula": "Plain form+なあ",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 6,
+      "sequence": 133,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g428",
+    "curriculumId": "n4_g428",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 6,
+    "sequence": 134,
+    "title": "〜ね",
+    "reading": "ne",
+    "meaning": {
+      "en": "Confirmation/agreement",
+      "id": "Konfirmasi/persetujuan"
+    },
+    "formula": "Sentence+ね",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 6,
+      "sequence": 134,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g429",
+    "curriculumId": "n4_g429",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 6,
+    "sequence": 135,
+    "title": "〜よ",
+    "reading": "yo",
+    "meaning": {
+      "en": "Emphasis, reminder, warning",
+      "id": "Penekanan, pengingat, peringatan"
+    },
+    "formula": "Sentence+よ",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 6,
+      "sequence": 135,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_g430",
+    "curriculumId": "n4_g430",
+    "level": "n4",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 4,
+    "day": 6,
+    "sequence": 136,
+    "title": "〜かな・〜かしら",
+    "reading": "kana / kashira",
+    "meaning": {
+      "en": "I wonder ~; hope/wish ~",
+      "id": "Kira-kira ~; semoga/harap ~"
+    },
+    "formula": "Plain form+かな／かしら",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "week": 4,
+      "day": 6,
+      "sequence": 136,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_gm01",
+    "curriculumId": "n4_gm01",
+    "level": "n4",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 137,
+    "title": "〜予定です",
+    "reading": "yotei desu",
+    "meaning": {
+      "en": "Plan/schedule to do ~",
+      "id": "Rencana/jadwal untuk melakukan ~"
+    },
+    "formula": "V(dict)+予定です / N+の予定です",
+    "difficulty": "easy",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "sequence": 137,
+      "sourceTag": "M",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_gm02",
+    "curriculumId": "n4_gm02",
+    "level": "n4",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 138,
+    "title": "〜とおりに・〜どおりに",
+    "reading": "toori ni / doori ni",
+    "meaning": {
+      "en": "As; according to; exactly following ~",
+      "id": "Sesuai dengan; seperti ~"
+    },
+    "formula": "V(dict/た)+とおりに / N+のとおりに",
+    "difficulty": "medium",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "sequence": 138,
+      "sourceTag": "M",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_gm03",
+    "curriculumId": "n4_gm03",
+    "level": "n4",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 139,
+    "title": "〜あとで",
+    "reading": "ato de",
+    "meaning": {
+      "en": "After doing ~",
+      "id": "Setelah melakukan ~"
+    },
+    "formula": "V(た)+あとで / N+のあとで",
+    "difficulty": "easy",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "sequence": 139,
+      "sourceTag": "M",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_gm04",
+    "curriculumId": "n4_gm04",
+    "level": "n4",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 140,
+    "title": "〜場合は",
+    "reading": "baai wa",
+    "meaning": {
+      "en": "In the case that ~; if ~ happens",
+      "id": "Dalam hal/kasus ~; jika ~ terjadi"
+    },
+    "formula": "V/Adj/plain+場合は / N+の+場合は",
+    "difficulty": "medium",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "sequence": 140,
+      "sourceTag": "M",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_gm05",
+    "curriculumId": "n4_gm05",
+    "level": "n4",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 141,
+    "title": "〜たばかり",
+    "reading": "ta bakari",
+    "meaning": {
+      "en": "Have just done ~",
+      "id": "Baru saja melakukan ~"
+    },
+    "formula": "V(た)+ばかり",
+    "difficulty": "medium",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "sequence": 141,
+      "sourceTag": "M",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_gm06",
+    "curriculumId": "n4_gm06",
+    "level": "n4",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 142,
+    "title": "〜はずです",
+    "reading": "hazu desu",
+    "meaning": {
+      "en": "Should be; expected to be ~",
+      "id": "Seharusnya ~; mestinya ~"
+    },
+    "formula": "Plain form+はずです / N+のはずです",
+    "difficulty": "medium",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "sequence": 142,
+      "sourceTag": "M",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_gm07",
+    "curriculumId": "n4_gm07",
+    "level": "n4",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 143,
+    "title": "〜音・声・においがする",
+    "reading": "oto/koe/nioi ga suru",
+    "meaning": {
+      "en": "There is a sound/voice/smell; it sounds/smells like ~",
+      "id": "Ada suara/bunyi/bau; terdengar/tercium seperti ~"
+    },
+    "formula": "N+がする",
+    "difficulty": "easy",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "sequence": 143,
+      "sourceTag": "M",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_gm08",
+    "curriculumId": "n4_gm08",
+    "level": "n4",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 144,
+    "title": "〜させていただけませんか",
+    "reading": "sasete itadakemasen ka",
+    "meaning": {
+      "en": "Could you please let me do ~?",
+      "id": "Bisakah Anda mengizinkan saya melakukan ~?"
+    },
+    "formula": "V causative te-form+いただけませんか",
+    "difficulty": "hard",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "sequence": 144,
+      "sourceTag": "M",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_gm09",
+    "curriculumId": "n4_gm09",
+    "level": "n4",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 145,
+    "title": "お〜になります",
+    "reading": "o~ni narimasu",
+    "meaning": {
+      "en": "Honorific action form",
+      "id": "Bentuk hormat untuk tindakan orang lain"
+    },
+    "formula": "お+V(stem)+になります",
+    "difficulty": "hard",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "sequence": 145,
+      "sourceTag": "M",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_gm10",
+    "curriculumId": "n4_gm10",
+    "level": "n4",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 146,
+    "title": "お〜ください",
+    "reading": "o~kudasai",
+    "meaning": {
+      "en": "Please do ~ honorifically",
+      "id": "Silakan melakukan ~ dengan bentuk hormat"
+    },
+    "formula": "お+V(stem)+ください",
+    "difficulty": "medium",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "sequence": 146,
+      "sourceTag": "M",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_gm11",
+    "curriculumId": "n4_gm11",
+    "level": "n4",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 147,
+    "title": "お〜します・ご〜します",
+    "reading": "o/go~shimasu",
+    "meaning": {
+      "en": "Humble action form",
+      "id": "Bentuk merendahkan diri untuk tindakan sendiri"
+    },
+    "formula": "お/ご+V(stem/N)+します",
+    "difficulty": "hard",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "sequence": 147,
+      "sourceTag": "M",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n4-grammar-n4_gm12",
+    "curriculumId": "n4_gm12",
+    "level": "n4",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 148,
+    "title": "〜でございます",
+    "reading": "de gozaimasu",
+    "meaning": {
+      "en": "Very polite form of です",
+      "id": "Bentuk sangat sopan dari です"
+    },
+    "formula": "N/なAdj+でございます",
+    "difficulty": "medium",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "grammar",
+      "sequence": 148,
+      "sourceTag": "M",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v101",
+    "curriculumId": "n4_v101",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 149,
+    "title": "ひく・ふく・はく",
+    "meaning": {
+      "en": "Similar verbs — ひく, ふく, はく, すく, つく",
+      "id": "Kata kerja yang mirip bunyi/bentuknya"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 1,
+      "day": 1,
+      "sequence": 149,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v102",
+    "curriculumId": "n4_v102",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 150,
+    "title": "どんな気持ち？",
+    "meaning": {
+      "en": "Words that express feelings — 気持ち, うれしい, かなしい, さびしい, つまらない, はずかしい, きもちわるい, しんぱいする, あんしんする, びっくりする",
+      "id": "Kata untuk menyatakan perasaan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 1,
+      "day": 2,
+      "sequence": 150,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v103",
+    "curriculumId": "n4_v103",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 151,
+    "title": "気分はどう？",
+    "meaning": {
+      "en": "Health, condition, and movement verbs — 気分, 病気, けが, 大丈夫, 無理, やめる, 着がえる, 連れて行く, 持って行く, 迎えに行く, 送りに行く",
+      "id": "Kondisi tubuh, keadaan, dan kata kerja pergi/membawa"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 1,
+      "day": 3,
+      "sequence": 151,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v104",
+    "curriculumId": "n4_v104",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 152,
+    "title": "朝の支度",
+    "meaning": {
+      "en": "Daily routine words — 目が覚める, シャワーを浴びる, 磨く, やる, 起こす, 片付ける, 洗濯する, アイロンをかける, 捨てる, 出かける, 支度",
+      "id": "Kosakata rutinitas harian dan persiapan pagi"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 1,
+      "day": 4,
+      "sequence": 152,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v105",
+    "curriculumId": "n4_v105",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 153,
+    "title": "はじめ・はじめて・はじめに",
+    "meaning": {
+      "en": "Easily confused words — はじめは, はじめて, はじめに, 思う, 考える, 覚える, 思い出す, 回る, 曲がる, 座る, 触る, 習う, 並ぶ, 慣れる",
+      "id": "Kosakata yang mudah tertukar"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 1,
+      "day": 5,
+      "sequence": 153,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v106",
+    "curriculumId": "n4_v106",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 154,
+    "title": "ふとい ↔ ほそい",
+    "meaning": {
+      "en": "Paired adjectives — 濃い/薄い, 厚い/薄い, 浅い/深い, 細い/太い, 弱い/強い, かたい/やわらかい, 厳しい/優しい, うるさい/静かな, まずい/おいしい",
+      "id": "Kata sifat berpasangan/lawan kata"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 1,
+      "day": 6,
+      "sequence": 154,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v201",
+    "curriculumId": "n4_v201",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 155,
+    "title": "さがる・さげる・おりる",
+    "meaning": {
+      "en": "Paired verbs and opposites — さがる/あがる, さげる/あげる, おりる/のぼる, おりる/のる, へる/ふえる, だす/いれる, おくれる/まにあう",
+      "id": "Kata kerja berpasangan dan lawan kata"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 2,
+      "day": 1,
+      "sequence": 155,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v202",
+    "curriculumId": "n4_v202",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 156,
+    "title": "どの人？",
+    "meaning": {
+      "en": "Words that describe people’s appearance and actions — わかい, としより, やせる, ながい, かける, かぶる, さす, まじめな, にる, うたう, おどる, はしる",
+      "id": "Kosakata untuk menggambarkan penampilan dan tindakan orang"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 2,
+      "day": 2,
+      "sequence": 156,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v203",
+    "curriculumId": "n4_v203",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 157,
+    "title": "どうやって？",
+    "meaning": {
+      "en": "Words used in instructions and operation — どうやって, せんざい, うごく, とまる, おす, きえる, けす, ひらく, どうろ, わたる, あんぜんな, しんごう",
+      "id": "Kosakata untuk petunjuk, cara memakai, dan keselamatan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 2,
+      "day": 3,
+      "sequence": 157,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v204",
+    "curriculumId": "n4_v204",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 158,
+    "title": "試験の勉強",
+    "meaning": {
+      "en": "Words that express studying methods — まちがえる, のこる, あまる, たりる, チェックする, しらべる, しつもんする, やくにたつ, うつす, はる, ぬる, できる",
+      "id": "Kosakata yang menyatakan cara belajar"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 2,
+      "day": 4,
+      "sequence": 158,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v205",
+    "curriculumId": "n4_v205",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 159,
+    "title": "きっと・やっと・ずっと",
+    "meaning": {
+      "en": "Adverbs — きっと, やっと, ずっと, さっき, さいきん, もうすぐ, かならず, たいてい, ずいぶん, やっぱり",
+      "id": "Kata keterangan / adverbia"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 2,
+      "day": 5,
+      "sequence": 159,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v206",
+    "curriculumId": "n4_v206",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 160,
+    "title": "なくす・さがす・みつける",
+    "meaning": {
+      "en": "Intransitive and transitive verbs — おとす/おちる, こわす/こわれる, なくす/なくなる, みつける/みつかる, ひろう, さがす, たいせつな",
+      "id": "Kata kerja transitif dan intransitif"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 2,
+      "day": 6,
+      "sequence": 160,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v301",
+    "curriculumId": "n4_v301",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 161,
+    "title": "よてい・つごう・ばあい",
+    "meaning": {
+      "en": "Schedule and situation words — よてい, つごう, ばあい, よやくする, しらせる, たのしむ, すぎる, とまる, まちあわせる",
+      "id": "Kosakata jadwal, keadaan, dan janji bertemu"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 3,
+      "day": 1,
+      "sequence": 161,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v302",
+    "curriculumId": "n4_v302",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 162,
+    "title": "どのぐらい？",
+    "meaning": {
+      "en": "Quantity, measurement, and daily-use words — とぶ, つもる, たてる, わく, はらう, メモする, ねだん, クリーニングや, さかや, おさけ, グラム, センチ, メートル, キロ",
+      "id": "Kosakata ukuran, jumlah, dan kehidupan sehari-hari"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 3,
+      "day": 2,
+      "sequence": 162,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v303",
+    "curriculumId": "n4_v303",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 163,
+    "title": "どうしたの？",
+    "meaning": {
+      "en": "Words that express conditions or situations — におい, あじ, おと, おれる, われる, にげる, つかまる, さわぐ, こまる, ぬれる, ぬすむ, いじめる, ならす, しんじる",
+      "id": "Kosakata keadaan, kondisi, dan situasi"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 3,
+      "day": 3,
+      "sequence": 163,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v304",
+    "curriculumId": "n4_v304",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 164,
+    "title": "計画と準備",
+    "meaning": {
+      "en": "Planning and preparation words — けいかく, じゅんび, かたち, むかし, ならべる, くらべる, そだてる, うえる, かざる, うつす",
+      "id": "Kosakata rencana, persiapan, bentuk, dan pengaturan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 3,
+      "day": 4,
+      "sequence": 164,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v305",
+    "curriculumId": "n4_v305",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 165,
+    "title": "おいわい・おみまい・あんない",
+    "meaning": {
+      "en": "Words for socializing — あんないする, おいわい, おみまい, うまれる, なくなる, つとめる, ひっこす, とどく, はたち, おれい, かんけい",
+      "id": "Kosakata pergaulan, kunjungan, ucapan, dan hubungan sosial"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 3,
+      "day": 5,
+      "sequence": 165,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-vocab-n4_v306",
+    "curriculumId": "n4_v306",
+    "level": "n4",
+    "section": "vocab",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 166,
+    "title": "ていねいな話し方",
+    "meaning": {
+      "en": "Polite speech — ていねいな, そんけいする, えんりょする, おいでになる, ごらんになる, おっしゃる, めしあがる, おまちする, まいる, もうす, うかがう, はいけんする, いただく",
+      "id": "Bahasa sopan, sonkeigo, dan kenjougo dasar"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "vocab",
+      "week": 3,
+      "day": 6,
+      "sequence": 166,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k101",
+    "curriculumId": "n4_k101",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 167,
+    "title": "通う・通る",
+    "meaning": {
+      "en": "Kanji with many readings — 通, 降, 品, 着, 物, 動, 建, 夜, 風, 台",
+      "id": "Kanji dengan banyak cara baca"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 1,
+      "sequence": 167,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k102",
+    "curriculumId": "n4_k102",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 168,
+    "title": "同・何・回",
+    "meaning": {
+      "en": "Similar-looking kanji — 同, 回, 晩, 勉, 進, 集, 文, 作, 使, 便",
+      "id": "Kanji yang bentuknya mirip"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 2,
+      "sequence": 168,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k103",
+    "curriculumId": "n4_k103",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 169,
+    "title": "長い ↔ 短い",
+    "meaning": {
+      "en": "Learn kanji in pairs — 低, 短, 近, 遠, 弱, 強, 暗, 明, 悪, 利",
+      "id": "Hafalkan kanji secara berpasangan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 3,
+      "sequence": 169,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k104",
+    "curriculumId": "n4_k104",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 170,
+    "title": "旅行・有名",
+    "meaning": {
+      "en": "Pronunciation-focused kanji — 旅, 館, 有, 去, 主, 写, 真, 夕, 飯, 方",
+      "id": "Kanji dengan perhatian pada pelafalan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 4,
+      "sequence": 170,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k105",
+    "curriculumId": "n4_k105",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 171,
+    "title": "医者・歌手",
+    "meaning": {
+      "en": "Kanji that describe people — 医, 者, 員, 民, 歌, 運, 転, 説, 家",
+      "id": "Kanji yang menunjukkan orang"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 5,
+      "sequence": 171,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k106",
+    "curriculumId": "n4_k106",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 172,
+    "title": "東・西・南・北",
+    "meaning": {
+      "en": "Grouped kanji — 朝, 昼, 春, 夏, 秋, 冬, 京, 都, 府, 県, 市, 町",
+      "id": "Kanji yang dihafalkan secara kelompok"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 6,
+      "sequence": 172,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k107",
+    "curriculumId": "n4_k107",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 1,
+    "day": 7,
+    "sequence": 173,
+    "title": "料理のレシピ",
+    "meaning": {
+      "en": "Additional kanji — 料, 理, 米, 洗, 野, 菜, 酒, 肉, 味",
+      "id": "Kanji tambahan dari resep masakan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 1,
+      "day": 7,
+      "sequence": 173,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k201",
+    "curriculumId": "n4_k201",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 174,
+    "title": "映画・計画",
+    "meaning": {
+      "en": "Learn readings through words — 画, 映, 計, 図, 事, 仕, 用, 地, 鉄",
+      "id": "Hafalkan cara baca lewat kosakata"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 1,
+      "sequence": 174,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k202",
+    "curriculumId": "n4_k202",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 175,
+    "title": "大・犬・太",
+    "meaning": {
+      "en": "Similar-looking kanji — 大, 犬, 太, 区, 思, 知, 和, 族, 青, 光, 池, 別",
+      "id": "Kanji yang bentuknya mirip"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 2,
+      "sequence": 175,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k203",
+    "curriculumId": "n4_k203",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 176,
+    "title": "起きる ↔ 寝る",
+    "meaning": {
+      "en": "Learn kanji in pairs — 寒, 暑, 重, 軽, 広, 元, 病, 起, 寝, 始, 終",
+      "id": "Hafalkan kanji secara berpasangan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 3,
+      "sequence": 176,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k204",
+    "curriculumId": "n4_k204",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 177,
+    "title": "発音・注意",
+    "meaning": {
+      "en": "Pronunciation-focused kanji — 研, 究, 住, 所, 注, 意, 教, 発, 音, 工, 業",
+      "id": "Kanji dengan perhatian pada pelafalan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 4,
+      "sequence": 177,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k205",
+    "curriculumId": "n4_k205",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 178,
+    "title": "号・番・全",
+    "meaning": {
+      "en": "Kanji used to form words — 以, 内, 代, 号, 番, 度, 全, 洋, 服",
+      "id": "Kanji yang digunakan untuk membentuk kata"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 5,
+      "sequence": 178,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k206",
+    "curriculumId": "n4_k206",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 179,
+    "title": "赤・白・黄",
+    "meaning": {
+      "en": "Grouped kanji — 妹, 好, 弟, 赤, 黄, 色, 黒, 首, 顔, 頭",
+      "id": "Kanji yang dihafalkan secara kelompok"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 6,
+      "sequence": 179,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k207",
+    "curriculumId": "n4_k207",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 2,
+    "day": 7,
+    "sequence": 180,
+    "title": "建物の中のサイン",
+    "meaning": {
+      "en": "Additional kanji from building signs — 取, 押, 引, 開, 閉, 止",
+      "id": "Kanji tambahan dari tanda di dalam gedung"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 2,
+      "day": 7,
+      "sequence": 180,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k301",
+    "curriculumId": "n4_k301",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 181,
+    "title": "部屋・土産",
+    "meaning": {
+      "en": "Learn special readings — 部, 屋, 産, 姉, 兄, 世, 界",
+      "id": "Hafalkan cara baca khusus"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 1,
+      "sequence": 181,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k302",
+    "curriculumId": "n4_k302",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 182,
+    "title": "持・待・特",
+    "meaning": {
+      "en": "Kanji with the same radicals — 持, 待, 特, 林, 村, 森, 曜, 濯, 質, 問, 題",
+      "id": "Kanji dengan bagian/radikal yang sama"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 2,
+      "sequence": 182,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k303",
+    "curriculumId": "n4_k303",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 183,
+    "title": "習う ↔ 教える",
+    "meaning": {
+      "en": "Learn kanji in pairs — 売, 借, 貸, 習, 座, 乗, 死, 不",
+      "id": "Hafalkan kanji secara berpasangan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 3,
+      "sequence": 183,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k304",
+    "curriculumId": "n4_k304",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 184,
+    "title": "体・薬",
+    "meaning": {
+      "en": "Be careful of pronunciation and writing — 体, 働, 薬, 奥, 正, 急, 試, 験, 考, 心, 声",
+      "id": "Perhatikan pelafalan dan cara penulisan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 4,
+      "sequence": 184,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k305",
+    "curriculumId": "n4_k305",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 185,
+    "title": "親切・切手",
+    "meaning": {
+      "en": "Learn kanji combinations — 合, 漢, 字, 親, 切, 楽, 自, 場, 室",
+      "id": "Hafalkan kombinasi kanji"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 5,
+      "sequence": 185,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k306",
+    "curriculumId": "n4_k306",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 186,
+    "title": "海・山・空・川",
+    "meaning": {
+      "en": "Learn these as groups — 鳥, 銀, 堂, 院, 歩, 走, 海, 帰",
+      "id": "Hafalkan kanji secara kelompok"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 6,
+      "sequence": 186,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n4-kanji-n4_k307",
+    "curriculumId": "n4_k307",
+    "level": "n4",
+    "section": "kanji",
+    "source": "soumatome",
+    "week": 3,
+    "day": 7,
+    "sequence": 187,
+    "title": "漢字の部分の名前",
+    "meaning": {
+      "en": "Additional kanji from radical names — 英, 茶, 答, 紙, 私, 送",
+      "id": "Kanji tambahan dari nama bagian/radikal kanji"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "minna-no-nihongo",
+      "bookLevel": "n4",
+      "section": "kanji",
+      "week": 3,
+      "day": 7,
+      "sequence": 187,
+      "sourceTag": "S"
+    }
+  }
+]

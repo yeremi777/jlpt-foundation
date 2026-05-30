@@ -1,0 +1,3012 @@
+[
+  {
+    "id": "n5-grammar-n5_g101",
+    "curriculumId": "n5_g101",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 1,
+    "title": "い形容詞の形",
+    "reading": "i-keiyoushi no katachi",
+    "meaning": {
+      "en": "i-adjective forms: present, past, negative",
+      "id": "Bentuk kata sifat-i: sekarang, lampau, negatif"
+    },
+    "formula": "いAdjです / いAdjくないです / いAdjかったです",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 1,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g102",
+    "curriculumId": "n5_g102",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 2,
+    "title": "いい・よい",
+    "reading": "ii / yoi",
+    "meaning": {
+      "en": "Special adjective forms for “good”",
+      "id": "Bentuk khusus kata sifat “baik”"
+    },
+    "formula": "いい→よかった／よくない／よくなかった",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 2,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g103",
+    "curriculumId": "n5_g103",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 3,
+    "title": "な形容詞の形",
+    "reading": "na-keiyoushi no katachi",
+    "meaning": {
+      "en": "na-adjective forms: present, past, negative",
+      "id": "Bentuk kata sifat-na: sekarang, lampau, negatif"
+    },
+    "formula": "なAdjです / なAdjではありません / なAdjでした",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 3,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g104",
+    "curriculumId": "n5_g104",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 1,
+    "sequence": 4,
+    "title": "あります・します・来ますの形",
+    "reading": "arimasu / shimasu / kimasu no katachi",
+    "meaning": {
+      "en": "Basic common verb conjugation review",
+      "id": "Ulasan perubahan kata kerja umum"
+    },
+    "formula": "polite/plain, positive/negative, past/non-past",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 1,
+      "sequence": 4,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g105",
+    "curriculumId": "n5_g105",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 5,
+    "title": "形容詞＋名詞",
+    "reading": "keiyoushi + meishi",
+    "meaning": {
+      "en": "Adjective modifies a noun",
+      "id": "Kata sifat menerangkan kata benda"
+    },
+    "formula": "いAdj+N / なAdj+な+N",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 5,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g106",
+    "curriculumId": "n5_g106",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 6,
+    "title": "名詞＋の＋名詞",
+    "reading": "meishi + no + meishi",
+    "meaning": {
+      "en": "Noun modifies another noun",
+      "id": "Kata benda menerangkan kata benda"
+    },
+    "formula": "N1+の+N2",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 6,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g107",
+    "curriculumId": "n5_g107",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 7,
+    "title": "〜の（名詞の代用）",
+    "reading": "no",
+    "meaning": {
+      "en": "Noun replacement: one/mine",
+      "id": "Pengganti kata benda: yang ... / milik ..."
+    },
+    "formula": "Modifier+の",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 7,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g108",
+    "curriculumId": "n5_g108",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 8,
+    "title": "あります・います",
+    "reading": "arimasu / imasu",
+    "meaning": {
+      "en": "Have; there is/are",
+      "id": "Punya; ada"
+    },
+    "formula": "Nがあります / Nがいます",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 8,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g109",
+    "curriculumId": "n5_g109",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 2,
+    "sequence": 9,
+    "title": "場所に〜があります・います",
+    "reading": "basho ni~ga arimasu / imasu",
+    "meaning": {
+      "en": "Something/someone exists at a place",
+      "id": "Sesuatu/seseorang ada di suatu tempat"
+    },
+    "formula": "Place+に+Nがあります／います",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 2,
+      "sequence": 9,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g110",
+    "curriculumId": "n5_g110",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 10,
+    "title": "〜は（話題）",
+    "reading": "wa",
+    "meaning": {
+      "en": "Topic marker",
+      "id": "Penanda topik"
+    },
+    "formula": "N+は+predicate",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 10,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g111",
+    "curriculumId": "n5_g111",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 11,
+    "title": "〜は（対比・強調）",
+    "reading": "wa",
+    "meaning": {
+      "en": "Contrast or emphasis marker",
+      "id": "Penanda kontras atau penekanan"
+    },
+    "formula": "Nは..., Nは...",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 11,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g112",
+    "curriculumId": "n5_g112",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 12,
+    "title": "AはBが〜",
+    "reading": "A wa B ga~",
+    "meaning": {
+      "en": "A has B that is ~",
+      "id": "A memiliki B yang ~"
+    },
+    "formula": "AはBがAdjです",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 12,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g113",
+    "curriculumId": "n5_g113",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 13,
+    "title": "疑問詞＋が",
+    "reading": "gimonshi + ga",
+    "meaning": {
+      "en": "Question word as subject",
+      "id": "Kata tanya sebagai subjek"
+    },
+    "formula": "Wh-word+が+predicate",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 13,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g114",
+    "curriculumId": "n5_g114",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 14,
+    "title": "〜を（対象・通過点）",
+    "reading": "wo",
+    "meaning": {
+      "en": "Object marker; movement through/leaving point",
+      "id": "Penanda objek; melewati/meninggalkan tempat"
+    },
+    "formula": "N+を+V",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 14,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g115",
+    "curriculumId": "n5_g115",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 3,
+    "sequence": 15,
+    "title": "〜と（相手・一緒）",
+    "reading": "to",
+    "meaning": {
+      "en": "With someone; counterpart",
+      "id": "Dengan seseorang; lawan/interaksi"
+    },
+    "formula": "Person+と+V",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 3,
+      "sequence": 15,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g116",
+    "curriculumId": "n5_g116",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 16,
+    "title": "〜に（場所・方向・時間・相手）",
+    "reading": "ni",
+    "meaning": {
+      "en": "To/at/on/toward; time, destination, person",
+      "id": "Ke/pada/di; waktu, tujuan, orang"
+    },
+    "formula": "N+に+V",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 4,
+      "sequence": 16,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g117",
+    "curriculumId": "n5_g117",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 17,
+    "title": "〜で（場所・方法・範囲）",
+    "reading": "de",
+    "meaning": {
+      "en": "At/by/with/in; place, method, range",
+      "id": "Di/dengan/secara; tempat, cara, cakupan"
+    },
+    "formula": "N+で+V",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 4,
+      "sequence": 17,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g118",
+    "curriculumId": "n5_g118",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 4,
+    "sequence": 18,
+    "title": "〜も",
+    "reading": "mo",
+    "meaning": {
+      "en": "Also; too",
+      "id": "Juga"
+    },
+    "formula": "N+も",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 4,
+      "sequence": 18,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g119",
+    "curriculumId": "n5_g119",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 19,
+    "title": "〜か",
+    "reading": "ka",
+    "meaning": {
+      "en": "Or; choice marker",
+      "id": "Atau; penanda pilihan"
+    },
+    "formula": "N1かN2",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 5,
+      "sequence": 19,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g120",
+    "curriculumId": "n5_g120",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 20,
+    "title": "〜や〜など",
+    "reading": "ya~nado",
+    "meaning": {
+      "en": "Things like ~ and ~",
+      "id": "Seperti ~ dan lainnya"
+    },
+    "formula": "N1やN2など",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 5,
+      "sequence": 20,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g121",
+    "curriculumId": "n5_g121",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 21,
+    "title": "〜から〜まで",
+    "reading": "kara~made",
+    "meaning": {
+      "en": "From ~ to/until ~",
+      "id": "Dari ~ sampai ~"
+    },
+    "formula": "N1からN2まで",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 5,
+      "sequence": 21,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g122",
+    "curriculumId": "n5_g122",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 22,
+    "title": "〜ごろ",
+    "reading": "goro",
+    "meaning": {
+      "en": "Around a time",
+      "id": "Sekitar waktu"
+    },
+    "formula": "Time+ごろ",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 5,
+      "sequence": 22,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g123",
+    "curriculumId": "n5_g123",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 23,
+    "title": "〜くらい・〜ぐらい",
+    "reading": "kurai / gurai",
+    "meaning": {
+      "en": "About; approximately",
+      "id": "Kira-kira; sekitar"
+    },
+    "formula": "Amount/period+くらい／ぐらい",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 5,
+      "sequence": 23,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g124",
+    "curriculumId": "n5_g124",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 5,
+    "sequence": 24,
+    "title": "〜だけ",
+    "reading": "dake",
+    "meaning": {
+      "en": "Only",
+      "id": "Hanya"
+    },
+    "formula": "N+だけ",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 5,
+      "sequence": 24,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g125",
+    "curriculumId": "n5_g125",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 1,
+    "day": 6,
+    "sequence": 25,
+    "title": "疑問詞",
+    "reading": "gimonshi",
+    "meaning": {
+      "en": "Question words",
+      "id": "Kata tanya"
+    },
+    "formula": "だれ／どなた／何／どこ／どちら／どう／どんな／どの／いくつ",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 1,
+      "day": 6,
+      "sequence": 25,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g201",
+    "curriculumId": "n5_g201",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 26,
+    "title": "何か・だれか・どこか・いつか",
+    "reading": "nanika / dareka / dokoka / itsuka",
+    "meaning": {
+      "en": "Something/someone/somewhere/sometime",
+      "id": "Sesuatu/seseorang/suatu tempat/suatu waktu"
+    },
+    "formula": "Wh-word+か",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 26,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g202",
+    "curriculumId": "n5_g202",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 27,
+    "title": "何も・だれも・どこへも〜ない",
+    "reading": "nanimo / daremo / doko e mo~nai",
+    "meaning": {
+      "en": "Nothing/no one/nowhere with negative",
+      "id": "Tidak apa pun/siapa pun/ke mana pun"
+    },
+    "formula": "Wh-word+も+negative",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 27,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g203",
+    "curriculumId": "n5_g203",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 28,
+    "title": "〜でも",
+    "reading": "demo",
+    "meaning": {
+      "en": "Any; even; example suggestion",
+      "id": "Apa pun/siapa pun; bahkan; contoh saran"
+    },
+    "formula": "Wh-word+でも / N+でも",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 28,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g204",
+    "curriculumId": "n5_g204",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 1,
+    "sequence": 29,
+    "title": "どうですか・いかがですか",
+    "reading": "dou desu ka / ikaga desu ka",
+    "meaning": {
+      "en": "How is ~?; would you like ~?",
+      "id": "Bagaimana ~?; maukah ~?"
+    },
+    "formula": "Nはどう／いかがですか",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 1,
+      "sequence": 29,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g205",
+    "curriculumId": "n5_g205",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 30,
+    "title": "形容詞・名詞のて形接続",
+    "reading": "keiyoushi / meishi no te-kei setsuzoku",
+    "meaning": {
+      "en": "Connect adjective/noun descriptions",
+      "id": "Menghubungkan deskripsi kata sifat/kata benda"
+    },
+    "formula": "いAdjくて / なAdjで / Nで",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 2,
+      "sequence": 30,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g206",
+    "curriculumId": "n5_g206",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 31,
+    "title": "Vて",
+    "reading": "V-te",
+    "meaning": {
+      "en": "Verb te-form for sequence/connection",
+      "id": "Bentuk te untuk urutan/koneksi aksi"
+    },
+    "formula": "Vて",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 2,
+      "sequence": 31,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g207",
+    "curriculumId": "n5_g207",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 32,
+    "title": "Vてから",
+    "reading": "te kara",
+    "meaning": {
+      "en": "After doing ~",
+      "id": "Setelah melakukan ~"
+    },
+    "formula": "Vてから",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 2,
+      "sequence": 32,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g208",
+    "curriculumId": "n5_g208",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 2,
+    "sequence": 33,
+    "title": "それから・そして",
+    "reading": "sore kara / soshite",
+    "meaning": {
+      "en": "And then; and",
+      "id": "Lalu; kemudian; dan"
+    },
+    "formula": "Sentence。それから／そして...",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 2,
+      "sequence": 33,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g209",
+    "curriculumId": "n5_g209",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 34,
+    "title": "Nがほしいです",
+    "reading": "ga hoshii desu",
+    "meaning": {
+      "en": "Want a noun",
+      "id": "Ingin benda"
+    },
+    "formula": "N+がほしいです",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 34,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g210",
+    "curriculumId": "n5_g210",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 35,
+    "title": "Vたいです",
+    "reading": "tai desu",
+    "meaning": {
+      "en": "Want to do ~",
+      "id": "Ingin melakukan ~"
+    },
+    "formula": "Vます-stem+たいです",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 35,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g211",
+    "curriculumId": "n5_g211",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 36,
+    "title": "Vています",
+    "reading": "te imasu",
+    "meaning": {
+      "en": "Doing now; state; habit",
+      "id": "Sedang; keadaan; kebiasaan"
+    },
+    "formula": "Vて+います",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 36,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g212",
+    "curriculumId": "n5_g212",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 37,
+    "title": "Vてください",
+    "reading": "te kudasai",
+    "meaning": {
+      "en": "Please do ~",
+      "id": "Tolong lakukan ~"
+    },
+    "formula": "Vて+ください",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 37,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g213",
+    "curriculumId": "n5_g213",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 38,
+    "title": "Vないでください",
+    "reading": "naide kudasai",
+    "meaning": {
+      "en": "Please do not do ~",
+      "id": "Tolong jangan lakukan ~"
+    },
+    "formula": "Vないでください",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 38,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g214",
+    "curriculumId": "n5_g214",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 3,
+    "sequence": 39,
+    "title": "〜ね・〜よ",
+    "reading": "ne / yo",
+    "meaning": {
+      "en": "Sentence-ending confirmation, agreement, or emphasis",
+      "id": "Akhiran kalimat untuk konfirmasi, persetujuan, penekanan"
+    },
+    "formula": "Sentence+ね／よ",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 3,
+      "sequence": 39,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g215",
+    "curriculumId": "n5_g215",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 40,
+    "title": "〜に・〜からもらいます",
+    "reading": "ni / kara moraimasu",
+    "meaning": {
+      "en": "Receive from someone",
+      "id": "Menerima dari seseorang"
+    },
+    "formula": "Personに／から+Nをもらう",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 40,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g216",
+    "curriculumId": "n5_g216",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 41,
+    "title": "〜がくれます",
+    "reading": "ga kuremasu",
+    "meaning": {
+      "en": "Someone gives me/us ~",
+      "id": "Seseorang memberi kepada saya/kita"
+    },
+    "formula": "Personが+私に+Nをくれる",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 41,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g217",
+    "curriculumId": "n5_g217",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 42,
+    "title": "〜にあげます",
+    "reading": "ni agemasu",
+    "meaning": {
+      "en": "Give to someone",
+      "id": "Memberi kepada seseorang"
+    },
+    "formula": "Personに+Nをあげる",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 42,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g218",
+    "curriculumId": "n5_g218",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 43,
+    "title": "Vましょう",
+    "reading": "mashou",
+    "meaning": {
+      "en": "Let’s do ~",
+      "id": "Ayo lakukan ~"
+    },
+    "formula": "Vます-stem+ましょう",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 43,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g219",
+    "curriculumId": "n5_g219",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 44,
+    "title": "Vましょうか",
+    "reading": "mashou ka",
+    "meaning": {
+      "en": "Shall I/we do ~?",
+      "id": "Mau saya/kita lakukan ~?"
+    },
+    "formula": "Vます-stem+ましょうか",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 44,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g220",
+    "curriculumId": "n5_g220",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 4,
+    "sequence": 45,
+    "title": "Vませんか",
+    "reading": "masen ka",
+    "meaning": {
+      "en": "Why don’t we/you ~?",
+      "id": "Bagaimana kalau kita/Anda ~?"
+    },
+    "formula": "Vます-stem+ませんか",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 4,
+      "sequence": 45,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g221",
+    "curriculumId": "n5_g221",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 46,
+    "title": "名詞修飾",
+    "reading": "meishi shuushoku",
+    "meaning": {
+      "en": "Noun modification / relative clause",
+      "id": "Modifikasi kata benda / klausa relatif"
+    },
+    "formula": "Modifier+N",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 5,
+      "sequence": 46,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g222",
+    "curriculumId": "n5_g222",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 5,
+    "sequence": 47,
+    "title": "どうしますか・どうしましたか",
+    "reading": "dou shimasu ka / dou shimashita ka",
+    "meaning": {
+      "en": "What will you do? / What happened?",
+      "id": "Akan bagaimana? / Ada apa?"
+    },
+    "formula": "どうしますか／どうしましたか",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 5,
+      "sequence": 47,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g223",
+    "curriculumId": "n5_g223",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 48,
+    "title": "〜から・〜からです・だから",
+    "reading": "kara / kara desu / dakara",
+    "meaning": {
+      "en": "Because; the reason is; therefore",
+      "id": "Karena; alasannya; jadi"
+    },
+    "formula": "Reason+から / だから+result",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 6,
+      "sequence": 48,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g224",
+    "curriculumId": "n5_g224",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 49,
+    "title": "〜けれど・〜けど・〜が",
+    "reading": "keredo / kedo / ga",
+    "meaning": {
+      "en": "But; although",
+      "id": "Tetapi; walaupun"
+    },
+    "formula": "Clause+けど／が",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 6,
+      "sequence": 49,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g225",
+    "curriculumId": "n5_g225",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 50,
+    "title": "でも・しかし",
+    "reading": "demo / shikashi",
+    "meaning": {
+      "en": "But; however",
+      "id": "Tapi; namun"
+    },
+    "formula": "Sentence。でも／しかし...",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 6,
+      "sequence": 50,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g226",
+    "curriculumId": "n5_g226",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 2,
+    "day": 6,
+    "sequence": 51,
+    "title": "それでは・では・それじゃ・じゃ",
+    "reading": "soredewa / dewa / soreja / ja",
+    "meaning": {
+      "en": "Well then; in that case",
+      "id": "Kalau begitu"
+    },
+    "formula": "それでは／では／じゃ...",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 2,
+      "day": 6,
+      "sequence": 51,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g301",
+    "curriculumId": "n5_g301",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 52,
+    "title": "とても・たいへん",
+    "reading": "totemo / taihen",
+    "meaning": {
+      "en": "Very; terribly",
+      "id": "Sangat; amat"
+    },
+    "formula": "とても／たいへん+Adj",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 1,
+      "sequence": 52,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g302",
+    "curriculumId": "n5_g302",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 53,
+    "title": "すごく・ほんとうに",
+    "reading": "sugoku / hontou ni",
+    "meaning": {
+      "en": "Very; really",
+      "id": "Sangat; benar-benar"
+    },
+    "formula": "すごく／ほんとうに+Adj",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 1,
+      "sequence": 53,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g303",
+    "curriculumId": "n5_g303",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 54,
+    "title": "あまり・ぜんぜん〜ない",
+    "reading": "amari / zenzen~nai",
+    "meaning": {
+      "en": "Not very; not at all",
+      "id": "Tidak begitu; sama sekali tidak"
+    },
+    "formula": "あまり／ぜんぜん+negative",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 1,
+      "sequence": 54,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g304",
+    "curriculumId": "n5_g304",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 1,
+    "sequence": 55,
+    "title": "いつも・ときどき・たいてい・よく",
+    "reading": "itsumo / tokidoki / taitei / yoku",
+    "meaning": {
+      "en": "Always, sometimes, usually, often",
+      "id": "Selalu, kadang, biasanya, sering"
+    },
+    "formula": "Frequency adverb+V",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 1,
+      "sequence": 55,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g305",
+    "curriculumId": "n5_g305",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 56,
+    "title": "まあまあ・ほとんど・だいたい",
+    "reading": "maa maa / hotondo / daitai",
+    "meaning": {
+      "en": "So-so; almost; mostly",
+      "id": "Lumayan; hampir; kebanyakan"
+    },
+    "formula": "Adverb+sentence",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 2,
+      "sequence": 56,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g306",
+    "curriculumId": "n5_g306",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 57,
+    "title": "もっと・さっき・すぐに・もうすぐ",
+    "reading": "motto / sakki / sugu ni / mou sugu",
+    "meaning": {
+      "en": "More; just now; immediately; soon",
+      "id": "Lebih; tadi; segera; sebentar lagi"
+    },
+    "formula": "Adverb+sentence",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 2,
+      "sequence": 57,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g307",
+    "curriculumId": "n5_g307",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 58,
+    "title": "もう",
+    "reading": "mou",
+    "meaning": {
+      "en": "Already",
+      "id": "Sudah"
+    },
+    "formula": "もう+Vました",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 2,
+      "sequence": 58,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g308",
+    "curriculumId": "n5_g308",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 2,
+    "sequence": 59,
+    "title": "まだ〜ません・まだ〜ないです",
+    "reading": "mada~masen / mada~nai desu",
+    "meaning": {
+      "en": "Not yet",
+      "id": "Belum"
+    },
+    "formula": "まだ+negative",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 2,
+      "sequence": 59,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g309",
+    "curriculumId": "n5_g309",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 60,
+    "title": "いAdjくV・なAdjにV",
+    "reading": "i-Adj ku V / na-Adj ni V",
+    "meaning": {
+      "en": "Do in an adjective manner",
+      "id": "Melakukan dengan cara/sifat tertentu"
+    },
+    "formula": "いAdjく+V / なAdjに+V",
+    "difficulty": "medium",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 3,
+      "sequence": 60,
+      "sourceTag": "B",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g310",
+    "curriculumId": "n5_g310",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 61,
+    "title": "〜くなる・〜になる",
+    "reading": "ku naru / ni naru",
+    "meaning": {
+      "en": "Become ~",
+      "id": "Menjadi ~"
+    },
+    "formula": "いAdjくなる / なAdj・Nになる",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 3,
+      "sequence": 61,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g311",
+    "curriculumId": "n5_g311",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 62,
+    "title": "〜くする・〜にする",
+    "reading": "ku suru / ni suru",
+    "meaning": {
+      "en": "Make/change into ~",
+      "id": "Membuat/menjadikan ~"
+    },
+    "formula": "いAdjくする / なAdj・Nにする",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 3,
+      "sequence": 62,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g312",
+    "curriculumId": "n5_g312",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 3,
+    "sequence": 63,
+    "title": "どう言いますか・何と言いますか",
+    "reading": "dou iimasu ka / nan to iimasu ka",
+    "meaning": {
+      "en": "How do you say ~?",
+      "id": "Bagaimana mengatakan ~?"
+    },
+    "formula": "どう／何と+言いますか",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 3,
+      "sequence": 63,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g313",
+    "curriculumId": "n5_g313",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 64,
+    "title": "〜とき",
+    "reading": "toki",
+    "meaning": {
+      "en": "When ~",
+      "id": "Ketika ~"
+    },
+    "formula": "Nのとき / Adjとき / Vとき",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 4,
+      "sequence": 64,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g314",
+    "curriculumId": "n5_g314",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 65,
+    "title": "〜前に",
+    "reading": "mae ni",
+    "meaning": {
+      "en": "Before ~",
+      "id": "Sebelum ~"
+    },
+    "formula": "Nの前に / V(dict)+前に",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 4,
+      "sequence": 65,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g315",
+    "curriculumId": "n5_g315",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 66,
+    "title": "〜あとで",
+    "reading": "ato de",
+    "meaning": {
+      "en": "After ~",
+      "id": "Setelah ~"
+    },
+    "formula": "Nのあとで / V(た)+あとで",
+    "difficulty": "easy",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 4,
+      "sequence": 66,
+      "sourceTag": "S",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g316",
+    "curriculumId": "n5_g316",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 4,
+    "sequence": 67,
+    "title": "〜に行く・来る・帰る",
+    "reading": "ni iku / kuru / kaeru",
+    "meaning": {
+      "en": "Go/come/return for a purpose",
+      "id": "Pergi/datang/pulang untuk tujuan"
+    },
+    "formula": "Nに / Vます-stemに + 行く／来る／帰る",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 4,
+      "sequence": 67,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g317",
+    "curriculumId": "n5_g317",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 68,
+    "title": "AはBより〜",
+    "reading": "A wa B yori~",
+    "meaning": {
+      "en": "A is more ~ than B",
+      "id": "A lebih ~ daripada B"
+    },
+    "formula": "AはBより+Adj",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 68,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g318",
+    "curriculumId": "n5_g318",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 69,
+    "title": "AよりBのほうが〜",
+    "reading": "A yori B no hou ga~",
+    "meaning": {
+      "en": "B is more ~ than A",
+      "id": "B lebih ~ daripada A"
+    },
+    "formula": "AよりBのほうが+Adj",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 69,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g319",
+    "curriculumId": "n5_g319",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 70,
+    "title": "AとBとどちら〜",
+    "reading": "A to B to dochira~",
+    "meaning": {
+      "en": "Between A and B, which is ~?",
+      "id": "Antara A dan B, mana yang ~?"
+    },
+    "formula": "AとBとどちらが+Adj",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 70,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g320",
+    "curriculumId": "n5_g320",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 71,
+    "title": "Aがいちばん〜",
+    "reading": "A ga ichiban~",
+    "meaning": {
+      "en": "A is the most ~",
+      "id": "A paling ~"
+    },
+    "formula": "Aがいちばん+Adj",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 71,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g321",
+    "curriculumId": "n5_g321",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 5,
+    "sequence": 72,
+    "title": "〜たり〜たりします",
+    "reading": "tari~tari shimasu",
+    "meaning": {
+      "en": "Do things like A and B",
+      "id": "Melakukan hal seperti A dan B"
+    },
+    "formula": "V(た)+り+V(た)+りする",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 5,
+      "sequence": 72,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g322",
+    "curriculumId": "n5_g322",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 73,
+    "title": "Vること",
+    "reading": "V-ru koto",
+    "meaning": {
+      "en": "Verb nominalization with こと",
+      "id": "Nominalisasi kata kerja dengan こと"
+    },
+    "formula": "V(dict)+こと",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 73,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g323",
+    "curriculumId": "n5_g323",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 74,
+    "title": "Vるの",
+    "reading": "V-ru no",
+    "meaning": {
+      "en": "Verb nominalization with の",
+      "id": "Nominalisasi kata kerja dengan の"
+    },
+    "formula": "V(dict)+の",
+    "difficulty": "medium",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 74,
+      "sourceTag": "S",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g324",
+    "curriculumId": "n5_g324",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 75,
+    "title": "Nができます",
+    "reading": "N ga dekimasu",
+    "meaning": {
+      "en": "Can do; possible noun",
+      "id": "Bisa; kemampuan pada nomina"
+    },
+    "formula": "N+ができます",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 75,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g325",
+    "curriculumId": "n5_g325",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 76,
+    "title": "Vることができます",
+    "reading": "V-ru koto ga dekimasu",
+    "meaning": {
+      "en": "Can do a verb",
+      "id": "Bisa melakukan suatu aksi"
+    },
+    "formula": "V(dict)+ことができます",
+    "difficulty": "easy",
+    "sourceTag": "B",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 76,
+      "sourceTag": "B",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_g326",
+    "curriculumId": "n5_g326",
+    "level": "n5",
+    "section": "grammar",
+    "source": "soumatome",
+    "week": 3,
+    "day": 6,
+    "sequence": 77,
+    "title": "可能形",
+    "reading": "kanoukei",
+    "meaning": {
+      "en": "Potential verb form; can do ~",
+      "id": "Bentuk potensial; bisa melakukan ~"
+    },
+    "formula": "V potential form",
+    "difficulty": "hard",
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "week": 3,
+      "day": 6,
+      "sequence": 77,
+      "sourceTag": "S",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm01",
+    "curriculumId": "n5_gm01",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 78,
+    "title": "名詞文の形",
+    "reading": "meishibun no katachi",
+    "meaning": {
+      "en": "Noun predicate forms",
+      "id": "Bentuk kalimat predikat kata benda"
+    },
+    "formula": "Nです / Nではありません / Nでした",
+    "difficulty": "easy",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 78,
+      "sourceTag": "M",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm02",
+    "curriculumId": "n5_gm02",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 79,
+    "title": "〜てもいいです",
+    "reading": "te mo ii desu",
+    "meaning": {
+      "en": "May; it is okay to do ~",
+      "id": "Boleh melakukan ~"
+    },
+    "formula": "V(て)+もいいです",
+    "difficulty": "easy",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 79,
+      "sourceTag": "M",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm03",
+    "curriculumId": "n5_gm03",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 80,
+    "title": "〜てはいけません",
+    "reading": "te wa ikemasen",
+    "meaning": {
+      "en": "Must not; may not do ~",
+      "id": "Tidak boleh melakukan ~"
+    },
+    "formula": "V(て)+はいけません",
+    "difficulty": "easy",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 80,
+      "sourceTag": "M",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm04",
+    "curriculumId": "n5_gm04",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 81,
+    "title": "〜なければなりません",
+    "reading": "nakereba narimasen",
+    "meaning": {
+      "en": "Must; have to ~",
+      "id": "Harus melakukan ~"
+    },
+    "formula": "V(ない-stem)+なければなりません",
+    "difficulty": "medium",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 81,
+      "sourceTag": "M",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm05",
+    "curriculumId": "n5_gm05",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 82,
+    "title": "〜なくてもいいです",
+    "reading": "nakute mo ii desu",
+    "meaning": {
+      "en": "Do not have to ~",
+      "id": "Tidak perlu melakukan ~"
+    },
+    "formula": "V(ない)+なくてもいいです",
+    "difficulty": "easy",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 82,
+      "sourceTag": "M",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm06",
+    "curriculumId": "n5_gm06",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 83,
+    "title": "〜たことがある",
+    "reading": "ta koto ga aru",
+    "meaning": {
+      "en": "Have done ~ before",
+      "id": "Pernah melakukan ~"
+    },
+    "formula": "V(た)+ことがある",
+    "difficulty": "easy",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 83,
+      "sourceTag": "M",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm07",
+    "curriculumId": "n5_gm07",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 84,
+    "title": "普通形・普通体",
+    "reading": "futsuu-kei / futsuu-tai",
+    "meaning": {
+      "en": "Plain form and plain style",
+      "id": "Bentuk biasa dan gaya kasual"
+    },
+    "formula": "V/Adj/N plain style",
+    "difficulty": "medium",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 84,
+      "sourceTag": "M",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm08",
+    "curriculumId": "n5_gm08",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 85,
+    "title": "〜と思います",
+    "reading": "to omoimasu",
+    "meaning": {
+      "en": "I think that ~",
+      "id": "Saya pikir bahwa ~"
+    },
+    "formula": "Plain form+と思います",
+    "difficulty": "easy",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 85,
+      "sourceTag": "M",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm09",
+    "curriculumId": "n5_gm09",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 86,
+    "title": "〜と言います",
+    "reading": "to iimasu",
+    "meaning": {
+      "en": "Say that ~; quote that ~",
+      "id": "Mengatakan bahwa ~; mengutip ~"
+    },
+    "formula": "Quote+と言います",
+    "difficulty": "easy",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 86,
+      "sourceTag": "M",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm10",
+    "curriculumId": "n5_gm10",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 87,
+    "title": "〜でしょう",
+    "reading": "deshou",
+    "meaning": {
+      "en": "Probably; right?",
+      "id": "Mungkin; bukan?"
+    },
+    "formula": "Plain form+でしょう",
+    "difficulty": "easy",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 87,
+      "sourceTag": "M",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm11",
+    "curriculumId": "n5_gm11",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 88,
+    "title": "〜と",
+    "reading": "to",
+    "meaning": {
+      "en": "When/if ~, a natural result follows",
+      "id": "Jika/ketika ~, hasil alami terjadi"
+    },
+    "formula": "V(dict)+と",
+    "difficulty": "medium",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 88,
+      "sourceTag": "M",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm12",
+    "curriculumId": "n5_gm12",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 89,
+    "title": "〜てあげる・〜てくれる・〜てもらう",
+    "reading": "te ageru / te kureru / te morau",
+    "meaning": {
+      "en": "Give/receive help by doing an action",
+      "id": "Memberi/menerima bantuan berupa tindakan"
+    },
+    "formula": "V(て)+あげる／くれる／もらう",
+    "difficulty": "medium",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 89,
+      "sourceTag": "M",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm13",
+    "curriculumId": "n5_gm13",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 90,
+    "title": "〜たら",
+    "reading": "tara",
+    "meaning": {
+      "en": "If/when ~",
+      "id": "Jika/ketika ~"
+    },
+    "formula": "V(た)+ら",
+    "difficulty": "medium",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 90,
+      "sourceTag": "M",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-grammar-n5_gm14",
+    "curriculumId": "n5_gm14",
+    "level": "n5",
+    "section": "grammar",
+    "source": "minna-no-nihongo",
+    "sequence": 91,
+    "title": "〜ても",
+    "reading": "te mo",
+    "meaning": {
+      "en": "Even if ~",
+      "id": "Meskipun ~"
+    },
+    "formula": "V(て)+も",
+    "difficulty": "medium",
+    "sourceTag": "M",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "grammar",
+      "sequence": 91,
+      "sourceTag": "M",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": "n5-vocab-n5_v101",
+    "curriculumId": "n5_v101",
+    "level": "n5",
+    "section": "vocab",
+    "source": "soumatome",
+    "day": 1,
+    "sequence": 92,
+    "title": "つめたい飲みもの",
+    "meaning": {
+      "en": "Adjectives for taste, temperature, size, distance, difficulty, busyness, and preference — あまい, からい, にがい, おもい, かるい, あつい, つめたい, あたたかい, すずしい, おもしろい, つまらない, せまい, ひろい, とおい, ちかい, やさしい, むずかしい, いそがしい, ひま, すき, きらい",
+      "id": "Kata sifat untuk rasa, suhu, ukuran, jarak, kesulitan, kesibukan, dan kesukaan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "vocab",
+      "day": 1,
+      "sequence": 92,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n5-vocab-n5_v102",
+    "curriculumId": "n5_v102",
+    "level": "n5",
+    "section": "vocab",
+    "source": "soumatome",
+    "day": 2,
+    "sequence": 93,
+    "title": "はたらいています",
+    "meaning": {
+      "en": "Basic verbs for daily life and work — すむ, つとめる, はたらく, つくる, うる, しる, けっこんする, タバコをすう, おきる, ねる, かえる, おく, あそぶ, シャワーをあびる, つかう",
+      "id": "Kata kerja dasar untuk kehidupan sehari-hari dan pekerjaan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "vocab",
+      "day": 2,
+      "sequence": 93,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n5-vocab-n5_v103",
+    "curriculumId": "n5_v103",
+    "level": "n5",
+    "section": "vocab",
+    "source": "soumatome",
+    "day": 3,
+    "sequence": 94,
+    "title": "どのぐらい？",
+    "meaning": {
+      "en": "Basic verbs for time/cost, opening/closing, switching on/off, calling, condition — かかる, あける, しめる, つける, けす, かける, あく, しまる, いそぐ, のどがかわく, おなかがすく",
+      "id": "Kata kerja dasar untuk waktu/biaya, buka/tutup, nyala/mati, menelepon, dan kondisi"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "vocab",
+      "day": 3,
+      "sequence": 94,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n5-vocab-n5_v104",
+    "curriculumId": "n5_v104",
+    "level": "n5",
+    "section": "vocab",
+    "source": "soumatome",
+    "day": 4,
+    "sequence": 95,
+    "title": "ちょっと",
+    "meaning": {
+      "en": "Adverbs and frequency/degree expressions — いつも, たいてい, ときどき, あまり, ぜんぜん, よく, とても, だいたい, もっと, もう, ゆっくり, たくさん, 少し, ちょっと",
+      "id": "Kata keterangan frekuensi, derajat, jumlah, dan cara"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "vocab",
+      "day": 4,
+      "sequence": 95,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n5-vocab-n5_v105",
+    "curriculumId": "n5_v105",
+    "level": "n5",
+    "section": "vocab",
+    "source": "soumatome",
+    "day": 5,
+    "sequence": 96,
+    "title": "かぞく",
+    "meaning": {
+      "en": "Family terms for own family and others’ family — そふ, そぼ, りょうしん, ちち, はは, きょうだい, あに, あね, おとうと, いもうと, おじ, おば, むすこ, むすめ, まご, つま, おっと, おとうさん, おかあさん, おにいさん, おねえさん, おくさん, ごしゅじん",
+      "id": "Istilah keluarga sendiri dan keluarga orang lain"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "vocab",
+      "day": 5,
+      "sequence": 96,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n5-vocab-n5_v106",
+    "curriculumId": "n5_v106",
+    "level": "n5",
+    "section": "vocab",
+    "source": "soumatome",
+    "day": 6,
+    "sequence": 97,
+    "title": "すきなもの・ほしいもの",
+    "meaning": {
+      "en": "Common categories — seasons, colors, places, sports, music, fruit, vehicles, weather, tableware, furniture/appliances",
+      "id": "Kategori kosakata umum — musim, warna, tempat, olahraga, musik, buah, kendaraan, cuaca, alat makan, perabot/peralatan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "vocab",
+      "day": 6,
+      "sequence": 97,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n5-vocab-n5_v107",
+    "curriculumId": "n5_v107",
+    "level": "n5",
+    "section": "vocab",
+    "source": "soumatome",
+    "day": 7,
+    "sequence": 98,
+    "title": "からだ・ふく・かぞえかた",
+    "meaning": {
+      "en": "Body parts, clothing actions, and counters — からだ, あたま, かお, くび, て, あし, みみ, め, はな, は, くち, きる, はく, かぶる, かける, する, ひとつ, ひとり, 〜まい, 〜だい, 〜ほん, 〜さつ",
+      "id": "Bagian tubuh, cara memakai pakaian, dan kata hitung"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "vocab",
+      "day": 7,
+      "sequence": 98,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n5-kanji-n5_k101",
+    "curriculumId": "n5_k101",
+    "level": "n5",
+    "section": "kanji",
+    "source": "soumatome",
+    "day": 1,
+    "sequence": 99,
+    "title": "お名前は？",
+    "meaning": {
+      "en": "People, school, country, family, names, language — 先, 生, 学, 人, 国, 男, 女, 子, 友, 父, 母, 名, 田, 山, 語, 本",
+      "id": "Orang, sekolah, negara, keluarga, nama, bahasa"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "day": 1,
+      "sequence": 99,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n5-kanji-n5_k102",
+    "curriculumId": "n5_k102",
+    "level": "n5",
+    "section": "kanji",
+    "source": "soumatome",
+    "day": 2,
+    "sequence": 100,
+    "title": "それは何ですか。",
+    "meaning": {
+      "en": "Time expressions — 何, 時, 分, 間, 半, 午, 前, 後, 今, 週, 年, 毎",
+      "id": "Ungkapan waktu, jam, minggu, tahun, dan kebiasaan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "day": 2,
+      "sequence": 100,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n5-kanji-n5_k103",
+    "curriculumId": "n5_k103",
+    "level": "n5",
+    "section": "kanji",
+    "source": "soumatome",
+    "day": 3,
+    "sequence": 101,
+    "title": "大きい ↔ 小さい",
+    "meaning": {
+      "en": "Size, amount, price, school, company — 少, 多, 小, 大, 安, 高, 新, 古, 早, 長, 円, 校, 社, 中, 聞",
+      "id": "Ukuran, jumlah, harga, sekolah, perusahaan"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "day": 3,
+      "sequence": 101,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n5-kanji-n5_k104",
+    "curriculumId": "n5_k104",
+    "level": "n5",
+    "section": "kanji",
+    "source": "soumatome",
+    "day": 4,
+    "sequence": 102,
+    "title": "どこですか。",
+    "meaning": {
+      "en": "Place and direction — 駅, 口, 出, 入, 東, 西, 南, 北, 上, 下, 左, 右, 外",
+      "id": "Tempat dan arah"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "day": 4,
+      "sequence": 102,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n5-kanji-n5_k105",
+    "curriculumId": "n5_k105",
+    "level": "n5",
+    "section": "kanji",
+    "source": "soumatome",
+    "day": 5,
+    "sequence": 103,
+    "title": "何をしていますか。",
+    "meaning": {
+      "en": "Basic action kanji — 休, 見, 言, 行, 書, 読, 買, 来, 立, 食, 飲, 会, 電, 話, 車",
+      "id": "Kanji tindakan dasar"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "day": 5,
+      "sequence": 103,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n5-kanji-n5_k106",
+    "curriculumId": "n5_k106",
+    "level": "n5",
+    "section": "kanji",
+    "source": "soumatome",
+    "day": 6,
+    "sequence": 104,
+    "title": "手と足",
+    "meaning": {
+      "en": "Body, nature, weather, shops, road/gate — 花, 天, 気, 耳, 手, 足, 目, 力, 川, 牛, 魚, 店, 道, 門, 雨, 空, 白",
+      "id": "Tubuh, alam, cuaca, toko, jalan/gerbang"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "day": 6,
+      "sequence": 104,
+      "sourceTag": "S"
+    }
+  },
+  {
+    "id": "n5-kanji-n5_k107",
+    "curriculumId": "n5_k107",
+    "level": "n5",
+    "section": "kanji",
+    "source": "soumatome",
+    "day": 7,
+    "sequence": 105,
+    "title": "数字・月・日付・曜日",
+    "meaning": {
+      "en": "Numbers, calendar, dates, weekdays — 一, 二, 三, 四, 五, 六, 七, 八, 九, 十, 百, 千, 万, 月, 日, 火, 水, 木, 金, 土",
+      "id": "Angka, kalender, tanggal, hari dalam minggu"
+    },
+    "sourceTag": "S",
+    "sourceRef": {
+      "primaryTextbook": "soumatome",
+      "depthReference": "shinkanzen",
+      "bookLevel": "n5",
+      "section": "kanji",
+      "day": 7,
+      "sequence": 105,
+      "sourceTag": "S"
+    }
+  }
+]

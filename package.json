@@ -1,0 +1,35 @@
+{
+  "name": "jlpt-foundation",
+  "version": "1.0.0",
+  "description": "Dataset-first backend foundation for a JLPT N5/N4/N3 learning platform.",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "build": "tsc -p tsconfig.build.json",
+    "start": "pnpm build && node dist/main.js",
+    "parse:reference": "tsx scripts/parse-reference.ts",
+    "validate:reference": "tsx scripts/validate-reference.ts",
+    "generate:raw-kanji": "tsx scripts/generate-raw-kanji.ts",
+    "parse:raw": "tsx scripts/parse-md.ts",
+    "validate:raw": "tsx scripts/validate-dataset.ts",
+    "generate:normalized": "tsx scripts/generate-normalized.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "Yeremi 'Kokuusen' Andrew <yeremiandrew777@gmail.com>",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.2",
+  "dependencies": {
+    "@fastify/swagger": "^9.7.0",
+    "@fastify/swagger-ui": "^5.2.6",
+    "fastify": "^5.8.5"
+  },
+  "devDependencies": {
+    "@rolldown/binding-darwin-arm64": "^1.0.3",
+    "@types/node": "^25.9.1",
+    "tsx": "^4.22.3",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.7"
+  }
+}
