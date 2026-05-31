@@ -27,7 +27,10 @@ describe("ai quiz prompts", () => {
 
     expect(prompt).toContain("compound: create a common JLPT word");
     expect(prompt).toContain("reading: create a common JLPT word");
+    expect(prompt).toContain("visibly contains context.kanji");
+    expect(prompt).toContain("never use a single kanji alone");
     expect(prompt).toContain("kana strings only");
+    expect(prompt).toContain("avoid repeating the same answerKey back-to-back");
   });
 
   it("uses meaning kanji context for compound and reading requests", () => {

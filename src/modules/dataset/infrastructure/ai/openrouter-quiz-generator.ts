@@ -17,6 +17,7 @@ import {
   mapAiQuizQuestionsToGenerated,
   parseAiQuizQuestionsPayload,
 } from "./ai-quiz-response.js";
+import { withExtraAiCandidates } from "./ai-quiz-request.js";
 
 interface OpenRouterQuizGeneratorOptions {
   readonly apiKey: string;
@@ -51,6 +52,7 @@ export class OpenRouterQuizGenerator implements AiQuizGenerator {
     }
 
     const normalizationContext = buildAiQuizNormalizationContext(context);
+    const promptInput = withExtraAiCandidates(input);
 
     let response;
     try {
@@ -64,7 +66,7 @@ export class OpenRouterQuizGenerator implements AiQuizGenerator {
             },
             {
               role: "user",
-              content: buildUserPrompt(input, context),
+              content: buildUserPrompt(promptInput, context),
             },
           ],
           responseFormat: {

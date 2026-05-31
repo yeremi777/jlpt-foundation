@@ -236,7 +236,51 @@ describe("ai quiz response", () => {
     ).toThrow("Reading quiz generation failed");
   });
 
+  it("rejects single-kanji AI reading prompts", () => {
+    const context = buildAiQuizNormalizationContext([
+      quizPoolItem("n3-kanji-u6bb5-meaning", "n3-kanji-u6bb5", "段", {
+        en: "step, grade",
+        id: "tingkat, langkah",
+      }),
+    ]);
+
+    expect(() =>
+      mapAiQuizQuestionToGenerated(
+        {
+          sourceItemId: "n3-kanji-u6bb5",
+          prompt: "段",
+          quizType: "reading",
+          choices: [
+            { key: "A", answer: "だん" },
+            { key: "B", answer: "たん" },
+            { key: "C", answer: "でん" },
+            { key: "D", answer: "たくち" },
+          ],
+          answerKey: "D",
+          answer: "たくち",
+        },
+        requestInput("reading"),
+        0,
+        {
+          idPrefix: "test",
+          normalizationContext: context,
+        },
+      ),
+    ).toThrow("Reading quiz generation failed");
+  });
+
   it("skips invalid AI questions and reports the skipped count", () => {
+    const context = buildAiQuizNormalizationContext([
+      quizPoolItem("n3-kanji-u713c-meaning", "n3-kanji-u713c", "焼", {
+        en: "burn, bake",
+        id: "membakar, memanggang",
+      }),
+      quizPoolItem("n3-kanji-u8a8d-meaning", "n3-kanji-u8a8d", "認", {
+        en: "recognize, admit",
+        id: "mengenali, mengakui",
+      }),
+    ]);
+
     const mapped = mapAiQuizQuestionsToGenerated(
       [
         {
@@ -272,7 +316,7 @@ describe("ai quiz response", () => {
       },
       {
         idPrefix: "test",
-        normalizationContext: buildAiQuizNormalizationContext(meaningPool),
+        normalizationContext: context,
       },
     );
 

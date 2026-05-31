@@ -741,7 +741,8 @@ function needsReadingRepair(question: NormalizedReadingQuestion): boolean {
 
   return (
     values.some((value) => !isValidKanaReading(value) || isRomajiOnly(value)) ||
-    hasDuplicateReadingChoices(question.choices)
+    hasDuplicateReadingChoices(question.choices) ||
+    isSingleKanjiPrompt(question.prompt)
   );
 }
 
@@ -807,6 +808,10 @@ function resolveCorrectReading(
     return fromMetadata;
   }
 
+  if (isSingleKanjiPrompt(question.prompt)) {
+    return undefined;
+  }
+
   if (hasDuplicateReadingChoices(question.choices)) {
     return undefined;
   }
@@ -848,21 +853,7 @@ function pickReadingFromPoolMetadata(
     return undefined;
   }
 
-  if (!isSingleKanjiPrompt(compound)) {
-    return undefined;
-  }
-
-  const poolItem = normalizationContext.poolItemsBySourceId.get(
-    question.sourceItemId,
-  );
-
-  if (!poolItem) {
-    return undefined;
-  }
-
-  const kunyomi = asStringArray(poolItem.metadata.kunyomi);
-  const onyomi = asStringArray(poolItem.metadata.onyomi);
-  return kunyomi[0] ?? onyomi[0];
+  return undefined;
 }
 
 function findFirstValidReadingChoice(

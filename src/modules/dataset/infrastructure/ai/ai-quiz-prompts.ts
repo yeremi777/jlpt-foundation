@@ -1,4 +1,8 @@
-import type { GenerateQuizInput, QuizPoolItem, QuizType } from "../../application/types/dataset.type.js";
+import type {
+  GenerateQuizInput,
+  QuizPoolItem,
+  QuizType,
+} from "../../application/types/dataset.type.js";
 
 interface PromptContextItem {
   readonly sourceItemId: string;
@@ -13,9 +17,10 @@ export function buildSystemPrompt(): string {
     "Return raw JSON only.",
     "Use only sourceItemId values from context.",
     "meaning: prompt equals context.kanji; answer/choices are {en,id}; correct answer uses context.meaning.",
-    "compound: create a common JLPT word using context.kanji; prompt is only the word; answer/choices are that word's {en,id} meaning.",
-    "reading: create a common JLPT word using context.kanji; prompt is word + （　　）; answer/choices are standard dictionary kana strings only, never romaji or {en,id}.",
+    "compound: create a common JLPT word that visibly contains context.kanji; prompt is only the word; answer/choices are that word's {en,id} meaning.",
+    "reading: create a common JLPT word that visibly contains context.kanji; never use a single kanji alone; prompt is word + （　　）; answer/choices must be kana-only readings in hiragana or katakana, never kanji, romaji, English, Indonesian, or {en,id}.",
     "Each question has exactly four unique choices A-D and answer duplicates the answerKey choice.",
+    "When generating multiple questions, vary answerKey across A-D and avoid repeating the same answerKey back-to-back when possible.",
   ].join(" ");
 }
 
@@ -29,7 +34,7 @@ export function buildUserPrompt(
     quizTypes: input.quizTypes,
     count: input.count,
     rules:
-      "Context is meaning-only kanji data. For compound/reading, generate a real word from kanji; do not answer with the single-kanji meaning unless it is truly correct for that word. All choices must be unique.",
+      "Context is meaning-only kanji data. For compound/reading, generated prompt word must contain context.kanji; do not use single-kanji reading prompts; if unsure choose another word. For reading, answer and choices must be kana-only readings of the prompt word, not kanji word forms or conjugations. All choices must be unique.",
     context: selectPromptContext(context, input.quizTypes, input.count),
   });
 }
