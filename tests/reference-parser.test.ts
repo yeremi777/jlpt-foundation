@@ -7,7 +7,8 @@ describe("reference parser", () => {
 
     expect(data.curriculum).toHaveLength(230);
     expect(data.kanji).toHaveLength(336);
-    expect(data.quizPool).toHaveLength(1306);
+    expect(data.quizPool).toHaveLength(453);
+    expect(data.quizPool.every((item) => item.metadata.quizType === "meaning")).toBe(true);
   });
 
   it("groups curriculum entries by section", async () => {
@@ -107,7 +108,8 @@ describe("reference parser", () => {
       kanji: 21,
     });
     expect(data.kanji).toHaveLength(198);
-    expect(data.quizPool).toHaveLength(802);
+    expect(data.quizPool).toHaveLength(346);
+    expect(data.quizPool.every((item) => item.metadata.quizType === "meaning")).toBe(true);
   });
 
   it("parses N5 reference files through the shared level parser", async () => {
@@ -124,7 +126,8 @@ describe("reference parser", () => {
       kanji: 7,
     });
     expect(data.kanji).toHaveLength(108);
-    expect(data.quizPool).toHaveLength(514);
+    expect(data.quizPool).toHaveLength(199);
+    expect(data.quizPool.every((item) => item.metadata.quizType === "meaning")).toBe(true);
   });
 
   it("parses known N5, N4, and N3 references together", async () => {
@@ -132,6 +135,7 @@ describe("reference parser", () => {
 
     expect(data.curriculum).toHaveLength(522);
     expect(data.kanji).toHaveLength(642);
-    expect(data.quizPool).toHaveLength(2622);
+    expect(data.quizPool).toHaveLength(998);
+    expect(data.quizPool.every((item) => item.metadata.quizType === "meaning")).toBe(true);
   });
 });

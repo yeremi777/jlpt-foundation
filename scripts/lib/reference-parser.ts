@@ -356,28 +356,7 @@ function buildQuizPool(
     },
   }));
 
-  const kanjiReadingItems = kanji.flatMap<QuizPoolItem>((entry) =>
-    entry.examples.map((example, index) => ({
-      id: `${entry.id}-compound-${index + 1}`,
-      level: entry.level,
-      section: "kanji",
-      sourceItemId: entry.id,
-      generationMode: "dataset",
-      prompt: example,
-      answer: {
-        en: entry.meaning.en,
-        id: entry.meaning.id,
-      },
-      metadata: {
-        quizType: "compound",
-        character: entry.character,
-        week: entry.week,
-        day: entry.day,
-      },
-    })),
-  );
-
-  return [...grammarItems, ...kanjiMeaningItems, ...kanjiReadingItems];
+  return [...grammarItems, ...kanjiMeaningItems];
 }
 
 function nextSequence(context: { sequence: number }): number {

@@ -11,7 +11,7 @@ import { buildSystemPrompt, buildUserPrompt } from "./ai-quiz-prompts.js";
 import {
   buildAiQuizNormalizationContext,
   buildAiQuizOutputSchema,
-  mapAiQuizQuestionToGenerated,
+  mapAiQuizQuestionsToGenerated,
   parseAiQuizQuestionsPayload,
 } from "./ai-quiz-response.js";
 
@@ -64,6 +64,10 @@ export class OpenAiQuizGenerator implements AiQuizGenerator {
     });
 
     const payload = parseAiQuizQuestionsPayload(response.output_text);
+    const mapped = mapAiQuizQuestionsToGenerated(payload.questions, input, {
+      idPrefix: "ai",
+      normalizationContext,
+    });
 
     return {
       id: randomUUID(),
@@ -71,15 +75,10 @@ export class OpenAiQuizGenerator implements AiQuizGenerator {
       section: input.section,
       generationMode: "ai_generated",
       quizTypes: input.quizTypes,
-      questions: payload.questions
-        .slice(0, input.count)
-        .map((question, index) =>
-          mapAiQuizQuestionToGenerated(question, input, index, {
-            idPrefix: "ai",
-            normalizationContext,
-          }),
-        ),
+      questions: mapped.questions,
+      ...(mapped.skippedInvalidQuestions > 0
+        ? { skippedInvalidQuestions: mapped.skippedInvalidQuestions }
+        : {}),
     };
   }
 }
-

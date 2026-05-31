@@ -383,6 +383,49 @@ export function mapAiQuizQuestionToGenerated(
   };
 }
 
+export function mapAiQuizQuestionsToGenerated(
+  questions: readonly AiRawQuizQuestion[],
+  input: GenerateQuizInput,
+  options: {
+    readonly idPrefix: string;
+    readonly normalizationContext: AiQuizNormalizationContext;
+  },
+): {
+  readonly questions: readonly GeneratedQuizQuestion[];
+  readonly skippedInvalidQuestions: number;
+} {
+  const generated: GeneratedQuizQuestion[] = [];
+  let skippedInvalidQuestions = 0;
+
+  for (const question of questions) {
+    if (generated.length >= input.count) {
+      break;
+    }
+
+    try {
+      generated.push(
+        mapAiQuizQuestionToGenerated(question, input, generated.length, options),
+      );
+    } catch (error) {
+      if (!(error instanceof BadRequestError)) {
+        throw error;
+      }
+      skippedInvalidQuestions += 1;
+    }
+  }
+
+  if (generated.length === 0) {
+    throw new BadRequestError(
+      "AI quiz response did not include any usable questions.",
+    );
+  }
+
+  return {
+    questions: generated,
+    skippedInvalidQuestions,
+  };
+}
+
 export function isAiRawQuizQuestion(value: unknown): value is AiRawQuizQuestion {
   if (typeof value !== "object" || value === null) {
     return false;
@@ -448,6 +491,10 @@ function normalizeLocalizedQuestion(
     normalizationContext,
   );
 
+  if (quizType === "compound" && !poolItem) {
+    return normalizeAiGeneratedLocalizedQuestion(question, quizType);
+  }
+
   if (!poolItem) {
     throw new BadRequestError(
       `No dataset pool item found for ${quizType} question ${question.sourceItemId}.`,
@@ -480,6 +527,70 @@ function normalizeLocalizedQuestion(
     answerKey: correctChoice.key,
     answer: poolItem.answer,
   };
+}
+
+function normalizeAiGeneratedLocalizedQuestion(
+  question: AiRawQuizQuestion,
+  quizType: "meaning" | "compound",
+): NormalizedLocalizedQuestion {
+  const choices = question.choices.map((choice) => ({
+    key: choice.key,
+    answer: coerceLocalizedAnswer(choice.answer),
+  }));
+  const answer = coerceLocalizedAnswer(question.answer);
+  const keyedChoice = choices.find((choice) => choice.key === question.answerKey);
+  const matchingChoice = choices.find((choice) =>
+    isSameLocalizedAnswer(choice.answer, answer),
+  );
+  const correctChoice = matchingChoice ?? keyedChoice;
+
+  if (!correctChoice) {
+    throw new BadRequestError(
+      `AI ${quizType} quiz response did not include the correct answer choice.`,
+    );
+  }
+
+  if (hasDuplicateLocalizedChoices(choices)) {
+    throw new BadRequestError(
+      `AI ${quizType} quiz response contained duplicate choices.`,
+    );
+  }
+
+  return {
+    prompt: formatLocalizedPrompt(quizType, question.prompt),
+    choices,
+    answerKey: correctChoice.key,
+    answer: correctChoice.answer,
+  };
+}
+
+function coerceLocalizedAnswer(value: unknown): LocalizedText {
+  if (typeof value !== "object" || value === null) {
+    throw new BadRequestError("AI localized quiz answer must be an object.");
+  }
+
+  const candidate = value as Partial<LocalizedText>;
+  const en = typeof candidate.en === "string" ? candidate.en.trim() : "";
+  const id = typeof candidate.id === "string" ? candidate.id.trim() : "";
+
+  if (!en || !id) {
+    throw new BadRequestError("AI localized quiz answer must include en and id.");
+  }
+
+  if (containsJapaneseScript(en) || containsJapaneseScript(id)) {
+    throw new BadRequestError(
+      "AI localized quiz answer must use English and Indonesian meanings only.",
+    );
+  }
+
+  return { en, id };
+}
+
+function hasDuplicateLocalizedChoices(
+  choices: readonly { readonly answer: LocalizedText }[],
+): boolean {
+  const keys = choices.map((choice) => `${choice.answer.en}\0${choice.answer.id}`);
+  return new Set(keys).size !== keys.length;
 }
 
 function findPoolItemForLocalizedQuestion(

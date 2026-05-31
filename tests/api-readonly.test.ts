@@ -108,16 +108,19 @@ describe("read-only API", () => {
     expect(body.data).toHaveLength(10);
     expect(body.paginate).toEqual({
       currentPage: 1,
-      lastPage: 43,
+      lastPage: 11,
       size: 10,
       from: 1,
       to: 10,
-      total: 423,
+      total: 108,
     });
     expect(body.data[0]).toMatchObject({
       level: "n5",
       section: "kanji",
       generationMode: "dataset",
+      metadata: {
+        quizType: "meaning",
+      },
     });
   });
 
@@ -133,11 +136,11 @@ describe("read-only API", () => {
     expect(body.data).toHaveLength(10);
     expect(body.paginate).toEqual({
       currentPage: 2,
-      lastPage: 43,
+      lastPage: 11,
       size: 10,
       from: 11,
       to: 20,
-      total: 423,
+      total: 108,
     });
   });
 

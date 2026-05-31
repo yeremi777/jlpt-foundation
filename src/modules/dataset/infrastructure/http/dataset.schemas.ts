@@ -162,6 +162,7 @@ const generatedQuizSchema = {
       type: "array",
       items: generatedQuizQuestionSchema,
     },
+    skippedInvalidQuestions: { type: "number" },
   },
   required: ["id", "level", "section", "generationMode", "quizTypes", "questions"],
 } as const;

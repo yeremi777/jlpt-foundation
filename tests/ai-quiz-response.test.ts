@@ -10,6 +10,7 @@ import {
   formatLocalizedPrompt,
   formatReadingPrompt,
   mapAiQuizQuestionToGenerated,
+  mapAiQuizQuestionsToGenerated,
 } from "../src/modules/dataset/infrastructure/ai/ai-quiz-response.js";
 
 const meaningPool = [
@@ -133,6 +134,43 @@ describe("ai quiz response", () => {
     assertLocalizedAnswers(question.answer, question.choices.map((choice) => choice.answer));
   });
 
+  it("accepts AI-generated compound answers when dataset only has kanji meaning context", () => {
+    const question = mapAiQuizQuestionToGenerated(
+      {
+        sourceItemId: "n3-kanji-u6307",
+        prompt: "指示",
+        quizType: "compound",
+        choices: [
+          { key: "A", answer: { en: "instruction, direction", id: "instruksi, arahan" } },
+          { key: "B", answer: { en: "pipe, tube", id: "pipa, tabung" } },
+          { key: "C", answer: { en: "period, term", id: "periode, jangka waktu" } },
+          { key: "D", answer: { en: "machine, opportunity", id: "mesin, kesempatan" } },
+        ],
+        answerKey: "A",
+        answer: { en: "instruction, direction", id: "instruksi, arahan" },
+      },
+      requestInput("compound"),
+      0,
+      {
+        idPrefix: "test",
+        normalizationContext: buildAiQuizNormalizationContext(meaningPool),
+      },
+    );
+
+    if (question.quizType !== "compound") {
+      throw new Error("expected compound question");
+    }
+
+    expect(question.prompt).toBe("指示");
+    expect(question.answer).toEqual({
+      en: "instruction, direction",
+      id: "instruksi, arahan",
+    });
+    expect(question.isAiGenerated).toBe(true);
+    expect(question.isVerified).toBe(false);
+    assertLocalizedAnswers(question.answer, question.choices.map((choice) => choice.answer));
+  });
+
   it("repairs bad reading output from dataset metadata", () => {
     const question = mapAiQuizQuestionToGenerated(
       {
@@ -196,6 +234,55 @@ describe("ai quiz response", () => {
         { idPrefix: "test", normalizationContext: context },
       ),
     ).toThrow("Reading quiz generation failed");
+  });
+
+  it("skips invalid AI questions and reports the skipped count", () => {
+    const mapped = mapAiQuizQuestionsToGenerated(
+      [
+        {
+          sourceItemId: "n3-kanji-u713c",
+          prompt: "焼き",
+          quizType: "reading",
+          choices: [
+            { key: "A", answer: "やき" },
+            { key: "B", answer: "よき" },
+            { key: "C", answer: "ひき" },
+            { key: "D", answer: "じき" },
+          ],
+          answerKey: "A",
+          answer: "やき",
+        },
+        {
+          sourceItemId: "n3-kanji-u8a8d",
+          prompt: "認識",
+          quizType: "reading",
+          choices: [
+            { key: "A", answer: "にっしき" },
+            { key: "B", answer: "にっしき" },
+            { key: "C", answer: "にっしき" },
+            { key: "D", answer: "にっしき" },
+          ],
+          answerKey: "A",
+          answer: "にっしき",
+        },
+      ],
+      {
+        ...requestInput("reading"),
+        count: 2,
+      },
+      {
+        idPrefix: "test",
+        normalizationContext: buildAiQuizNormalizationContext(meaningPool),
+      },
+    );
+
+    expect(mapped.skippedInvalidQuestions).toBe(1);
+    expect(mapped.questions).toHaveLength(1);
+    expect(mapped.questions[0]).toMatchObject({
+      sourceItemId: "n3-kanji-u713c",
+      prompt: "焼き（　　）",
+      answer: "やき",
+    });
   });
 });
 

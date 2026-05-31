@@ -114,4 +114,5 @@ export interface GeneratedQuiz {
   readonly generationMode: QuizGenerationMode;
   readonly quizTypes: readonly QuizType[];
   readonly questions: readonly GeneratedQuizQuestion[];
+  readonly skippedInvalidQuestions?: number;
 }

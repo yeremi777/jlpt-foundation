@@ -205,14 +205,6 @@ function isSameAnswer(first: LocalizedText, second: LocalizedText): boolean {
   return first.en === second.en && first.id === second.id;
 }
 
-function asStringArray(value: unknown): string[] {
-  if (!Array.isArray(value)) {
-    return [];
-  }
-
-  return value.filter((entry): entry is string => typeof entry === "string");
-}
-
 function asOptionalString(value: unknown): string | undefined {
   return typeof value === "string" && value.trim() ? value.trim() : undefined;
 }
