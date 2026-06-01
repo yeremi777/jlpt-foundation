@@ -7,10 +7,12 @@ import type {
 } from "../src/modules/dataset/application/types/dataset.type.js";
 import {
   buildAiQuizNormalizationContext,
+  buildAiQuizOutputSchema,
   formatLocalizedPrompt,
   formatReadingPrompt,
   mapAiQuizQuestionToGenerated,
   mapAiQuizQuestionsToGenerated,
+  parseAiQuizQuestionsPayload,
 } from "../src/modules/dataset/infrastructure/ai/ai-quiz-response.js";
 
 const meaningPool = [
@@ -64,6 +66,52 @@ const compoundPool = [
 ];
 
 describe("ai quiz response", () => {
+  it("parses raw, fenced, and text-wrapped AI JSON payloads", () => {
+    const payload = {
+      questions: [rawMeaningQuestion()],
+    };
+    const rawJson = JSON.stringify(payload);
+
+    expect(parseAiQuizQuestionsPayload(rawJson)).toEqual(payload);
+    expect(parseAiQuizQuestionsPayload("```json\n" + rawJson + "\n```")).toEqual(payload);
+    expect(
+      parseAiQuizQuestionsPayload(`Here is the quiz payload:\n${rawJson}\nThanks!`),
+    ).toEqual(payload);
+  });
+
+  it("rejects invalid AI JSON payloads", () => {
+    expect(() => parseAiQuizQuestionsPayload("not json")).toThrow(
+      "AI quiz response was not valid JSON.",
+    );
+  });
+
+  it("rejects AI JSON that does not match the question shape", () => {
+    expect(() =>
+      parseAiQuizQuestionsPayload(
+        JSON.stringify({ questions: [{ ...rawMeaningQuestion(), choices: [] }] }),
+      ),
+    ).toThrow("AI quiz response did not match the expected shape.");
+  });
+
+  it("builds localized, reading, and mixed AI output schemas", () => {
+    const localizedSchema = buildAiQuizOutputSchema(["meaning", "compound"]);
+    const readingSchema = buildAiQuizOutputSchema(["reading"]);
+    const mixedSchema = buildAiQuizOutputSchema(["meaning", "reading"]);
+
+    expect(getQuestionSchema(localizedSchema)).toMatchObject({
+      properties: { quizType: { enum: ["meaning", "compound"] } },
+    });
+    expect(getQuestionSchema(readingSchema)).toMatchObject({
+      properties: { quizType: { enum: ["reading"] } },
+    });
+    expect(getQuestionSchema(mixedSchema)).toMatchObject({
+      oneOf: [
+        { properties: { quizType: { enum: ["meaning", "compound"] } } },
+        { properties: { quizType: { enum: ["reading"] } } },
+      ],
+    });
+  });
+
   it("formats prompts for each quiz type", () => {
     expect(formatLocalizedPrompt("meaning", "指（シ、ゆび）")).toBe("指");
     expect(formatLocalizedPrompt("compound", "了解（りょうかい）")).toBe("了解");
@@ -329,6 +377,28 @@ describe("ai quiz response", () => {
     });
   });
 });
+
+function rawMeaningQuestion() {
+  return {
+    sourceItemId: "n3-kanji-u6307",
+    prompt: "指",
+    quizType: "meaning",
+    choices: [
+      { key: "A", answer: { en: "finger", id: "jari" } },
+      { key: "B", answer: { en: "period", id: "periode" } },
+      { key: "C", answer: { en: "pipe", id: "pipa" } },
+      { key: "D", answer: { en: "machine", id: "mesin" } },
+    ],
+    answerKey: "A",
+    answer: { en: "finger", id: "jari" },
+  } as const;
+}
+
+function getQuestionSchema(
+  schema: ReturnType<typeof buildAiQuizOutputSchema>,
+): unknown {
+  return schema.properties.questions.items;
+}
 
 function quizPoolItem(
   id: string,

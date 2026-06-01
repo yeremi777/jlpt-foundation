@@ -10,7 +10,7 @@
 | Kanji | On | Kun | English | Indonesian | Examples |
 |-------|----|-----|---------|------------|---------|
 | 駐 | チュウ | — | park vehicles, station troops | parkir kendaraan, menempatkan pasukan | 駐車、駐車場 |
-| 無 | ム | ない | nothing, without, non- | tidak ada, tanpa, niir- | 無休、無理な、無料、無い |
+| 無 | ム | ない | nothing, without, non- | tidak ada, tanpa, non- | 無休、無理な、無料、無い |
 | 満 | マン | — | full, satisfy, fulfill | penuh, memuaskan | 満車、満員、不満な |
 | 向 | コウ | むこう、むかう、むき | direction, facing, toward | arah, menghadap, menuju | 方向、向かう、向こう、〇〇向き |
 | 禁 | キン | — | prohibit, forbid, ban | melarang, larangan, dilarang | 禁止 |
@@ -229,7 +229,7 @@
 | 粉 | — | こな、こ | powder, flour, dust | bubuk, tepung | 粉、小麦粉 |
 | 袋 | — | ふくろ | bag, sack, pouch | kantong, tas, karung | 袋、ごみ袋、紙袋、手袋、足袋 |
 | 混 | コン | まぜる | mix, blend, mingle, crowded | mencampur, aduk, campur aduk | 混雑、混ぜる |
-| 焼 | — | やく、やける | burn, roast, grill, bake | memanggang, membakar, memanggang | 焼く、焼ける |
+| 焼 | — | やく、やける | burn, roast, grill, bake | memanggang, membakar, terbakar | 焼く、焼ける |
 | 表 | ヒョウ | おもて、あらわす | surface, table, express, announce | permukaan, tabel, mengumumkan | 表、発表、表面、代表、表す |
 | 裏 | — | うら | reverse, back, inside, hidden | belakang, sisi dalam, tersembunyi | 裏、裏返す |
 
@@ -275,7 +275,7 @@
 ### Day 1 — 日用品 (Daily Necessities)
 | Kanji | On | Kun | English | Indonesian | Examples |
 |-------|----|-----|---------|------------|---------|
-| 砂 | サ | すな | sand, sugar (in 砂糖) | pasir, gula | 砂糖、砂 |
+| 砂 | サ | すな | sand | pasir | 砂糖、砂 |
 | 塩 | エン | しお | salt | garam | 食塩、塩 |
 | 油 | ユ | あぶら | oil, fat | minyak, lemak | しょう油、灯油、石油、油 |
 | 緑 | リョク | みどり | green | hijau | 緑茶、緑(色) |
@@ -464,7 +464,7 @@
 | Kanji | On | Kun | English | Indonesian | Examples |
 |-------|----|-----|---------|------------|---------|
 | 求 | キュウ | もとめる | demand, request, seek, want | meminta, menuntut, mencari | 要求、請求書、求人、求める |
-| 募 | ボ | — | recruit, solicit,募集 | merekrut, mencari, penggalangan | 募集 |
+| 募 | ボ | — | recruit, solicit | merekrut, mencari | 募集 |
 | 職 | ショク | — | occupation, workplace, employee | pekerjaan, tempat kerja, pegawai | 職場、職業、転職、職員 |
 | 容 | ヨウ | — | contain, form, appearance, contents | berisi, penampilan, isi, konten | 美容院、内容 |
 | 技 | ギ | — | technique, skill, technology | teknik, keahlian, teknologi | 技術、技術者 |
@@ -489,7 +489,7 @@
 |-------|----|-----|---------|------------|---------|
 | 戦 | セン | たたかう | fight, war, battle, compete | berperang, pertempuran, bersaing | 戦後、戦争、戦う |
 | 経 | ケイ | — | pass through, manage, experience | melewati, mengelola, pengalaman | 経験、経営 |
-| 済 | サイ | すむ | finish, economy,済む | menyelesaikan, ekonomi, selesai | 経済、済む |
+| 済 | サイ | すむ | finish, settle, economy | menyelesaikan, selesai, ekonomi | 経済、済む |
 | 成 | セイ | — | grow, become, complete, achieve | tumbuh, menjadi, selesai, mencapai | 成長、完成 |
 | 貿 | ボウ | — | trade, commerce | perdagangan, niaga | 貿易 |
 | 易 | エキ | やさしい | easy, trade, simple, plain | mudah, perdagangan, sederhana | 貿易、易しい |
