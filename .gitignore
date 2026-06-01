@@ -176,6 +176,7 @@ test/https/fastify.key
 # Agents files
 CLAUDE.md
 AGENTS.md
+TASKS.md
 .agents/
 .agent
 .claude
