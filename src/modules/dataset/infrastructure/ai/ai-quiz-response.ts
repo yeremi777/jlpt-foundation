@@ -145,7 +145,9 @@ export interface AiQuizQuestionsPayload {
   readonly questions: readonly AiRawQuizQuestion[];
 }
 
-export function parseAiQuizQuestionsPayload(text: string): AiQuizQuestionsPayload {
+export function parseAiQuizQuestionsPayload(
+  text: string,
+): AiQuizQuestionsPayload {
   let parsed: unknown;
 
   try {
@@ -306,8 +308,12 @@ export function buildAiQuizNormalizationContext(
   return {
     poolItemsBySourceId,
     poolItemsByCompoundPrompt,
-    meaningPoolItems: context.filter((item) => item.metadata.quizType === "meaning"),
-    compoundPoolItems: context.filter((item) => item.metadata.quizType === "compound"),
+    meaningPoolItems: context.filter(
+      (item) => item.metadata.quizType === "meaning",
+    ),
+    compoundPoolItems: context.filter(
+      (item) => item.metadata.quizType === "compound",
+    ),
     contextReadings: [...readingSet],
   };
 }
@@ -322,7 +328,9 @@ export function mapAiQuizQuestionToGenerated(
   },
 ): GeneratedQuizQuestion {
   if (!input.quizTypes.includes(question.quizType)) {
-    throw new BadRequestError("AI quiz response used an unrequested quiz type.");
+    throw new BadRequestError(
+      "AI quiz response used an unrequested quiz type.",
+    );
   }
 
   const poolItem = options.normalizationContext.poolItemsBySourceId.get(
@@ -404,7 +412,12 @@ export function mapAiQuizQuestionsToGenerated(
 
     try {
       generated.push(
-        mapAiQuizQuestionToGenerated(question, input, generated.length, options),
+        mapAiQuizQuestionToGenerated(
+          question,
+          input,
+          generated.length,
+          options,
+        ),
       );
     } catch (error) {
       if (!(error instanceof BadRequestError)) {
@@ -426,7 +439,9 @@ export function mapAiQuizQuestionsToGenerated(
   };
 }
 
-export function isAiRawQuizQuestion(value: unknown): value is AiRawQuizQuestion {
+export function isAiRawQuizQuestion(
+  value: unknown,
+): value is AiRawQuizQuestion {
   if (typeof value !== "object" || value === null) {
     return false;
   }
@@ -475,7 +490,10 @@ export function formatLocalizedPrompt(
 
 interface NormalizedLocalizedQuestion {
   readonly prompt: string;
-  readonly choices: readonly { readonly key: QuizChoiceKey; readonly answer: LocalizedText }[];
+  readonly choices: readonly {
+    readonly key: QuizChoiceKey;
+    readonly answer: LocalizedText;
+  }[];
   readonly answerKey: QuizChoiceKey;
   readonly answer: LocalizedText;
 }
@@ -538,7 +556,9 @@ function normalizeAiGeneratedLocalizedQuestion(
     answer: coerceLocalizedAnswer(choice.answer),
   }));
   const answer = coerceLocalizedAnswer(question.answer);
-  const keyedChoice = choices.find((choice) => choice.key === question.answerKey);
+  const keyedChoice = choices.find(
+    (choice) => choice.key === question.answerKey,
+  );
   const matchingChoice = choices.find((choice) =>
     isSameLocalizedAnswer(choice.answer, answer),
   );
@@ -574,7 +594,9 @@ function coerceLocalizedAnswer(value: unknown): LocalizedText {
   const id = typeof candidate.id === "string" ? candidate.id.trim() : "";
 
   if (!en || !id) {
-    throw new BadRequestError("AI localized quiz answer must include en and id.");
+    throw new BadRequestError(
+      "AI localized quiz answer must include en and id.",
+    );
   }
 
   if (containsJapaneseScript(en) || containsJapaneseScript(id)) {
@@ -589,7 +611,9 @@ function coerceLocalizedAnswer(value: unknown): LocalizedText {
 function hasDuplicateLocalizedChoices(
   choices: readonly { readonly answer: LocalizedText }[],
 ): boolean {
-  const keys = choices.map((choice) => `${choice.answer.en}\0${choice.answer.id}`);
+  const keys = choices.map(
+    (choice) => `${choice.answer.en}\0${choice.answer.id}`,
+  );
   return new Set(keys).size !== keys.length;
 }
 
@@ -607,7 +631,8 @@ function findPoolItemForLocalizedQuestion(
   const promptMatch = siblings.find(
     (item) =>
       item.sourceItemId === question.sourceItemId &&
-      (item.prompt === promptText || extractPromptText(item.prompt) === promptText),
+      (item.prompt === promptText ||
+        extractPromptText(item.prompt) === promptText),
   );
 
   if (promptMatch) {
@@ -615,7 +640,8 @@ function findPoolItemForLocalizedQuestion(
   }
 
   if (quizType === "compound") {
-    const byPrompt = normalizationContext.poolItemsByCompoundPrompt.get(promptText);
+    const byPrompt =
+      normalizationContext.poolItemsByCompoundPrompt.get(promptText);
     if (byPrompt) {
       return byPrompt;
     }
@@ -633,7 +659,10 @@ function buildLocalizedChoices(
     ...new Map(
       distractors
         .filter((distractor) => !isSameLocalizedAnswer(distractor, answer))
-        .map((distractor) => [`${distractor.en}\0${distractor.id}`, distractor]),
+        .map((distractor) => [
+          `${distractor.en}\0${distractor.id}`,
+          distractor,
+        ]),
     ).values(),
   ];
 
@@ -652,7 +681,10 @@ function buildLocalizedChoices(
   }));
 }
 
-function isSameLocalizedAnswer(first: LocalizedText, second: LocalizedText): boolean {
+function isSameLocalizedAnswer(
+  first: LocalizedText,
+  second: LocalizedText,
+): boolean {
   return first.en === second.en && first.id === second.id;
 }
 
@@ -695,7 +727,9 @@ function finalizeReadingQuestion(
     key: choice.key,
     answer: choice.answer.trim(),
   }));
-  const correctChoice = choices.find((choice) => choice.key === question.answerKey);
+  const correctChoice = choices.find(
+    (choice) => choice.key === question.answerKey,
+  );
 
   return {
     sourceItemId: question.sourceItemId,
@@ -763,22 +797,26 @@ function repairReadingQuestion(
       question.choices
         .map((choice) => choice.answer.trim())
         .filter(
-          (answer) =>
-            isValidKanaReading(answer) && answer !== primaryReading,
+          (answer) => isValidKanaReading(answer) && answer !== primaryReading,
         ),
     ),
   ];
 
   const distractors = [
     ...salvagedDistractors,
-    ...pickReadingDistractors(primaryReading, normalizationContext.contextReadings),
+    ...pickReadingDistractors(
+      primaryReading,
+      normalizationContext.contextReadings,
+    ),
   ]
     .filter((answer, index, answers) => answers.indexOf(answer) === index)
     .filter((answer) => answer !== primaryReading)
     .slice(0, 3);
 
   const choices = buildReadingChoices(primaryReading, distractors);
-  const correctChoice = choices.find((choice) => choice.answer === primaryReading);
+  const correctChoice = choices.find(
+    (choice) => choice.answer === primaryReading,
+  );
 
   if (!correctChoice) {
     throw new BadRequestError(
@@ -842,7 +880,8 @@ function pickReadingFromPoolMetadata(
   normalizationContext: AiQuizNormalizationContext,
 ): string | undefined {
   const compound = extractPromptText(question.prompt);
-  const compoundItem = normalizationContext.poolItemsByCompoundPrompt.get(compound);
+  const compoundItem =
+    normalizationContext.poolItemsByCompoundPrompt.get(compound);
   const compoundReading = asOptionalString(compoundItem?.metadata.reading);
 
   if (compoundReading && isValidKanaReading(compoundReading)) {
@@ -862,7 +901,9 @@ function findFirstValidReadingChoice(
   return choices.find((choice) => isValidKanaReading(choice.answer));
 }
 
-function hasDuplicateReadingChoices(choices: readonly ReadingQuizChoice[]): boolean {
+function hasDuplicateReadingChoices(
+  choices: readonly ReadingQuizChoice[],
+): boolean {
   const normalizedChoices = choices.map((choice) => choice.answer.trim());
   return new Set(normalizedChoices).size !== normalizedChoices.length;
 }
@@ -960,10 +1001,10 @@ function pickReadingDistractors(
   }
 
   const fallbacks = ["あい", "うえ", "かき", "くけ", "さし", "たて"];
-  return [...unique, ...fallbacks.filter((reading) => reading !== correctReading)].slice(
-    0,
-    3,
-  );
+  return [
+    ...unique,
+    ...fallbacks.filter((reading) => reading !== correctReading),
+  ].slice(0, 3);
 }
 
 function buildReadingChoices(

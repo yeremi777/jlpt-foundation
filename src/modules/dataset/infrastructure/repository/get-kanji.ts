@@ -14,7 +14,7 @@ export async function getKanji(
   }
 
   const data = await readJson<readonly KanjiItem[]>(
-    `data/normalized/${level}/kanji.json`,
+    `public/data/normalized/${level}/kanji.json`,
   );
   cache.set(level, data);
   return data;

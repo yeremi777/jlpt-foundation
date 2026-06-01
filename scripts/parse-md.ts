@@ -5,7 +5,7 @@ import { parseRawDataset } from "./lib/raw-parser.js";
 import { JlptLevel } from "./lib/reference-types.js";
 
 const rootDir = path.resolve(new URL("..", import.meta.url).pathname);
-const outputDir = path.join(rootDir, "data/normalized");
+const outputDir = path.join(rootDir, "public/data/normalized");
 
 const { items } = await parseRawDataset();
 

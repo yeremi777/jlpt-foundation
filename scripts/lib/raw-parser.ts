@@ -16,7 +16,7 @@ import { CurriculumSection, JlptLevel, LocalizedText, SourceRef } from "./refere
 const ROOT_DIR = path.resolve(new URL("../..", import.meta.url).pathname);
 
 export async function parseRawDataset(): Promise<RawParseResult> {
-  const rawDir = path.join(ROOT_DIR, "data/raw");
+  const rawDir = path.join(ROOT_DIR, "public/data/raw");
   const files = await findMarkdownFiles(rawDir);
   const items = await Promise.all(files.map((filePath) => parseRawItemFile(filePath)));
 

@@ -4,7 +4,7 @@ import { parseLevelReferences } from "./lib/reference-parser.js";
 import { CurriculumEntry, JlptLevel, KanjiReferenceEntry } from "./lib/reference-types.js";
 
 const rootDir = path.resolve(new URL("..", import.meta.url).pathname);
-const rawDir = path.join(rootDir, "data/raw");
+const rawDir = path.join(rootDir, "public/data/raw");
 const levels: readonly JlptLevel[] = ["n5", "n4", "n3"];
 
 await rm(rawDir, { recursive: true, force: true });
@@ -32,7 +32,7 @@ console.log(JSON.stringify(
   {
     generated,
     rawDir,
-    sources: levels.map((level) => `data/reference/${level}/${level}_kanji_list.md`),
+    sources: levels.map((level) => `public/data/reference/${level}/${level}_kanji_list.md`),
   },
   null,
   2,

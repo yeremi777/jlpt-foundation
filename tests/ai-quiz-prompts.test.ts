@@ -29,13 +29,17 @@ describe("ai quiz prompts", () => {
     expect(prompt).toContain("reading: create a common JLPT word");
     expect(prompt).toContain("visibly contains context.kanji");
     expect(prompt).toContain("never use a single kanji alone");
-    expect(prompt).toContain("kana strings only");
+    expect(prompt).toContain("kana-only readings");
     expect(prompt).toContain("avoid repeating the same answerKey back-to-back");
   });
 
   it("uses meaning kanji context for compound and reading requests", () => {
-    expect(filterContextForQuizTypes(meaningPool, ["compound"])).toEqual(meaningPool);
-    expect(filterContextForQuizTypes(meaningPool, ["reading"])).toEqual(meaningPool);
+    expect(filterContextForQuizTypes(meaningPool, ["compound"])).toEqual(
+      meaningPool,
+    );
+    expect(filterContextForQuizTypes(meaningPool, ["reading"])).toEqual(
+      meaningPool,
+    );
   });
 
   it("includes kanji readings in the user prompt context", () => {
@@ -76,7 +80,9 @@ describe("ai quiz prompts", () => {
         {},
       ),
     );
-    const payload = JSON.parse(buildUserPrompt(requestInput(["reading"]), pool)) as {
+    const payload = JSON.parse(
+      buildUserPrompt(requestInput(["reading"]), pool),
+    ) as {
       readonly context: readonly unknown[];
     };
 

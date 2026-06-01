@@ -14,7 +14,7 @@ export async function getQuizPool(
   }
 
   const data = await readJson<readonly QuizPoolItem[]>(
-    `data/normalized/${level}/quiz-pool.json`,
+    `public/data/normalized/${level}/quiz-pool.json`,
   );
   cache.set(level, data);
   return data;

@@ -48,7 +48,7 @@ export async function parseN3References(): Promise<ParsedReferenceData> {
 }
 
 export async function parseLevelReferences(level: JlptLevel): Promise<ParsedReferenceData> {
-  const referenceDir = path.join(ROOT_DIR, `data/reference/${level}`);
+  const referenceDir = path.join(ROOT_DIR, `public/data/reference/${level}`);
   const curriculumPath = path.join(referenceDir, `${level}_curriculum_toc.md`);
   const kanjiPath = path.join(referenceDir, `${level}_kanji_list.md`);
 

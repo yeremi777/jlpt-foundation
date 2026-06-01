@@ -10,7 +10,7 @@ const levels: readonly JlptLevel[] = ["n5", "n4", "n3"];
 const generated: Record<string, { curriculumEntries: number; kanjiEntries: number; quizPoolItems: number }> = {};
 
 for (const level of levels) {
-  const outputDir = path.join(rootDir, `data/normalized/${level}`);
+  const outputDir = path.join(rootDir, `public/data/normalized/${level}`);
   const data = await parseLevelReferences(level);
   const validation = validateReferenceData(data);
 
